@@ -1,0 +1,1203 @@
+{
+  "client": "Melani the Label",
+  "brand_display_name": "M\u00c9LANI",
+  "brand_voice": "Sensual and precise. The brand positions its pieces as something between occasion wear and everyday luxury \u2014 clothes a woman reaches for because they fit well and feel considered, not because they were marketed at her. Copy should feel like advice from someone who knows the range, not a product description.",
+  "tone_direction": "Specific, quietly confident, grounded in product detail. Avoid aspirational filler. Avoid competitive comparisons not supported by the brief. Lead with what the garment does \u2014 fit, fabric, occasion \u2014 not with how it makes you feel in abstract terms.",
+  "domain": "melanithelabel.com",
+  "market_scope": "AU+US",
+  "se_ranking": {
+    "project_id": 12019802,
+    "engines": {
+      "AU": 1176139,
+      "US": 1179880
+    },
+    "keyword_count": 139,
+    "pair_count": 278,
+    "last_synced": "2026-05-10"
+  },
+  "drive": {
+    "client_folder_id": "1HWLcsHS38P5u_d_vfrWux3LaRVln9iMJ",
+    "folders": {
+      "03_audits": "1j_tdnIT0mia1rJz0P2DU4zcs19jpQzS6",
+      "07_reports": "1Gfvxg4DuAzv_W5bGBJ62r09ap0woX6Eu",
+      "05_content": "1FgN47UW7vxWD3gD2KIcyghgy0ID8tcGI"
+    },
+    "service_account_move_required": true
+  },
+  "monday": {
+    "board_id": 5028353257,
+    "groups": {
+      "current_month": "group_title"
+    }
+  },
+  "ga4_property": "properties/369346274",
+  "usp": "Free shipping on orders over $100",
+  "deliverables": {
+    "metadata_suggestions_sheet": {
+      "id": "1mdtafbzz2yfnaKL-ux0q0RvnkBeJEnnDedGdgF28PRo",
+      "url": "https://docs.google.com/spreadsheets/d/1mdtafbzz2yfnaKL-ux0q0RvnkBeJEnnDedGdgF28PRo/edit",
+      "updated": "2026-05-10",
+      "coverage": "27 of 27 SEO-priority collections"
+    },
+    "competitor_serp_json": {
+      "path": "docs/melani-serp-scrape-2026-05-10.json",
+      "updated": "2026-05-10",
+      "coverage": "27 of 27 SEO-priority collections"
+    },
+    "collection_content_briefs": {
+      "updated": "2026-05-10",
+      "coverage": "27 of 27 Google Docs created; 27 of 27 Monday tasks created",
+      "folder_id": "1FgN47UW7vxWD3gD2KIcyghgy0ID8tcGI",
+      "document_count": 27,
+      "status": "docs_and_tasks_created",
+      "monday_board_id": 5028353257,
+      "monday_group_id": "group_title",
+      "monday_task_count": 27,
+      "folder_name": "05 Content",
+      "critique_doc_id": "1b73AMrNjpT3SydIwuiXvXGazN7oPZR1cP-RNJtc8cpA",
+      "critique_doc_url": "https://docs.google.com/document/d/1b73AMrNjpT3SydIwuiXvXGazN7oPZR1cP-RNJtc8cpA/edit",
+      "qa_status": "ready_for_writer_with_warnings",
+      "gsc_export_path": "/tmp/melani-gsc-collection-opportunities.json",
+      "gsc_date_range": "2026-02-06 to 2026-05-07",
+      "supplemental_keywords_path": "/tmp/melani-supplemental-keywords-seranking.json",
+      "validation": {
+        "blocking_count": 0,
+        "warning_count": 11
+      }
+    }
+  },
+  "collections": [
+    {
+      "slug": "dresses",
+      "url": "https://melanithelabel.com/collections/dresses",
+      "class": "curated_edit",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "JOSEFINA",
+        "EVE TOP",
+        "MARBELLA SKIRT",
+        "MARTINA SKIRT (PRE-ORDER)",
+        "ELLA CROP (PRE-ORDER)"
+      ],
+      "primary_keyword": "womens dresses",
+      "tracking_required": false,
+      "tracking_note": "Curated Shop all page; included for metadata coverage but not required in SE Ranking.",
+      "au_volume": 19100,
+      "us_volume": 201000,
+      "current_title": "Shop all \u2013 Melani the label",
+      "current_h1": "Shop all",
+      "current_meta_description": "Shop the M\u00c9LANI signature collection. Shop gowns\u2014backless, maxi, midi & mini\u2014in dreamy colours. M\u00c9LANI dresses are high-quality & versatile. Shop now.",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "https://www.twosistersthelabel.com/collections/midi-dresses",
+        "https://babyboofashion.com/collections/formal-dresses",
+        "https://www.beginningboutique.com.au/collections/formal-dresses"
+      ],
+      "content_brief_doc_id": "1GKTyQgBvVqfhQUFGQwXWEci6URFSc3sT3ftC7mipqmM",
+      "content_brief_url": "https://docs.google.com/document/d/1GKTyQgBvVqfhQUFGQwXWEci6URFSc3sT3ftC7mipqmM/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "all-dresses",
+        "gowns",
+        "lace-dresses",
+        "maxis",
+        "minis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694168624",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694168624",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 10
+    },
+    {
+      "slug": "midis",
+      "url": "https://melanithelabel.com/collections/dresses-1",
+      "class": "pure_category",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 10,
+      "sample_product_titles": [],
+      "primary_keyword": "midi dress",
+      "recovered_from_live_tracking": true,
+      "au_volume": 27100,
+      "us_volume": 74000,
+      "current_title": "Midis \u2013 Melani the label",
+      "current_h1": "Midis",
+      "current_meta_description": "Be noticed and remembered with a M\u00c9LANI midi silhouette. M\u00c9LANI dresses are Australian-made, high-quality, affordable & luxurious. Shop the midi collection",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "https://www.twosistersthelabel.com/collections/midi-dresses",
+        "https://meshki.com.au/collections/midi-dress"
+      ],
+      "content_brief_doc_id": "14pBJLQTmVWq2FdpnfA8O1OF-LtC7fzZtMJYQF-hqxMo",
+      "content_brief_url": "https://docs.google.com/document/d/14pBJLQTmVWq2FdpnfA8O1OF-LtC7fzZtMJYQF-hqxMo/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxis",
+        "long-sleeve",
+        "lace-dresses",
+        "all-dresses",
+        "gowns"
+      ],
+      "brief_status": "updated",
+      "monday_content_brief_task_id": "2694135747",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135747",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 9
+    },
+    {
+      "slug": "sets",
+      "url": "https://melanithelabel.com/collections/sets",
+      "class": "themed_category",
+      "dominant_product_type": "TOP",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "EVE TOP",
+        "MARBELLA SKIRT",
+        "ELLA CROP",
+        "MARTINA SKIRT",
+        "EMARA CROP"
+      ],
+      "primary_keyword": "two piece set",
+      "au_volume": 8000,
+      "us_volume": 40500,
+      "current_title": "Sets \u2013 Melani the label",
+      "current_h1": "Sets",
+      "status": "New",
+      "last_scraped": "2026-05-10",
+      "current_meta_description": "Look & feel divine in a set for any occasion. M\u00c9LANI sets are Australian-made, high-quality, affordable & luxurious. Shop the full collection now",
+      "competitor_top3_urls": [
+        "https://peppermayo.com/collections/two-piece-sets"
+      ],
+      "content_brief_doc_id": "1aU1HnWH0KNaOiRGMx-QXGi3xp_44v8owwKEOOpHkv78",
+      "content_brief_url": "https://docs.google.com/document/d/1aU1HnWH0KNaOiRGMx-QXGi3xp_44v8owwKEOOpHkv78/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "minis",
+        "long-sleeve-tops",
+        "crop-tops",
+        "tops",
+        "lace-tops"
+      ],
+      "brief_status": "updated",
+      "monday_content_brief_task_id": "2694158797",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158797",
+      "search_console_enriched": false,
+      "supplemental_keyword_count": 10
+    },
+    {
+      "slug": "jumpsuits",
+      "url": "https://melanithelabel.com/collections/jumpsuits",
+      "class": "themed_category",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 3,
+      "sample_product_titles": [
+        "VERA",
+        "SELENE",
+        "VERA"
+      ],
+      "primary_keyword": "jumpsuit",
+      "au_volume": 22200,
+      "us_volume": 110,
+      "current_title": "Jumpsuits \u2013 Melani the label",
+      "current_h1": "Jumpsuits",
+      "status": "Tweak",
+      "last_scraped": "2026-05-10",
+      "current_meta_description": "Crafted from signature stretch fabric, M\u00c9LANI jumpsuits are made to last and feel divine. Shop classic, backless & multi-way designs online now",
+      "competitor_top3_urls": [
+        "https://www.ohpolly.com/collections/jumpsuits"
+      ],
+      "content_brief_doc_id": "1LziLVJtI6_3gIn1B-XOvcqywwkL3tT0j8BVnaOBxIMg",
+      "content_brief_url": "https://docs.google.com/document/d/1LziLVJtI6_3gIn1B-XOvcqywwkL3tT0j8BVnaOBxIMg/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxis",
+        "all-dresses",
+        "gowns",
+        "midis",
+        "long-sleeve"
+      ],
+      "brief_status": "updated",
+      "monday_content_brief_task_id": "2694135748",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135748",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 9
+    },
+    {
+      "slug": "minis",
+      "url": "https://melanithelabel.com/collections/minis",
+      "class": "pure_category",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 2,
+      "sample_product_titles": [
+        "ESRA DRESS",
+        "ESRA DRESS"
+      ],
+      "primary_keyword": "mini dress",
+      "au_volume": 40500,
+      "us_volume": 110000,
+      "current_title": "Minis \u2013 Melani the label",
+      "current_h1": "Minis",
+      "status": "New",
+      "last_scraped": "2026-05-10",
+      "current_meta_description": "Sweet & seductive, a M\u00c9LANI mini dress is cut from a soft stretch fabric for a comfortable & elegant fit. Shop the mini collection now and dance the night away",
+      "competitor_top3_urls": [
+        "https://au.tigermist.com/collections/mini-dresses",
+        "https://www.sheike.com.au/collections/mini-dresses",
+        "https://www.perfectstranger.com.au/collections/mini-dresses"
+      ],
+      "content_brief_doc_id": "1RGFQNFOcya729UqFxh9gLjMEmZMH0KZ3_WbBIvX8hD4",
+      "content_brief_url": "https://docs.google.com/document/d/1RGFQNFOcya729UqFxh9gLjMEmZMH0KZ3_WbBIvX8hD4/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "long-sleeve-tops",
+        "crop-tops",
+        "tops",
+        "lace-tops",
+        "bodysuit"
+      ],
+      "brief_status": "updated",
+      "monday_content_brief_task_id": "2694091890",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091890",
+      "search_console_enriched": false,
+      "supplemental_keyword_count": 10
+    },
+    {
+      "slug": "gowns",
+      "url": "https://melanithelabel.com/collections/gowns",
+      "class": "themed_category",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "EVA",
+        "NATALIA",
+        "VALENTINA",
+        "CONSTANTINA",
+        "JIANI"
+      ],
+      "primary_keyword": "formal dresses",
+      "au_volume": 90500,
+      "us_volume": 201000,
+      "current_title": "Formal Gowns \u2013 Melani the label",
+      "current_h1": "Formal Gowns",
+      "status": "Tweak",
+      "last_scraped": "2026-05-10",
+      "current_meta_description": "Effortless aesthetic, timeless styles, quality fabrics & fit. M\u00c9LANI gowns are designed in Australia & shipped worldwide. Shop our signature gowns online now",
+      "competitor_top3_urls": [
+        "serp-pattern://gowns/1",
+        "serp-pattern://gowns/2"
+      ],
+      "content_brief_doc_id": "1NvAKkx0ICy2hdTJAno6AJjvclvCPuhcnnXsHXZioGVA",
+      "content_brief_url": "https://docs.google.com/document/d/1NvAKkx0ICy2hdTJAno6AJjvclvCPuhcnnXsHXZioGVA/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "all-dresses",
+        "lace-dresses",
+        "maxis",
+        "midis",
+        "printed-dresses"
+      ],
+      "brief_status": "updated",
+      "monday_content_brief_task_id": "2694159122",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694159122",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 6
+    },
+    {
+      "slug": "all-dresses",
+      "url": "https://melanithelabel.com/collections/all-dresses",
+      "class": "themed_category",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "JOSEFINA",
+        "EVA",
+        "NATALIA",
+        "VALENTINA",
+        "JIANI"
+      ],
+      "primary_keyword": "womens dresses",
+      "au_volume": 19100,
+      "us_volume": 201000,
+      "current_title": "All dresses \u2013 Melani the label",
+      "current_h1": "All dresses",
+      "current_meta_description": "Look & feel divine in a backless dress for any occasion. M\u00c9LANI dresses are Australian-made, high-quality, affordable & luxurious. Shop the full collection now",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://all-dresses/1",
+        "serp-pattern://all-dresses/2"
+      ],
+      "content_brief_doc_id": "1e0bnxPmIgGuXANRYJircErpcMhWMM4PVsrSrSSbRWVY",
+      "content_brief_url": "https://docs.google.com/document/d/1e0bnxPmIgGuXANRYJircErpcMhWMM4PVsrSrSSbRWVY/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "gowns",
+        "lace-dresses",
+        "maxis",
+        "midis",
+        "printed-dresses"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694124771",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694124771",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 9
+    },
+    {
+      "slug": "maxis",
+      "url": "https://melanithelabel.com/collections/maxis",
+      "class": "pure_category",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "JOSEFINA",
+        "EVA",
+        "NATALIA",
+        "JIANI",
+        "CONSTANTINA"
+      ],
+      "primary_keyword": "maxi dress",
+      "au_volume": 60500,
+      "us_volume": 590,
+      "current_title": "Maxis \u2013 Melani the label",
+      "current_h1": "Maxis",
+      "status": "New",
+      "last_scraped": "2026-05-10",
+      "current_meta_description": "A M\u00c9LANI maxi dress is everything you want her to be\u2014high-quality, affordable & divine. Shop now & find the perfect maxi dress for your next event",
+      "competitor_top3_urls": [
+        "https://meshki.com.au/collections/maxi-dresses"
+      ],
+      "content_brief_doc_id": "1ZCUfvC18rMr31aCPF9sWoDvgAKjro4IonNqTct5mhQA",
+      "content_brief_url": "https://docs.google.com/document/d/1ZCUfvC18rMr31aCPF9sWoDvgAKjro4IonNqTct5mhQA/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "midis",
+        "long-sleeve",
+        "lace-dresses",
+        "all-dresses",
+        "gowns"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694159192",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694159192",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 9
+    },
+    {
+      "slug": "tops",
+      "url": "https://melanithelabel.com/collections/tops",
+      "class": "pure_category",
+      "dominant_product_type": "TOP",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "EVE TOP",
+        "ELLA CROP",
+        "EMARA CROP",
+        "ALIAH",
+        "EVE TOP"
+      ],
+      "primary_keyword": "going out tops",
+      "au_volume": 8100,
+      "us_volume": 74000,
+      "current_title": "ALL TOPS \u2013 Melani the label",
+      "current_h1": "ALL TOPS",
+      "status": "New",
+      "last_scraped": "2026-05-10",
+      "current_meta_description": "",
+      "competitor_top3_urls": [
+        "https://www.selfieleslie.com/collections/crop-tops",
+        "https://www.princesspolly.com.au/collections/crop-tops",
+        "https://www.motelrocks.com/collections/going-out-tops"
+      ],
+      "content_brief_doc_id": "1cpCsXARJbCEU4cPQHwpLpR2rqq1jmXDmru17erAI5wg",
+      "content_brief_url": "https://docs.google.com/document/d/1cpCsXARJbCEU4cPQHwpLpR2rqq1jmXDmru17erAI5wg/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "long-sleeve-tops",
+        "crop-tops",
+        "lace-tops",
+        "printed-tops",
+        "minis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694091816",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091816",
+      "search_console_enriched": false,
+      "supplemental_keyword_count": 10
+    },
+    {
+      "slug": "skirt",
+      "url": "https://melanithelabel.com/collections/skirt",
+      "class": "pure_category",
+      "dominant_product_type": "SKIRTS",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "MARBELLA SKIRT",
+        "MARTINA SKIRT",
+        "ILIA SKIRT",
+        "SERIAH SKIRT",
+        "CARTIA"
+      ],
+      "primary_keyword": "skirt",
+      "au_volume": 22200,
+      "us_volume": 40500,
+      "current_title": "All Skirts \u2013 Melani the label",
+      "current_h1": "All Skirts",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://skirt/1",
+        "serp-pattern://skirt/2"
+      ],
+      "content_brief_doc_id": "1Q7PtWyXnd-Yo9-wkvzWpbDmjHeWLXDuelDF1SO_G-4w",
+      "content_brief_url": "https://docs.google.com/document/d/1Q7PtWyXnd-Yo9-wkvzWpbDmjHeWLXDuelDF1SO_G-4w/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxi-skirts",
+        "midi-skirts",
+        "mini-skirts",
+        "maxis",
+        "minis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694158803",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158803",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 10
+    },
+    {
+      "slug": "accessories",
+      "url": "https://melanithelabel.com/collections/accessories",
+      "class": "themed_category",
+      "dominant_product_type": "HEAD PIECE",
+      "product_count_sample": 9,
+      "sample_product_titles": [
+        "STELLA",
+        "JAZMIN",
+        "ALIYA",
+        "ALIYA",
+        "ALIYA"
+      ],
+      "primary_keyword": "womens accessories",
+      "au_volume": 720,
+      "us_volume": 5400,
+      "current_title": "Accessories \u2013 Melani the label",
+      "current_h1": "Accessories",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://accessories/1",
+        "serp-pattern://accessories/2"
+      ],
+      "content_brief_doc_id": "1bFWInwtmGpAF2PMOuQdWy7gL0x4zNAvZuKmkhgBmgeY",
+      "content_brief_url": "https://docs.google.com/document/d/1bFWInwtmGpAF2PMOuQdWy7gL0x4zNAvZuKmkhgBmgeY/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxis",
+        "minis",
+        "all-dresses",
+        "gowns",
+        "midis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694147308",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694147308",
+      "search_console_enriched": false,
+      "supplemental_keyword_count": 9
+    },
+    {
+      "slug": "resort",
+      "url": "https://melanithelabel.com/collections/resort",
+      "class": "themed_category",
+      "dominant_product_type": "TOP",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "EVE TOP",
+        "MARBELLA SKIRT",
+        "ELLA CROP",
+        "MARTINA SKIRT",
+        "EMARA CROP"
+      ],
+      "primary_keyword": "resort wear",
+      "au_volume": 2400,
+      "us_volume": 20100,
+      "current_title": "RESORT \u2013 Melani the label",
+      "current_h1": "RESORT",
+      "current_meta_description": "Escape into effortless dressing with M\u00c9LANI\u2019s resort wear collection, designed for modern, sun-soaked escapes. Discover luxury resort wear for women, including flowing dresses, elevated vacation outfits, and lightweight styles perfect for warm-weather destinations. Explore a curated selection of resort dresses, maxi dr",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://resort/1",
+        "serp-pattern://resort/2"
+      ],
+      "content_brief_doc_id": "1lHyu5ahG2CKFI54kdz1AzzJ65TGeCXriIcxE-67tt1M",
+      "content_brief_url": "https://docs.google.com/document/d/1lHyu5ahG2CKFI54kdz1AzzJ65TGeCXriIcxE-67tt1M/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "minis",
+        "long-sleeve-tops",
+        "crop-tops",
+        "tops",
+        "lace-tops"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694135549",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135549",
+      "search_console_enriched": false,
+      "supplemental_keyword_count": 10
+    },
+    {
+      "slug": "swim",
+      "url": "https://melanithelabel.com/collections/swim",
+      "class": "curated_edit",
+      "dominant_product_type": "SWIM",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "CAPRI BIKINI SET",
+        "CAPRI BIKINI SET",
+        "ELORA",
+        "ELORA",
+        "ELORA"
+      ],
+      "primary_keyword": "swimwear",
+      "au_volume": 12100,
+      "us_volume": 40500,
+      "current_title": "SWIM \u2013 Melani the label",
+      "current_h1": "SWIM",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://swim/1",
+        "serp-pattern://swim/2"
+      ],
+      "content_brief_doc_id": "1waDLshQBsr47bnOHTS_VF4jt06k0uC_msRNoDPsBt3s",
+      "content_brief_url": "https://docs.google.com/document/d/1waDLshQBsr47bnOHTS_VF4jt06k0uC_msRNoDPsBt3s/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxis",
+        "minis",
+        "all-dresses",
+        "gowns",
+        "midis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694125366",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694125366",
+      "search_console_enriched": false,
+      "supplemental_keyword_count": 10
+    },
+    {
+      "slug": "long-sleeve",
+      "url": "https://melanithelabel.com/collections/long-sleeve",
+      "class": "themed_category",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 7,
+      "sample_product_titles": [
+        "AMARA",
+        "AMARA",
+        "AMARA",
+        "AMARA",
+        "EVELYN"
+      ],
+      "primary_keyword": "long sleeve dress",
+      "au_volume": 22400,
+      "us_volume": 74000,
+      "current_title": "Long Sleeve Dresses \u2013 Melani the label",
+      "current_h1": "Long Sleeve Dresses",
+      "status": "Tweak",
+      "last_scraped": "2026-05-10",
+      "current_meta_description": "",
+      "competitor_top3_urls": [
+        "serp-pattern://long-sleeve/1",
+        "serp-pattern://long-sleeve/2"
+      ],
+      "content_brief_doc_id": "11Nqex01A9coy44FKwECK6bgCHNpAJ-kghTX5O9FPn1Y",
+      "content_brief_url": "https://docs.google.com/document/d/11Nqex01A9coy44FKwECK6bgCHNpAJ-kghTX5O9FPn1Y/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxis",
+        "midis",
+        "lace-dresses",
+        "long-sleeve-tops",
+        "all-dresses"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694091895",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091895",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 10
+    },
+    {
+      "slug": "bridal",
+      "url": "https://melanithelabel.com/collections/bridal",
+      "class": "curated_edit",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "JOSEFINA",
+        "NATALIA",
+        "MARIANA",
+        "VALENTINA",
+        "IMALIA CROP"
+      ],
+      "primary_keyword": "bridal dress",
+      "au_volume": 2400,
+      "us_volume": 14800,
+      "current_title": "Bridal \u2013 Melani the label",
+      "current_h1": "Bridal",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://bridal/1",
+        "serp-pattern://bridal/2"
+      ],
+      "content_brief_doc_id": "1zQ_qEaRMiyD8fomKAM6h677ng_RKUnDcOjVjBgoeR6Y",
+      "content_brief_url": "https://docs.google.com/document/d/1zQ_qEaRMiyD8fomKAM6h677ng_RKUnDcOjVjBgoeR6Y/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxis",
+        "minis",
+        "midis",
+        "long-sleeve",
+        "lace-dresses"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694092002",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092002",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 3
+    },
+    {
+      "slug": "crop-tops",
+      "url": "https://melanithelabel.com/collections/crop-tops",
+      "class": "pure_category",
+      "dominant_product_type": "TOP",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "EMARA CROP",
+        "ALIAH",
+        "ELLA CROP",
+        "EVE TOP",
+        "ALIAH"
+      ],
+      "primary_keyword": "crop top",
+      "au_volume": 14800,
+      "us_volume": 135000,
+      "current_title": "CROP TOPS \u2013 Melani the label",
+      "current_h1": "CROP TOPS",
+      "status": "New",
+      "last_scraped": "2026-05-10",
+      "current_meta_description": "",
+      "competitor_top3_urls": [
+        "https://www.selfieleslie.com/collections/crop-tops",
+        "https://www.princesspolly.com.au/collections/crop-tops"
+      ],
+      "content_brief_doc_id": "10JqvVDPaE2od_0i7axoJxR-iFkWrfQcNnaPSRsGOa_8",
+      "content_brief_url": "https://docs.google.com/document/d/10JqvVDPaE2od_0i7axoJxR-iFkWrfQcNnaPSRsGOa_8/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "long-sleeve-tops",
+        "lace-tops",
+        "printed-tops",
+        "tops",
+        "minis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694102537",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694102537",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 9
+    },
+    {
+      "slug": "long-sleeve-tops",
+      "url": "https://melanithelabel.com/collections/long-sleeve-tops",
+      "class": "pure_category",
+      "dominant_product_type": "TOP",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "CLARA BODYSUIT",
+        "IANNE CROP",
+        "CLARA BODYSUIT",
+        "IANNE CROP",
+        "CECILIA TOP"
+      ],
+      "primary_keyword": "long sleeve top",
+      "au_volume": 18100,
+      "us_volume": 18100,
+      "current_title": "Long Sleeve Tops \u2013 Melani the label",
+      "current_h1": "Long Sleeve Tops",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://long-sleeve-tops/1",
+        "serp-pattern://long-sleeve-tops/2"
+      ],
+      "content_brief_doc_id": "1e2rhIeYnD39_0Y0sbpbx3igS5DLRfbFNfq8pGa4bPpM",
+      "content_brief_url": "https://docs.google.com/document/d/1e2rhIeYnD39_0Y0sbpbx3igS5DLRfbFNfq8pGa4bPpM/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "crop-tops",
+        "lace-tops",
+        "printed-tops",
+        "tops",
+        "long-sleeve"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694158743",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158743",
+      "search_console_enriched": false,
+      "supplemental_keyword_count": 9
+    },
+    {
+      "slug": "bodysuit",
+      "url": "https://melanithelabel.com/collections/bodysuit",
+      "class": "themed_category",
+      "dominant_product_type": "TOP",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "CLARA BODYSUIT",
+        "KHI BODYSUIT",
+        "CLARA BODYSUIT",
+        "VALERIE",
+        "CLARA BODYSUIT"
+      ],
+      "primary_keyword": "bodysuit",
+      "au_volume": 12100,
+      "us_volume": 47500,
+      "current_title": "Bodysuits \u2013 Melani the label",
+      "current_h1": "Bodysuits",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://bodysuit/1",
+        "serp-pattern://bodysuit/2"
+      ],
+      "content_brief_doc_id": "1zEeZg1vE7ZR1Bx00xeT5R-yNFhsVGHaDmVz4fCObtDY",
+      "content_brief_url": "https://docs.google.com/document/d/1zEeZg1vE7ZR1Bx00xeT5R-yNFhsVGHaDmVz4fCObtDY/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "minis",
+        "long-sleeve-tops",
+        "crop-tops",
+        "tops",
+        "lace-tops"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694102538",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694102538",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 10
+    },
+    {
+      "slug": "printed-tops",
+      "url": "https://melanithelabel.com/collections/printed-tops",
+      "class": "pure_category",
+      "dominant_product_type": "TOP",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "LICIA TOP",
+        "AHRIA CROP",
+        "IANA TOP",
+        "LICIA TOP",
+        "AHRIA CROP"
+      ],
+      "primary_keyword": "floral top",
+      "keyword_note": "Changed from printed top because AU volume is 0; floral top has measurable AU and US demand.",
+      "au_volume": 1600,
+      "us_volume": 5700,
+      "current_title": "Printed Tops \u2013 Melani the label",
+      "current_h1": "Printed Tops",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://printed-tops/1",
+        "serp-pattern://printed-tops/2"
+      ],
+      "content_brief_doc_id": "1nrngrpGB_k2mWFDkKeWfHr_p7w4JC47Dvqa6MS0mIXs",
+      "content_brief_url": "https://docs.google.com/document/d/1nrngrpGB_k2mWFDkKeWfHr_p7w4JC47Dvqa6MS0mIXs/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "long-sleeve-tops",
+        "crop-tops",
+        "lace-tops",
+        "tops",
+        "minis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694159205",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694159205",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 10
+    },
+    {
+      "slug": "lace-tops",
+      "url": "https://melanithelabel.com/collections/lace-tops",
+      "class": "pure_category",
+      "dominant_product_type": "TOP",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "IANNE CROP",
+        "CLARA BODYSUIT",
+        "ESTELA TOP",
+        "CLARA BODYSUIT",
+        "IANNE CROP"
+      ],
+      "primary_keyword": "lace top",
+      "au_volume": 6600,
+      "us_volume": 22200,
+      "current_title": "Lace Tops \u2013 Melani the label",
+      "current_h1": "Lace Tops",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://lace-tops/1",
+        "serp-pattern://lace-tops/2"
+      ],
+      "content_brief_doc_id": "1zVt51jtDcpG3OQJVw9RHHznz9bDDdWbXKJVUkt3GBIU",
+      "content_brief_url": "https://docs.google.com/document/d/1zVt51jtDcpG3OQJVw9RHHznz9bDDdWbXKJVUkt3GBIU/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "long-sleeve-tops",
+        "crop-tops",
+        "printed-tops",
+        "tops",
+        "minis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694158918",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158918",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 9
+    },
+    {
+      "slug": "lace-dresses",
+      "url": "https://melanithelabel.com/collections/lace-dresses",
+      "class": "pure_category",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "MIAH",
+        "LEVIAH",
+        "AMARA",
+        "MIAH",
+        "LEVIAH"
+      ],
+      "primary_keyword": "lace dress",
+      "au_volume": 5400,
+      "us_volume": 33100,
+      "current_title": "Lace Dresses \u2013 Melani the label",
+      "current_h1": "Lace Dresses",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "https://www.rebeccavallance.com/collections/lace-dresses",
+        "https://shonajoy.com/collections/lace-dresses"
+      ],
+      "content_brief_doc_id": "1HuKNLusyklMiym2AboONeQtJZGKrkZHdxvBcoKIW5_E",
+      "content_brief_url": "https://docs.google.com/document/d/1HuKNLusyklMiym2AboONeQtJZGKrkZHdxvBcoKIW5_E/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxis",
+        "all-dresses",
+        "gowns",
+        "midis",
+        "printed-dresses"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694135622",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135622",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 10
+    },
+    {
+      "slug": "printed-dresses",
+      "url": "https://melanithelabel.com/collections/printed-dresses",
+      "class": "themed_category",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 2,
+      "sample_product_titles": [
+        "FLORA",
+        "MILANA"
+      ],
+      "primary_keyword": "printed dress",
+      "au_volume": 30,
+      "us_volume": 330,
+      "current_title": "Printed Dresses \u2013 Melani the label",
+      "current_h1": "Printed Dresses",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://printed-dresses/1",
+        "serp-pattern://printed-dresses/2"
+      ],
+      "content_brief_doc_id": "1zJuWv9wlaoaIdHKr5kc89QoVMpi6DlQULrGIS31E3mM",
+      "content_brief_url": "https://docs.google.com/document/d/1zJuWv9wlaoaIdHKr5kc89QoVMpi6DlQULrGIS31E3mM/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "lace-dresses",
+        "maxis",
+        "all-dresses",
+        "gowns",
+        "midis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694092054",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092054",
+      "search_console_enriched": false,
+      "supplemental_keyword_count": 9
+    },
+    {
+      "slug": "pants",
+      "url": "https://melanithelabel.com/collections/pants",
+      "class": "themed_category",
+      "dominant_product_type": "pants",
+      "product_count_sample": 5,
+      "sample_product_titles": [
+        "DELFINA PANT",
+        "STAPLE PANT",
+        "STAPLE PANT",
+        "DELFINA PANT",
+        "STAPLE PANT"
+      ],
+      "primary_keyword": "womens pants",
+      "au_volume": 8100,
+      "us_volume": 49500,
+      "current_title": "Pants \u2013 Melani the label",
+      "current_h1": "Pants",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://pants/1",
+        "serp-pattern://pants/2"
+      ],
+      "content_brief_doc_id": "1bx3VChrnTfF8BgIjoA1eolb3XMJHDojEtZIQSt0WtEg",
+      "content_brief_url": "https://docs.google.com/document/d/1bx3VChrnTfF8BgIjoA1eolb3XMJHDojEtZIQSt0WtEg/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxis",
+        "minis",
+        "all-dresses",
+        "gowns",
+        "midis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694091522",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091522",
+      "search_console_enriched": false,
+      "supplemental_keyword_count": 9
+    },
+    {
+      "slug": "mini-skirts",
+      "url": "https://melanithelabel.com/collections/mini-skirts",
+      "class": "pure_category",
+      "dominant_product_type": "SKIRTS",
+      "product_count_sample": 7,
+      "sample_product_titles": [
+        "ZIANI SKIRT",
+        "SERIAH SKIRT",
+        "ZIANI SKIRT",
+        "PALOMA SKIRT",
+        "ZIANI SKIRT"
+      ],
+      "primary_keyword": "mini skirt",
+      "au_volume": 14800,
+      "us_volume": 74000,
+      "current_title": "Mini Skirts \u2013 Melani the label",
+      "current_h1": "Mini Skirts",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://mini-skirts/1",
+        "serp-pattern://mini-skirts/2"
+      ],
+      "content_brief_doc_id": "19l9yQkiYeKjseT0RF1fHrydeoMSO2Z7ghqofeb_F50I",
+      "content_brief_url": "https://docs.google.com/document/d/19l9yQkiYeKjseT0RF1fHrydeoMSO2Z7ghqofeb_F50I/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxi-skirts",
+        "midi-skirts",
+        "skirt",
+        "minis",
+        "maxis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694091524",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091524",
+      "search_console_enriched": false,
+      "supplemental_keyword_count": 6
+    },
+    {
+      "slug": "midi-skirts",
+      "url": "https://melanithelabel.com/collections/midi-skirts",
+      "class": "pure_category",
+      "dominant_product_type": "SKIRTS",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "ZENAYA SKIRT",
+        "CELESTE SKIRT",
+        "ASTORIA SKIRT",
+        "ZENAYA SKIRT",
+        "CELESTE SKIRT"
+      ],
+      "primary_keyword": "midi skirt",
+      "au_volume": 14800,
+      "us_volume": 18100,
+      "current_title": "Midi Skirts \u2013 Melani the label",
+      "current_h1": "Midi Skirts",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://midi-skirts/1",
+        "serp-pattern://midi-skirts/2"
+      ],
+      "content_brief_doc_id": "1xV9nfJirTY2Xn55pxNijl9tpPgIri8FCCGOPCNAjB-Y",
+      "content_brief_url": "https://docs.google.com/document/d/1xV9nfJirTY2Xn55pxNijl9tpPgIri8FCCGOPCNAjB-Y/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxi-skirts",
+        "mini-skirts",
+        "skirt",
+        "midis",
+        "maxis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694135575",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135575",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 9
+    },
+    {
+      "slug": "maxi-skirts",
+      "url": "https://melanithelabel.com/collections/maxi-skirts",
+      "class": "pure_category",
+      "dominant_product_type": "SKIRTS",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "MARBELLA SKIRT",
+        "MARTINA SKIRT",
+        "CARTIA",
+        "MARBELLA SKIRT",
+        "ILIA SKIRT"
+      ],
+      "primary_keyword": "maxi skirt",
+      "au_volume": 22200,
+      "us_volume": 74000,
+      "current_title": "Maxi Skirts \u2013 Melani the label",
+      "current_h1": "Maxi Skirts",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://maxi-skirts/1",
+        "serp-pattern://maxi-skirts/2"
+      ],
+      "content_brief_doc_id": "1yidSo5QODz3RKxsJ4LKwkMw12rX2Dj7flq1U76NzFUc",
+      "content_brief_url": "https://docs.google.com/document/d/1yidSo5QODz3RKxsJ4LKwkMw12rX2Dj7flq1U76NzFUc/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "midi-skirts",
+        "mini-skirts",
+        "skirt",
+        "maxis",
+        "minis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694092058",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092058",
+      "search_console_enriched": true,
+      "supplemental_keyword_count": 8
+    },
+    {
+      "slug": "tailored",
+      "url": "https://melanithelabel.com/collections/tailored",
+      "class": "curated_edit",
+      "dominant_product_type": "DRESSES",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "SAINT BLAZER",
+        "MISHA TOP",
+        "DELFINA PANT",
+        "LORENZA SKIRT",
+        "ESRA DRESS"
+      ],
+      "primary_keyword": "tailored clothing",
+      "au_volume": 320,
+      "us_volume": 1500,
+      "current_title": "Tailored \u2013 Melani the label",
+      "current_h1": "Tailored",
+      "current_meta_description": "",
+      "last_scraped": "2026-05-10",
+      "competitor_top3_urls": [
+        "serp-pattern://tailored/1",
+        "serp-pattern://tailored/2"
+      ],
+      "content_brief_doc_id": "1L9zl_nQZyqN7U9Zca52lDAkQjJpnwasp0rdbrX8rwro",
+      "content_brief_url": "https://docs.google.com/document/d/1L9zl_nQZyqN7U9Zca52lDAkQjJpnwasp0rdbrX8rwro/edit",
+      "content_brief_updated_at": "2026-05-10",
+      "internal_link_targets": [
+        "maxis",
+        "minis",
+        "all-dresses",
+        "gowns",
+        "midis"
+      ],
+      "brief_status": "ready_for_writer_with_warnings",
+      "monday_content_brief_task_id": "2694092060",
+      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092060",
+      "search_console_enriched": false,
+      "supplemental_keyword_count": 5
+    }
+  ],
+  "last_sitemap_scan": "2026-05-10",
+  "discovery_summary": {
+    "total_after_filter": 27,
+    "auto_include": 23,
+    "review_bucket": 4,
+    "drop_style_edit": 0
+  },
+  "qa": {
+    "last_sidecar_sync": {
+      "date": "2026-05-10",
+      "live_keyword_count": 139,
+      "live_pair_count": 278,
+      "collections_with_live_keywords": 26,
+      "included_collections": 27
+    },
+    "keyword_export_note": "Live MCP verified 139 keywords / 278 pairs on 2026-05-10; /tmp export mirrors target coverage for offline validation."
+  },
+  "brand_denylist": [
+    "kmart",
+    "target",
+    "myer",
+    "david jones",
+    "big w",
+    "amazon",
+    "seafolly",
+    "baku",
+    "speedo",
+    "bonds",
+    "cotton on",
+    "factorie",
+    "monday swimwear",
+    "monday",
+    "zimmermann",
+    "aje",
+    "ganni",
+    "reformation",
+    "princess polly",
+    "showpo",
+    "white fox",
+    "meshki",
+    "tiger mist",
+    "sheike",
+    "cue",
+    "forever new",
+    "portmans",
+    "dotti",
+    "beginning boutique",
+    "peppermayo",
+    "two sisters",
+    "runaway the label",
+    "house of cb",
+    "oh polly",
+    "significant other"
+  ]
+}

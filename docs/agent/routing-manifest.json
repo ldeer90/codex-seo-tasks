@@ -1,0 +1,613 @@
+{
+  "version": 1,
+  "purpose": "Low-token routing and preflight manifest for LD SEO skills. Full skill and workflow docs remain canonical for execution details.",
+  "canonical_sources": {
+    "skill_index": "docs/agent/skills/_index.md",
+    "routing_contract": "docs/agent/skills/_routing-contract.md",
+    "workflow_index": "docs/agent/workflows/_index.md",
+    "client_memory": "docs/agent/client-memory.md",
+    "architecture_diagrams": "docs/agent/skill-architecture-diagrams.md",
+    "scripts_index": "docs/agent/scripts-index.md",
+    "proof_templates": "docs/agent/proof-block-templates.md"
+  },
+  "common": {
+    "client_scoped_preflight_reads": [
+      "docs/agent/clients/<client>.md",
+      "docs/agent/clients/<client>.json when present or required",
+      "docs/agent/clients/<client>-timeline.md",
+      "routed skill doc",
+      "routed workflow doc"
+    ],
+    "shared_write_gates": [
+      "confirm client name before create_* tools or external writes",
+      "verify Drive folders with Google Drive MCP",
+      "read Monday board schema before Monday writes",
+      "check SE Ranking capacity before keyword or prompt writes",
+      "run required validators before client-facing Docs, Sheets, Monday tasks, or final HTML"
+    ],
+    "shared_readback": [
+      "read back Google Docs, Sheets, and Monday outputs after writes",
+      "append client timeline after successful client-scoped work or meaningful blocker",
+      "keep proof blocks and local paths out of client-facing Docs and Sheets"
+    ]
+  },
+  "skills": {
+    "ld-seo-command-menu": {
+      "commands_or_intents": [
+        "/ldseo",
+        "what SEO automation tasks are available",
+        "route a plain-language LD SEO request"
+      ],
+      "skill_doc": "docs/agent/skills/ld-seo-command-menu/SKILL.md",
+      "workflow_docs": [
+        "docs/agent/workflows/_index.md"
+      ],
+      "required_preflight_reads": [
+        "docs/agent/routing-manifest.json",
+        "docs/agent/skills/_index.md",
+        "docs/agent/workflows/_index.md"
+      ],
+      "client_memory_required": false,
+      "mcp_dependencies": [],
+      "api_dependencies": [],
+      "scripts": [],
+      "validators": [],
+      "write_gates": [],
+      "readback_requirements": [],
+      "proof_block_fields": [
+        "selected route",
+        "workflow doc",
+        "required inputs",
+        "write/readback caveats"
+      ],
+      "handoff_routes": [
+        "ld-seo-client-onboarding",
+        "ld-seo-maintenance",
+        "ld-seo-collection-seo",
+        "ld-seo-content-briefs",
+        "ld-seo-content-writing",
+        "ld-seo-shopify-collection-writing",
+        "ld-seo-shopify-blog-writing",
+        "ld-seo-audits-reporting"
+      ],
+      "notes": "Use this manifest first for low-token routing; open full skill/workflow docs before live work."
+    },
+    "ld-seo-client-onboarding": {
+      "commands_or_intents": [
+        "/ldseo-onboard <client>",
+        "set up a new SEO client",
+        "create missing client brief, sidecar, routes, folders, board, or SE Ranking state"
+      ],
+      "skill_doc": "docs/agent/skills/ld-seo-client-onboarding/SKILL.md",
+      "workflow_docs": [
+        "docs/agent/workflows/add-new-client.md"
+      ],
+      "required_preflight_reads": [
+        "docs/agent/workflows/add-new-client.md",
+        "docs/agent/clients/CLIENT_TEMPLATE.json",
+        "docs/agent/clients/CLIENT_TIMELINE_TEMPLATE.md",
+        "docs/agent/system.md",
+        "docs/agent/areas.md"
+      ],
+      "client_memory_required": true,
+      "mcp_dependencies": [
+        "Google Drive MCP",
+        "Monday MCP",
+        "seo-automation MCP where GA4 routing validation is needed",
+        "SE Ranking MCP/API where project setup is needed"
+      ],
+      "api_dependencies": [
+        "Google Drive",
+        "Monday.com",
+        "GA4",
+        "SE Ranking"
+      ],
+      "scripts": [
+        "scripts/validate_client_json.py"
+      ],
+      "validators": [
+        "scripts/validate_client_json.py"
+      ],
+      "write_gates": [
+        "confirm client slug and canonical client name",
+        "do not guess GA4, Drive, Monday, or SE Ranking IDs",
+        "show config/site-access.json diff before route changes",
+        "read Monday board schema before task writes"
+      ],
+      "readback_requirements": [
+        "read back created client docs/folders",
+        "read back Monday items when created",
+        "rerun client JSON validation"
+      ],
+      "proof_block_fields": [
+        "client",
+        "access subjects/routes",
+        "Drive folders",
+        "Monday board/group",
+        "SE Ranking project/search engines",
+        "sidecar path",
+        "timeline path",
+        "validator blockers",
+        "readback status"
+      ],
+      "handoff_routes": [
+        "ld-seo-collection-seo",
+        "ld-seo-content-briefs",
+        "ld-seo-audits-reporting",
+        "ld-seo-maintenance"
+      ],
+      "notes": "This is the dependency-fixer for missing client setup."
+    },
+    "ld-seo-maintenance": {
+      "commands_or_intents": [
+        "/ldseo-hygiene [client|all]",
+        "/ldseo-troubleshoot <client>",
+        "fix GA4, Drive, Monday, SE Ranking, credential, filing, or platform drift"
+      ],
+      "skill_doc": "docs/agent/skills/ld-seo-maintenance/SKILL.md",
+      "workflow_docs": [
+        "docs/agent/workflows/se-ranking-hygiene.md",
+        "docs/agent/workflows/troubleshoot-access.md",
+        "docs/agent/workflows/regenerate-platform-reference.md",
+        "docs/agent/workflows/report-filing.md"
+      ],
+      "required_preflight_reads": [
+        "docs/agent/skills/_routing-contract.md",
+        "docs/agent/client-memory.md when client-scoped",
+        "affected client brief/sidecar/timeline when client-scoped",
+        "affected workflow doc"
+      ],
+      "client_memory_required": true,
+      "mcp_dependencies": [
+        "Google Drive MCP",
+        "Monday MCP where board state is checked",
+        "seo-automation MCP for access subject resolution",
+        "SE Ranking MCP/API"
+      ],
+      "api_dependencies": [
+        "GA4",
+        "Google Drive",
+        "Monday.com",
+        "SE Ranking",
+        "GSC when troubleshooting Search Console"
+      ],
+      "scripts": [
+        "scripts/audit_se_ranking_project.py",
+        "scripts/drive_auto_organise.py",
+        "scripts/drive_organise.py",
+        "scripts/drive_root_cleanup.py"
+      ],
+      "validators": [
+        "scripts/validate_client_json.py",
+        "scripts/audit_se_ranking_project.py"
+      ],
+      "write_gates": [
+        "never delete SE Ranking keywords/projects, Drive files, or Monday items without explicit user confirmation",
+        "use Drive MCP for folder truth",
+        "confirm board/group before Monday writes",
+        "validate affected state after cleanup"
+      ],
+      "readback_requirements": [
+        "verify affected Drive/Monday/SE Ranking state after changes",
+        "document cleanup in sidecar, timeline, or proof block"
+      ],
+      "proof_block_fields": [
+        "projects checked",
+        "keyword-engine pair usage",
+        "actions proposed or taken",
+        "sidecars updated",
+        "Drive/Monday state verified",
+        "remaining risks"
+      ],
+      "handoff_routes": [
+        "originating skill after blocker is resolved",
+        "ld-seo-client-onboarding when required setup is missing"
+      ],
+      "notes": "Use for access, capacity, filing, duplicate-project, and platform-state blockers."
+    },
+    "ld-seo-collection-seo": {
+      "commands_or_intents": [
+        "/ldseo-collection-seo <client>",
+        "/ldseo-keyword-research <client>",
+        "/ldseo-competitors <client>",
+        "/ldseo-metadata <client>",
+        "collection discovery, keyword research, SERP review, or metadata suggestions"
+      ],
+      "skill_doc": "docs/agent/skills/ld-seo-collection-seo/SKILL.md",
+      "workflow_docs": [
+        "docs/agent/workflows/collection-seo-full.md",
+        "docs/agent/workflows/keyword-research-collections.md",
+        "docs/agent/workflows/competitor-keyword-research.md",
+        "docs/agent/workflows/onpage-title-h1-suggestions.md"
+      ],
+      "required_preflight_reads": [
+        "docs/agent/skills/collection-seo-qa/SKILL.md",
+        "docs/agent/clients/<client>.json",
+        "docs/agent/clients/<client>.md when present",
+        "docs/agent/clients/<client>-timeline.md",
+        "selected workflow doc"
+      ],
+      "client_memory_required": true,
+      "mcp_dependencies": [
+        "SE Ranking MCP/API",
+        "Google Drive MCP or GoogleWorkspaceClient",
+        "Monday MCP where tasks are created",
+        "seo-automation MCP or FirecrawlClient where scraping is needed"
+      ],
+      "api_dependencies": [
+        "SE Ranking",
+        "Firecrawl",
+        "Google Drive",
+        "Monday.com",
+        "Shopify public sitemaps/pages"
+      ],
+      "scripts": [
+        "scripts/discover_collections.py",
+        "scripts/evaluate_collection_keyword_candidates.py",
+        "scripts/sync_collection_sidecar_from_exports.py",
+        "scripts/validate_collection_seo_state.py",
+        "scripts/build_metadata_suggestions.py",
+        "scripts/render_keyword_research_doc.py"
+      ],
+      "validators": [
+        "scripts/validate_client_json.py",
+        "scripts/validate_collection_seo_state.py",
+        "scripts/evaluate_collection_keyword_candidates.py"
+      ],
+      "write_gates": [
+        "validate client JSON before live work",
+        "check SE Ranking capacity before keyword writes",
+        "re-export and sync sidecar after SE Ranking writes",
+        "confirm Drive folder and Monday board/group before deliverables"
+      ],
+      "readback_requirements": [
+        "read back Sheets/Docs and Monday tasks after writes",
+        "rerun collection SEO validation after live keyword writes"
+      ],
+      "proof_block_fields": [
+        "live keyword count",
+        "keyword-engine pairs",
+        "collections covered",
+        "deliverable rows",
+        "Drive folder",
+        "Monday task",
+        "validator blockers",
+        "warnings"
+      ],
+      "handoff_routes": [
+        "ld-seo-client-onboarding for missing client setup",
+        "ld-seo-maintenance for access/capacity issues",
+        "collection-seo-qa for stale collection state",
+        "ld-seo-content-briefs for brief requests"
+      ],
+      "notes": "Use Shopify sitemap/products JSON before Firecrawl crawling."
+    },
+    "ld-seo-content-briefs": {
+      "commands_or_intents": [
+        "/ldseo-content <client>",
+        "create Shopify collection content briefs",
+        "prepare writer-ready collection briefs"
+      ],
+      "skill_doc": "docs/agent/skills/ld-seo-content-briefs/SKILL.md",
+      "workflow_docs": [
+        "docs/agent/workflows/collection-content-briefs.md"
+      ],
+      "required_preflight_reads": [
+        "docs/agent/workflows/collection-content-briefs.md",
+        "docs/agent/skills/shopify-collection-content-briefs/SKILL.md",
+        "docs/agent/skills/collection-seo-qa/SKILL.md",
+        "docs/agent/clients/<client>.json",
+        "docs/agent/clients/<client>.md when present",
+        "docs/agent/clients/<client>-timeline.md"
+      ],
+      "client_memory_required": true,
+      "mcp_dependencies": [
+        "SE Ranking MCP/API",
+        "Google Drive MCP or GoogleWorkspaceClient",
+        "Monday MCP",
+        "GSC access where available",
+        "seo-automation MCP or Firecrawl for current page context"
+      ],
+      "api_dependencies": [
+        "SE Ranking",
+        "GSC",
+        "Google Drive",
+        "Monday.com",
+        "Shopify public pages/sitemaps"
+      ],
+      "scripts": [
+        "scripts/validate_client_json.py",
+        "scripts/validate_collection_seo_state.py",
+        "scripts/research_supplemental_keywords.py",
+        "scripts/build_collection_content_brief_inputs.py",
+        "scripts/validate_collection_content_briefs.py",
+        "scripts/critique_collection_content_briefs.py",
+        "scripts/render_collection_content_brief_doc.py"
+      ],
+      "validators": [
+        "scripts/validate_client_json.py",
+        "scripts/validate_collection_seo_state.py",
+        "scripts/validate_collection_content_briefs.py",
+        "scripts/critique_collection_content_briefs.py"
+      ],
+      "write_gates": [
+        "validate collection SEO state before brief generation",
+        "confirm Drive content folder before Doc writes",
+        "read Monday board schema before task writes",
+        "do not write final copy unless routed to final-copy skill"
+      ],
+      "readback_requirements": [
+        "read back sample Google Docs",
+        "confirm every Monday task URL exists"
+      ],
+      "proof_block_fields": [
+        "collections covered",
+        "Docs created or updated",
+        "Monday tasks",
+        "Drive folder",
+        "keyword/GSC sources",
+        "validator blockers",
+        "warnings",
+        "critique status"
+      ],
+      "handoff_routes": [
+        "ld-seo-client-onboarding for missing setup",
+        "ld-seo-maintenance for access/Drive/Monday blockers",
+        "ld-seo-collection-seo for stale collection state",
+        "ld-seo-shopify-collection-writing for final collection copy"
+      ],
+      "notes": "Briefs are writer-ready planning outputs, not final Shopify HTML."
+    },
+    "ld-seo-content-writing": {
+      "commands_or_intents": [
+        "write the content from a brief",
+        "final copy from approved brief when collection/blog type is unclear"
+      ],
+      "skill_doc": "docs/agent/skills/ld-seo-content-writing/SKILL.md",
+      "workflow_docs": [
+        "docs/agent/workflows/collection-content-writing.md",
+        "docs/agent/workflows/blog-content-writing.md"
+      ],
+      "required_preflight_reads": [
+        "docs/agent/skills/ld-seo-content-writing/SKILL.md",
+        "approved brief",
+        "client memory when client-scoped"
+      ],
+      "client_memory_required": true,
+      "mcp_dependencies": [],
+      "api_dependencies": [],
+      "scripts": [],
+      "validators": [],
+      "write_gates": [
+        "identify whether the approved brief is collection or blog before drafting"
+      ],
+      "readback_requirements": [],
+      "proof_block_fields": [
+        "resolved content type",
+        "dedicated skill selected",
+        "brief source"
+      ],
+      "handoff_routes": [
+        "ld-seo-shopify-collection-writing",
+        "ld-seo-shopify-blog-writing",
+        "ld-seo-content-briefs when no approved brief exists"
+      ],
+      "notes": "Router only. Do not draft final copy inside this skill when a dedicated skill applies."
+    },
+    "ld-seo-shopify-collection-writing": {
+      "commands_or_intents": [
+        "final collection copy",
+        "Shopify collection HTML",
+        "QA or revise collection body copy"
+      ],
+      "skill_doc": "docs/agent/skills/ld-seo-shopify-collection-writing/SKILL.md",
+      "workflow_docs": [
+        "docs/agent/workflows/collection-content-writing.md"
+      ],
+      "required_preflight_reads": [
+        "docs/agent/workflows/collection-content-writing.md",
+        "approved collection brief JSON or Google Doc",
+        "docs/agent/clients/<client>.json",
+        "docs/agent/clients/<client>.md when present",
+        "docs/agent/clients/<client>-timeline.md"
+      ],
+      "client_memory_required": true,
+      "mcp_dependencies": [
+        "Google Drive MCP when reading/filing Docs",
+        "Monday MCP when updating tasks",
+        "SE Ranking MCP/API or cached SERP data where needed"
+      ],
+      "api_dependencies": [
+        "SE Ranking",
+        "Google Drive",
+        "Monday.com",
+        "Shopify public sitemaps/pages"
+      ],
+      "scripts": [
+        "scripts/analyze_collection_serp_length.py",
+        "scripts/build_collection_internal_link_candidates.py",
+        "scripts/validate_collection_html_copy.py"
+      ],
+      "validators": [
+        "scripts/validate_collection_html_copy.py"
+      ],
+      "write_gates": [
+        "approved brief required",
+        "validate HTML before presenting, uploading, or filing",
+        "confirm destination before Google Doc or Monday writes"
+      ],
+      "readback_requirements": [
+        "read back any Google Doc or Monday output before completion"
+      ],
+      "proof_block_fields": [
+        "client",
+        "content type",
+        "collection URL",
+        "brief source",
+        "local draft path",
+        "SERP length sources reviewed",
+        "recommended length range",
+        "sitemap source",
+        "link candidates reviewed",
+        "final links selected",
+        "validation blockers",
+        "warnings",
+        "word count",
+        "primary keyword",
+        "unsupported-claim status"
+      ],
+      "handoff_routes": [
+        "ld-seo-client-onboarding for missing setup",
+        "ld-seo-maintenance for access/destination blockers",
+        "ld-seo-content-briefs for missing approved brief or inputs",
+        "ld-seo-shopify-blog-writing for blog/article copy"
+      ],
+      "notes": "Output Shopify collection body HTML only."
+    },
+    "ld-seo-shopify-blog-writing": {
+      "commands_or_intents": [
+        "final blog copy",
+        "Shopify blog HTML",
+        "article draft QA or revisions"
+      ],
+      "skill_doc": "docs/agent/skills/ld-seo-shopify-blog-writing/SKILL.md",
+      "workflow_docs": [
+        "docs/agent/workflows/blog-content-writing.md"
+      ],
+      "required_preflight_reads": [
+        "docs/agent/workflows/blog-content-writing.md",
+        "approved blog brief JSON or Google Doc",
+        "docs/agent/clients/<client>.json",
+        "docs/agent/clients/<client>.md when present",
+        "docs/agent/clients/<client>-timeline.md"
+      ],
+      "client_memory_required": true,
+      "mcp_dependencies": [
+        "Google Drive MCP when reading/filing Docs",
+        "Monday MCP when updating tasks",
+        "SE Ranking MCP/API or cached SERP data where needed"
+      ],
+      "api_dependencies": [
+        "SE Ranking",
+        "GSC where brief expects opportunity signals",
+        "Google Drive",
+        "Monday.com",
+        "Shopify public sitemaps/pages"
+      ],
+      "scripts": [
+        "scripts/build_blog_internal_link_candidates.py",
+        "scripts/validate_blog_html_copy.py"
+      ],
+      "validators": [
+        "scripts/validate_blog_html_copy.py"
+      ],
+      "write_gates": [
+        "approved brief with HTML policy required",
+        "validate HTML before presenting, uploading, or filing",
+        "confirm Drive destination and Monday board/group before writes"
+      ],
+      "readback_requirements": [
+        "read back any Google Doc or Monday output before completion"
+      ],
+      "proof_block_fields": [
+        "client",
+        "content type",
+        "target article title or slug",
+        "brief source",
+        "local draft path",
+        "sitemap sources",
+        "SERP sources reviewed",
+        "link candidates reviewed",
+        "final links selected",
+        "validation blockers",
+        "warnings",
+        "word count",
+        "primary keyword",
+        "secondary keywords used",
+        "unsupported-claim status"
+      ],
+      "handoff_routes": [
+        "ld-seo-client-onboarding for missing setup",
+        "ld-seo-maintenance for access/destination blockers",
+        "ld-seo-content-briefs for missing brief/style/keyword/SERP/link inputs",
+        "ld-seo-shopify-collection-writing for collection copy"
+      ],
+      "notes": "Output Shopify article body HTML only unless the brief explicitly allows more."
+    },
+    "ld-seo-audits-reporting": {
+      "commands_or_intents": [
+        "/ldseo-audit-page <url>",
+        "/ldseo-audit-site <client>",
+        "/ldseo-monthly-report <client>",
+        "/ldseo-traffic <client>",
+        "explicit crawl-backed Doc + Sheet report"
+      ],
+      "skill_doc": "docs/agent/skills/ld-seo-audits-reporting/SKILL.md",
+      "workflow_docs": [
+        "docs/agent/workflows/single-page-audit.md",
+        "docs/agent/workflows/full-site-audit.md",
+        "docs/agent/workflows/monthly-performance-comment.md",
+        "docs/agent/workflows/ga4-traffic-check.md",
+        "docs/agent/workflows/monthly-combined-report.md"
+      ],
+      "required_preflight_reads": [
+        "selected audit/reporting workflow doc",
+        "client brief, sidecar when present, and timeline when client-scoped",
+        "docs/agent/skills/_routing-contract.md"
+      ],
+      "client_memory_required": true,
+      "mcp_dependencies": [
+        "seo-automation MCP",
+        "Google Drive MCP when writing or checking folders",
+        "Monday MCP for monthly comments/tasks",
+        "SE Ranking MCP/API for visibility and rankings"
+      ],
+      "api_dependencies": [
+        "GA4",
+        "GSC",
+        "SE Ranking",
+        "Firecrawl",
+        "Google Drive",
+        "Monday.com",
+        "Screaming Frog CLI for full technical audits"
+      ],
+      "scripts": [
+        "scripts/run_screaming_frog_audit.py",
+        "scripts/analyze_screaming_frog_export.py"
+      ],
+      "validators": [
+        "scripts/analyze_screaming_frog_export.py",
+        "scripts/validate_client_json.py"
+      ],
+      "write_gates": [
+        "confirm client, website, GA4 property, dates, destinations, and output subject for report writes",
+        "monthly performance comments require detailed chat analysis and explicit approval before Monday posting",
+        "prefer no-write traffic checks when no deliverable is requested"
+      ],
+      "readback_requirements": [
+        "read back created Docs/Sheets and verify links",
+        "report Monday item/update URL after posting",
+        "append timeline with reporting period and source caveats"
+      ],
+      "proof_block_fields": [
+        "client",
+        "reporting period or audit scope",
+        "GA4 property/channels",
+        "SE Ranking project/search engine",
+        "GSC property/source",
+        "pages audited or exported rows",
+        "crawl source/config",
+        "Drive folder or output URLs",
+        "Monday item/update URL if posted",
+        "top issues",
+        "caveats/warnings"
+      ],
+      "handoff_routes": [
+        "ld-seo-client-onboarding for missing setup",
+        "ld-seo-maintenance for access or filing blockers",
+        "ld-seo-content-briefs, ld-seo-collection-seo, or seo-roadmap-prioritisation for follow-up strategy work"
+      ],
+      "notes": "/ldseo-monthly-report routes to monthly-performance-comment.md, not monthly-combined-report.md."
+    }
+  }
+}

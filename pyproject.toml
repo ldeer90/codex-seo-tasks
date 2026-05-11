@@ -1,0 +1,39 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "seo-automation-mcp"
+version = "0.1.0"
+description = "Custom MCP server for SEO audits using GA4, Google Workspace, and Firecrawl."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "google-api-python-client>=2.170.0",
+  "google-auth>=2.40.0",
+  "httpx>=0.28.0",
+  "mcp>=1.8.0",
+  "python-dotenv>=1.1.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3.0",
+  "ruff>=0.11.0",
+]
+
+[project.scripts]
+seo-automation-mcp = "seo_automation_mcp.server:main"
+generate-platform-reference = "seo_automation_mcp.platform_inventory:main"
+scan-client-folders = "seo_automation_mcp.platform_inventory:scan_client_folders_main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/seo_automation_mcp"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

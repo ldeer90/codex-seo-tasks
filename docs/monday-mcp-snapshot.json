@@ -1,0 +1,1766 @@
+{
+  "board_count": 35,
+  "notes": [
+    "Collected through monday MCP connector, not by exporting items or updates.",
+    "Column schema is summarized as column id, title, and type."
+  ],
+  "ok": true,
+  "source": "monday_mcp_snapshot",
+  "workspace_count": 2,
+  "workspaces": [
+    {
+      "boards": [
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "column_templates___column",
+              "title": "Deal Status",
+              "type": "status"
+            },
+            {
+              "id": "date_mkyaxdcs",
+              "title": "Date",
+              "type": "date"
+            },
+            {
+              "id": "people",
+              "title": "Sales Rep",
+              "type": "people"
+            },
+            {
+              "id": "date7",
+              "title": "Next Activity Date",
+              "type": "date"
+            },
+            {
+              "id": "status",
+              "title": "Priority",
+              "type": "status"
+            },
+            {
+              "id": "numbers",
+              "title": "Deal Size",
+              "type": "numbers"
+            },
+            {
+              "id": "date_mm0hnz4t",
+              "title": "Due Date",
+              "type": "date"
+            },
+            {
+              "id": "text3",
+              "title": "Company",
+              "type": "text"
+            },
+            {
+              "id": "email",
+              "title": "Email",
+              "type": "email"
+            },
+            {
+              "id": "location",
+              "title": "Location",
+              "type": "location"
+            },
+            {
+              "id": "phone",
+              "title": "Phone",
+              "type": "phone"
+            },
+            {
+              "id": "world_clock",
+              "title": "World Clock",
+              "type": "world_clock"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Opportunities"
+            },
+            {
+              "title": "Video Audit"
+            },
+            {
+              "title": "Lead"
+            },
+            {
+              "title": "Proposal"
+            },
+            {
+              "title": "Closed Won"
+            },
+            {
+              "title": "Closed Lost"
+            },
+            {
+              "title": "One Off Client Work"
+            }
+          ],
+          "id": "5025423034",
+          "item_count": 24,
+          "kind": "public",
+          "name": "Sales",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5025423034",
+          "workspace_id": "2767329"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "numeric_mm1gf6c7",
+              "title": "Cost / Month",
+              "type": "numbers"
+            },
+            {
+              "id": "date4",
+              "title": "Start Date",
+              "type": "date"
+            },
+            {
+              "id": "date_mm0t4anx",
+              "title": "Renewal Date",
+              "type": "date"
+            },
+            {
+              "id": "text_mm0z9mb9",
+              "title": "Invoice Agreement",
+              "type": "text"
+            },
+            {
+              "id": "date_mm0zjh60",
+              "title": "Invoicing Schedule",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Tools / Mont"
+            },
+            {
+              "title": "One off Expenses"
+            }
+          ],
+          "id": "5027236764",
+          "item_count": 17,
+          "kind": "public",
+          "name": "Expenses",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5027236764",
+          "workspace_id": "2767329"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "link_mm0tvxqd",
+              "title": "Link",
+              "type": "link"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Risk",
+              "type": "status"
+            },
+            {
+              "id": "date4",
+              "title": "Start Date",
+              "type": "date"
+            },
+            {
+              "id": "date_mm0t4anx",
+              "title": "Renewal Date",
+              "type": "date"
+            },
+            {
+              "id": "numeric_mm0tfsvq",
+              "title": "Retainer",
+              "type": "numbers"
+            },
+            {
+              "id": "file_mm0tz8ga",
+              "title": "Files",
+              "type": "file"
+            },
+            {
+              "id": "text_mm0z9mb9",
+              "title": "Invoice Agreement",
+              "type": "text"
+            },
+            {
+              "id": "date_mm0zjh60",
+              "title": "Invoicing Schedule",
+              "type": "date"
+            },
+            {
+              "id": "text_mm2tew4n",
+              "title": "Agreed Increase Amount",
+              "type": "text"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Current Clients"
+            },
+            {
+              "title": "Lost Clients"
+            }
+          ],
+          "id": "5026765711",
+          "item_count": 9,
+          "kind": "public",
+          "name": "Client Board",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026765711",
+          "workspace_id": "2767329"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date4",
+              "title": "Date",
+              "type": "date"
+            },
+            {
+              "id": "date_mkzwxc9m",
+              "title": "Due Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Admin"
+            },
+            {
+              "title": "Sales & Marketing"
+            }
+          ],
+          "id": "5025901101",
+          "item_count": 16,
+          "kind": "public",
+          "name": "Agents Digital Business",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5025901101",
+          "workspace_id": "2767329"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date4",
+              "title": "Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Group Title"
+            },
+            {
+              "title": "Group Title"
+            }
+          ],
+          "id": "5028185760",
+          "item_count": 0,
+          "kind": "public",
+          "name": "Build Vibe app",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5028185760",
+          "workspace_id": "2767329"
+        }
+      ],
+      "docs": [],
+      "folders": [],
+      "id": "2767329",
+      "kind": "open",
+      "name": "Agency Ops",
+      "url": "https://laurencedeer.monday.com/workspaces/2767329"
+    },
+    {
+      "boards": [
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "subtasks_mm0wvyhd",
+              "title": "Subitems",
+              "type": "subtasks"
+            },
+            {
+              "id": "text_mm0wm7pj",
+              "title": "Client URL",
+              "type": "text"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date4",
+              "title": "Date",
+              "type": "date"
+            },
+            {
+              "id": "date_mm0ywa0d",
+              "title": "Due Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "April"
+            },
+            {
+              "title": "May '26"
+            },
+            {
+              "title": "March '26"
+            },
+            {
+              "title": "Task Library"
+            }
+          ],
+          "id": "5026765957",
+          "item_count": 95,
+          "kind": "share",
+          "name": "SEO Tasks",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026765957",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "subtasks",
+              "title": "Subitems",
+              "type": "subtasks"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "due_date",
+              "title": "Due Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "May 26"
+            },
+            {
+              "title": "April '26"
+            },
+            {
+              "title": "March '26"
+            }
+          ],
+          "id": "5026978284",
+          "item_count": 16,
+          "kind": "share",
+          "name": "Shop Rongrong",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026978284",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            },
+            {
+              "id": "file_mm1a333q",
+              "title": "Files",
+              "type": "file"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5026978497",
+          "item_count": 5,
+          "kind": "share",
+          "name": "Subitems of Shop Rongrong",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026978497",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date4",
+              "title": "Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "June '26 Title"
+            },
+            {
+              "title": "May '26"
+            }
+          ],
+          "id": "5028353257",
+          "item_count": 5,
+          "kind": "public",
+          "name": "Melanit the Label",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5028353257",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "subtasks_mkyaz3hp",
+              "title": "Subitems",
+              "type": "subtasks"
+            },
+            {
+              "id": "project_owner",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "project_status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date",
+              "title": "Due date",
+              "type": "date"
+            },
+            {
+              "id": "text9",
+              "title": "Notes",
+              "type": "text"
+            },
+            {
+              "id": "duration_mkyag2ch",
+              "title": "Time tracking",
+              "type": "time_tracking"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "April"
+            },
+            {
+              "title": "March"
+            },
+            {
+              "title": "February"
+            },
+            {
+              "title": "Janurary '26"
+            },
+            {
+              "title": "December '25"
+            }
+          ],
+          "id": "5025418481",
+          "item_count": 25,
+          "kind": "share",
+          "name": "Joe Rascal Ducati",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5025418481",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "subtasks_mkyaz3hp",
+              "title": "Subitems",
+              "type": "subtasks"
+            },
+            {
+              "id": "project_owner",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "project_status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date",
+              "title": "Due date",
+              "type": "date"
+            },
+            {
+              "id": "text9",
+              "title": "Notes",
+              "type": "text"
+            },
+            {
+              "id": "duration_mkyag2ch",
+              "title": "Time tracking",
+              "type": "time_tracking"
+            },
+            {
+              "id": "file_mkzvvf4f",
+              "title": "Files",
+              "type": "file"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "April"
+            },
+            {
+              "title": "March"
+            },
+            {
+              "title": "February"
+            },
+            {
+              "title": "January '26"
+            },
+            {
+              "title": "December '25"
+            },
+            {
+              "title": "Completed"
+            }
+          ],
+          "id": "5025418382",
+          "item_count": 30,
+          "kind": "share",
+          "name": "Joe Rascal Harley",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5025418382",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "subtasks",
+              "title": "Subitems",
+              "type": "subtasks"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "due_date",
+              "title": "Due Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "May"
+            },
+            {
+              "title": "April"
+            },
+            {
+              "title": "March '26"
+            }
+          ],
+          "id": "5026978841",
+          "item_count": 20,
+          "kind": "share",
+          "name": "Little Shop of Happiness",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026978841",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "subtasks",
+              "title": "Subitems",
+              "type": "subtasks"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "due_date",
+              "title": "Due Date",
+              "type": "date"
+            },
+            {
+              "id": "file_mm1rs0wt",
+              "title": "Files",
+              "type": "file"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "May"
+            },
+            {
+              "title": "April"
+            },
+            {
+              "title": "March '26"
+            }
+          ],
+          "id": "5026978865",
+          "item_count": 23,
+          "kind": "share",
+          "name": "AVENUE Hampers",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026978865",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date4",
+              "title": "Date",
+              "type": "date"
+            },
+            {
+              "id": "subtasks_mm2wctaz",
+              "title": "Subitems",
+              "type": "subtasks"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "June"
+            },
+            {
+              "title": "May"
+            }
+          ],
+          "id": "5028135389",
+          "item_count": 5,
+          "kind": "share",
+          "name": "MrGadget",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5028135389",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "subtasks_mkyaz3hp",
+              "title": "Subitems",
+              "type": "subtasks"
+            },
+            {
+              "id": "project_owner",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "project_status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date",
+              "title": "Due date",
+              "type": "date"
+            },
+            {
+              "id": "text9",
+              "title": "Notes",
+              "type": "text"
+            },
+            {
+              "id": "duration_mkyag2ch",
+              "title": "Time tracking",
+              "type": "time_tracking"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Month 6"
+            },
+            {
+              "title": "Month 5"
+            },
+            {
+              "title": "Month 4"
+            },
+            {
+              "title": "Month 3"
+            },
+            {
+              "title": "Month 2"
+            },
+            {
+              "title": "March"
+            }
+          ],
+          "id": "5026665037",
+          "item_count": 30,
+          "kind": "share",
+          "name": "Acorn Car Rentals",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026665037",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "subtasks",
+              "title": "Subitems",
+              "type": "subtasks"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "due_date",
+              "title": "Due Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "April"
+            },
+            {
+              "title": "March"
+            },
+            {
+              "title": "February"
+            }
+          ],
+          "id": "5026853960",
+          "item_count": 9,
+          "kind": "share",
+          "name": "Joe Rascal",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026853960",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "subtasks",
+              "title": "Subitems",
+              "type": "subtasks"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "due_date",
+              "title": "Due Date",
+              "type": "date"
+            },
+            {
+              "id": "file_mkzvt1wp",
+              "title": "Files",
+              "type": "file"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "March"
+            },
+            {
+              "title": "Jan/Feb"
+            }
+          ],
+          "id": "5025899615",
+          "item_count": 14,
+          "kind": "share",
+          "name": "Salad Servers",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5025899615",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "subtasks",
+              "title": "Subitems",
+              "type": "subtasks"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "due_date",
+              "title": "Due Date",
+              "type": "date"
+            },
+            {
+              "id": "file_mm12cjsg",
+              "title": "Files",
+              "type": "file"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "April '26"
+            },
+            {
+              "title": "March '26"
+            }
+          ],
+          "id": "5026863900",
+          "item_count": 9,
+          "kind": "share",
+          "name": "TravelKon",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026863900",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5025418482",
+          "item_count": 14,
+          "kind": "share",
+          "name": "Subitems of Joe Rascal Ducati",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5025418482",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            },
+            {
+              "id": "date_mm00s7ds",
+              "title": "Due Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5025418417",
+          "item_count": 15,
+          "kind": "share",
+          "name": "Subitems of Joe Rascal Harley",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5025418417",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5026814371",
+          "item_count": 6,
+          "kind": "share",
+          "name": "Subitems of SEO Tasks",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026814371",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "multiple_person_mm0tkss5",
+              "title": "Writer",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "file_mm0t82wa",
+              "title": "Files",
+              "type": "file"
+            },
+            {
+              "id": "date4",
+              "title": "Due Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "March"
+            }
+          ],
+          "id": "5026765647",
+          "item_count": 0,
+          "kind": "share",
+          "name": "Link Building",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026765647",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5026854299",
+          "item_count": 2,
+          "kind": "share",
+          "name": "Subitems of Joe Rascal",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026854299",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "multiple_person_mm0tkss5",
+              "title": "Writer",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "file_mm0t82wa",
+              "title": "Files",
+              "type": "file"
+            },
+            {
+              "id": "date4",
+              "title": "Due Date",
+              "type": "date"
+            },
+            {
+              "id": "board_relation_mm0t1y0b",
+              "title": "Connect boards",
+              "type": "board_relation"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "March"
+            }
+          ],
+          "id": "5026765469",
+          "item_count": 3,
+          "kind": "share",
+          "name": "Content Board",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026765469",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            },
+            {
+              "id": "file_mm12dn3a",
+              "title": "Files",
+              "type": "file"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5026863958",
+          "item_count": 4,
+          "kind": "share",
+          "name": "Subitems of TravelKon",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026863958",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5026673365",
+          "item_count": 24,
+          "kind": "public",
+          "name": "Subitems of Monthly SEO Task List",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026673365",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "multiple_person_mm0njpyy",
+              "title": "Assignees",
+              "type": "people"
+            },
+            {
+              "id": "color_mm0n8p72",
+              "title": "Priority",
+              "type": "status"
+            },
+            {
+              "id": "date_mm0nc5ze",
+              "title": "Due Date",
+              "type": "date"
+            },
+            {
+              "id": "color_mm0nwnj1",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "file_mm0n646n",
+              "title": "Attachments",
+              "type": "file"
+            },
+            {
+              "id": "subtasks_mm0nwmc1",
+              "title": "Subitems",
+              "type": "subtasks"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "March '26"
+            },
+            {
+              "title": "March '26"
+            },
+            {
+              "title": "February '26"
+            },
+            {
+              "title": "Planned"
+            }
+          ],
+          "id": "5026673359",
+          "item_count": 15,
+          "kind": "public",
+          "name": "Monthly SEO Task List",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026673359",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            },
+            {
+              "id": "file_mm0ya4sv",
+              "title": "Files",
+              "type": "file"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5026665038",
+          "item_count": 5,
+          "kind": "share",
+          "name": "Subitems of Acorn Car Rentals",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026665038",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            },
+            {
+              "id": "file_mm1536kp",
+              "title": "Files",
+              "type": "file"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5026978842",
+          "item_count": 5,
+          "kind": "share",
+          "name": "Subitems of Little Shop of Happiness",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026978842",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "files",
+              "title": "Files",
+              "type": "file"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Group Title"
+            }
+          ],
+          "id": "5026204886",
+          "item_count": 1,
+          "kind": "public",
+          "name": "MCP getting started",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026204886",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            },
+            {
+              "id": "file_mm14fv92",
+              "title": "Files",
+              "type": "file"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5026978866",
+          "item_count": 5,
+          "kind": "share",
+          "name": "Subitems of AVENUE Hampers",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026978866",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            },
+            {
+              "id": "file_mkzv2xp3",
+              "title": "Files",
+              "type": "file"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5026186217",
+          "item_count": 11,
+          "kind": "share",
+          "name": "Subitems of Salad Servers",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5026186217",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Owner",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date0",
+              "title": "Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Subitems"
+            }
+          ],
+          "id": "5028139420",
+          "item_count": 0,
+          "kind": "share",
+          "name": "Subitems of MrGadget",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5028139420",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date4",
+              "title": "Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "Group Title"
+            },
+            {
+              "title": "Group Title"
+            }
+          ],
+          "id": "5028178101",
+          "item_count": 0,
+          "kind": "public",
+          "name": "Build Vibe app",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5028178101",
+          "workspace_id": "2556079"
+        },
+        {
+          "columns": [
+            {
+              "id": "name",
+              "title": "Name",
+              "type": "name"
+            },
+            {
+              "id": "person",
+              "title": "Person",
+              "type": "people"
+            },
+            {
+              "id": "status",
+              "title": "Status",
+              "type": "status"
+            },
+            {
+              "id": "date4",
+              "title": "Date",
+              "type": "date"
+            }
+          ],
+          "folder_id": null,
+          "groups": [
+            {
+              "title": "December"
+            }
+          ],
+          "id": "5025899606",
+          "item_count": 4,
+          "kind": "share",
+          "name": "HEIYCH",
+          "source": "monday_mcp",
+          "state": "active",
+          "url": "https://laurencedeer.monday.com/boards/5025899606",
+          "workspace_id": "2556079"
+        }
+      ],
+      "docs": [
+        {
+          "id": "2336639",
+          "name": "MCP getting started"
+        }
+      ],
+      "folders": [],
+      "id": "2556079",
+      "kind": "open",
+      "name": "Main workspace",
+      "url": "https://laurencedeer.monday.com/workspaces/2556079"
+    }
+  ]
+}

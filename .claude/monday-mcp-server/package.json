@@ -1,0 +1,9 @@
+{
+  "name": "monday-mcp-local",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@mondaydotcomorg/monday-api-mcp": "latest",
+    "exceljs": "latest"
+  }
+}

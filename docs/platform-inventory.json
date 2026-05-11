@@ -1,0 +1,3709 @@
+{
+  "credentials": {
+    "google_delegated_subjects": [
+      "seo@agents.digital",
+      "hello@agents.digital"
+    ],
+    "google_output_delegated_subject": "hello@agents.digital",
+    "google_site_access_map": "config/site-access.json",
+    "monday_api_key_configured": false,
+    "se_ranking_mcp_name": "se-ranking",
+    "se_ranking_mcp_url": "https://api.seranking.com/mcp",
+    "secrets_redacted": true
+  },
+  "cross_platform_client_map": {
+    "clients": [
+      {
+        "client_key": "acorn rentals",
+        "drive": [
+          {
+            "id": "1M2MXfkRFsAMy5nFoM2m7miNOnjBEkvoj",
+            "name": "Acorn Rentals",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1M2MXfkRFsAMy5nFoM2m7miNOnjBEkvoj"
+          },
+          {
+            "id": "1M2MXfkRFsAMy5nFoM2m7miNOnjBEkvoj",
+            "name": "Acorn Rentals",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1M2MXfkRFsAMy5nFoM2m7miNOnjBEkvoj"
+          }
+        ],
+        "ga4": [
+          {
+            "account": {
+              "name": "Acorn Rentals",
+              "resource": "accounts/15878613"
+            },
+            "property": {
+              "displayName": "Acorn Rentals - GA4",
+              "parent": "accounts/15878613",
+              "property": "properties/423383715",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "http://www.acornrentals.com.au/",
+                "measurement_id": "G-V0TFMZMDWN",
+                "name": "Acorn Rentals - GA4",
+                "stream": "properties/423383715/dataStreams/6645827180"
+              }
+            ],
+            "subject": "hello@agents.digital"
+          }
+        ],
+        "monday": [
+          {
+            "board_id": "5026665037",
+            "name": "Acorn Car Rentals",
+            "url": "https://laurencedeer.monday.com/boards/5026665037",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          },
+          {
+            "board_id": "5026665038",
+            "name": "Subitems of Acorn Car Rentals",
+            "url": "https://laurencedeer.monday.com/boards/5026665038",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          }
+        ],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "agents digital business",
+        "drive": [],
+        "ga4": [],
+        "monday": [
+          {
+            "board_id": "5025901101",
+            "name": "Agents Digital Business",
+            "url": "https://laurencedeer.monday.com/boards/5025901101",
+            "workspace": "Agency Ops",
+            "workspace_id": "2767329"
+          }
+        ],
+        "subjects": []
+      },
+      {
+        "client_key": "avenue hampers",
+        "drive": [
+          {
+            "id": "1LGXJQosWUROG5s4MVxbNaFgMvXFd90en",
+            "name": "AVENUE Hampers",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1LGXJQosWUROG5s4MVxbNaFgMvXFd90en"
+          },
+          {
+            "id": "1LGXJQosWUROG5s4MVxbNaFgMvXFd90en",
+            "name": "AVENUE Hampers",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1LGXJQosWUROG5s4MVxbNaFgMvXFd90en"
+          }
+        ],
+        "ga4": [
+          {
+            "account": {
+              "name": "Avenue Hampers",
+              "resource": "accounts/137267837"
+            },
+            "property": {
+              "displayName": "Avenue Hampers - GA4",
+              "parent": "accounts/137267837",
+              "property": "properties/356217618",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://www.avenuehampers.com.au",
+                "measurement_id": "G-PGZTDE1VH0",
+                "name": "Avenue Hampers - GA4",
+                "stream": "properties/356217618/dataStreams/4670863884"
+              }
+            ],
+            "subject": "seo@agents.digital"
+          },
+          {
+            "account": {
+              "name": "Avenue Hampers",
+              "resource": "accounts/137267837"
+            },
+            "property": {
+              "displayName": "Avenue Hampers - GA4",
+              "parent": "accounts/137267837",
+              "property": "properties/356217618",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://www.avenuehampers.com.au",
+                "measurement_id": "G-PGZTDE1VH0",
+                "name": "Avenue Hampers - GA4",
+                "stream": "properties/356217618/dataStreams/4670863884"
+              }
+            ],
+            "subject": "hello@agents.digital"
+          }
+        ],
+        "monday": [
+          {
+            "board_id": "5026978865",
+            "name": "AVENUE Hampers",
+            "url": "https://laurencedeer.monday.com/boards/5026978865",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          },
+          {
+            "board_id": "5026978866",
+            "name": "Subitems of AVENUE Hampers",
+            "url": "https://laurencedeer.monday.com/boards/5026978866",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          }
+        ],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "business admin",
+        "drive": [
+          {
+            "id": "1Nv5NvKxw-0Ai49h7KclMxOA8tmBU6cmY",
+            "name": "Business Admin",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1Nv5NvKxw-0Ai49h7KclMxOA8tmBU6cmY"
+          },
+          {
+            "id": "1Nv5NvKxw-0Ai49h7KclMxOA8tmBU6cmY",
+            "name": "Business Admin",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1Nv5NvKxw-0Ai49h7KclMxOA8tmBU6cmY"
+          }
+        ],
+        "ga4": [],
+        "monday": [],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "client template",
+        "drive": [
+          {
+            "id": "1NSxmr_AUHoweWrFfKotEvBiJ88zdwOPZ",
+            "name": "_ CLIENT TEMPLATE",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1NSxmr_AUHoweWrFfKotEvBiJ88zdwOPZ"
+          },
+          {
+            "id": "1NSxmr_AUHoweWrFfKotEvBiJ88zdwOPZ",
+            "name": "_ CLIENT TEMPLATE",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1NSxmr_AUHoweWrFfKotEvBiJ88zdwOPZ"
+          }
+        ],
+        "ga4": [],
+        "monday": [],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "clients",
+        "drive": [
+          {
+            "id": "11AdlM1m9kpa3qtJr5RKIyYNUQWUseqb4",
+            "name": "Clients",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/11AdlM1m9kpa3qtJr5RKIyYNUQWUseqb4"
+          },
+          {
+            "id": "11AdlM1m9kpa3qtJr5RKIyYNUQWUseqb4",
+            "name": "Clients",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/11AdlM1m9kpa3qtJr5RKIyYNUQWUseqb4"
+          }
+        ],
+        "ga4": [],
+        "monday": [],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "ducatijr",
+        "drive": [
+          {
+            "id": "1A517vB5hqdQHdFtZ43SuGRGewHWlgklq",
+            "name": "ducatijr",
+            "section": "root_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1A517vB5hqdQHdFtZ43SuGRGewHWlgklq"
+          }
+        ],
+        "ga4": [],
+        "monday": [],
+        "subjects": [
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "joe rascal",
+        "drive": [
+          {
+            "id": "14gHf6UZjgZ751CUP6iLz3Sf6WTTQBWSN",
+            "name": "Joe Rascal",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/14gHf6UZjgZ751CUP6iLz3Sf6WTTQBWSN"
+          },
+          {
+            "id": "14gHf6UZjgZ751CUP6iLz3Sf6WTTQBWSN",
+            "name": "Joe Rascal",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/14gHf6UZjgZ751CUP6iLz3Sf6WTTQBWSN"
+          }
+        ],
+        "ga4": [],
+        "monday": [
+          {
+            "board_id": "5026853960",
+            "name": "Joe Rascal",
+            "url": "https://laurencedeer.monday.com/boards/5026853960",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          },
+          {
+            "board_id": "5026854299",
+            "name": "Subitems of Joe Rascal",
+            "url": "https://laurencedeer.monday.com/boards/5026854299",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          }
+        ],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "joe rascal ducati",
+        "drive": [
+          {
+            "id": "157-ddATrb2byi0VMJYKg9JET4RzqIFFr",
+            "name": "Joe Rascal Ducati ",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/157-ddATrb2byi0VMJYKg9JET4RzqIFFr"
+          },
+          {
+            "id": "157-ddATrb2byi0VMJYKg9JET4RzqIFFr",
+            "name": "Joe Rascal Ducati ",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/157-ddATrb2byi0VMJYKg9JET4RzqIFFr"
+          }
+        ],
+        "ga4": [
+          {
+            "account": {
+              "name": "Ducati Melbourne",
+              "resource": "accounts/281475195"
+            },
+            "property": {
+              "displayName": "Ducati Melbourne - GA4",
+              "parent": "accounts/281475195",
+              "property": "properties/402313624",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://www.ducatimelbourne.com.au/",
+                "measurement_id": "G-DNQVKWJJ0E",
+                "name": "Ducati Melbourne - GA4",
+                "stream": "properties/402313624/dataStreams/5988240876"
+              },
+              {
+                "default_uri": "https://joerascalducati.com.au/",
+                "measurement_id": "G-CFPVWFWNGJ",
+                "name": "Joe Rascal Ducati",
+                "stream": "properties/402313624/dataStreams/12990327394"
+              }
+            ],
+            "subject": "seo@agents.digital"
+          },
+          {
+            "account": {
+              "name": "Ducati Melbourne",
+              "resource": "accounts/281475195"
+            },
+            "property": {
+              "displayName": "Ducati Melbourne - GA4",
+              "parent": "accounts/281475195",
+              "property": "properties/402313624",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://www.ducatimelbourne.com.au/",
+                "measurement_id": "G-DNQVKWJJ0E",
+                "name": "Ducati Melbourne - GA4",
+                "stream": "properties/402313624/dataStreams/5988240876"
+              },
+              {
+                "default_uri": "https://joerascalducati.com.au/",
+                "measurement_id": "G-CFPVWFWNGJ",
+                "name": "Joe Rascal Ducati",
+                "stream": "properties/402313624/dataStreams/12990327394"
+              }
+            ],
+            "subject": "hello@agents.digital"
+          }
+        ],
+        "monday": [
+          {
+            "board_id": "5025418481",
+            "name": "Joe Rascal Ducati",
+            "url": "https://laurencedeer.monday.com/boards/5025418481",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          },
+          {
+            "board_id": "5025418482",
+            "name": "Subitems of Joe Rascal Ducati",
+            "url": "https://laurencedeer.monday.com/boards/5025418482",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          }
+        ],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "joe rascal global",
+        "drive": [],
+        "ga4": [
+          {
+            "account": {
+              "name": "Joe Rascal Harley",
+              "resource": "accounts/375316773"
+            },
+            "property": {
+              "displayName": "Joe Rascal Global - GA4",
+              "parent": "accounts/375316773",
+              "property": "properties/525910399",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://joerascal.com",
+                "measurement_id": "G-681P69RP8Y",
+                "name": "Joe Rascal Global Website",
+                "stream": "properties/525910399/dataStreams/13662107134"
+              }
+            ],
+            "subject": "seo@agents.digital"
+          },
+          {
+            "account": {
+              "name": "Joe Rascal Harley",
+              "resource": "accounts/375316773"
+            },
+            "property": {
+              "displayName": "Joe Rascal Global - GA4",
+              "parent": "accounts/375316773",
+              "property": "properties/525910399",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://joerascal.com",
+                "measurement_id": "G-681P69RP8Y",
+                "name": "Joe Rascal Global Website",
+                "stream": "properties/525910399/dataStreams/13662107134"
+              }
+            ],
+            "subject": "hello@agents.digital"
+          }
+        ],
+        "monday": [],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "joe rascal harley",
+        "drive": [
+          {
+            "id": "1XENbhUku8qau7HM5I7D9ivtIhrKpfU0s",
+            "name": "Joe Rascal Harley",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1XENbhUku8qau7HM5I7D9ivtIhrKpfU0s"
+          },
+          {
+            "id": "1XENbhUku8qau7HM5I7D9ivtIhrKpfU0s",
+            "name": "Joe Rascal Harley",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1XENbhUku8qau7HM5I7D9ivtIhrKpfU0s"
+          }
+        ],
+        "ga4": [
+          {
+            "account": {
+              "name": "Joe Rascal Harley",
+              "resource": "accounts/375316773"
+            },
+            "property": {
+              "displayName": "Joe Rascal Harley",
+              "parent": "accounts/375316773",
+              "property": "properties/513354197",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://www.joerascalharley.com.au",
+                "measurement_id": "G-4BSCWVPQDQ",
+                "name": "Joe Rascal Harley",
+                "stream": "properties/513354197/dataStreams/12997002549"
+              }
+            ],
+            "subject": "seo@agents.digital"
+          },
+          {
+            "account": {
+              "name": "Joe Rascal Harley",
+              "resource": "accounts/375316773"
+            },
+            "property": {
+              "displayName": "Joe Rascal Harley",
+              "parent": "accounts/375316773",
+              "property": "properties/513354197",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://www.joerascalharley.com.au",
+                "measurement_id": "G-4BSCWVPQDQ",
+                "name": "Joe Rascal Harley",
+                "stream": "properties/513354197/dataStreams/12997002549"
+              }
+            ],
+            "subject": "hello@agents.digital"
+          }
+        ],
+        "monday": [
+          {
+            "board_id": "5025418382",
+            "name": "Joe Rascal Harley",
+            "url": "https://laurencedeer.monday.com/boards/5025418382",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          },
+          {
+            "board_id": "5025418417",
+            "name": "Subitems of Joe Rascal Harley",
+            "url": "https://laurencedeer.monday.com/boards/5025418417",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          }
+        ],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "little shop of happiness",
+        "drive": [
+          {
+            "id": "1wN3HSAcKrkXRLxuFA0OlHyGDqLDo9hx7",
+            "name": "Little Shop of Happiness",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1wN3HSAcKrkXRLxuFA0OlHyGDqLDo9hx7"
+          },
+          {
+            "id": "1wN3HSAcKrkXRLxuFA0OlHyGDqLDo9hx7",
+            "name": "Little Shop of Happiness",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1wN3HSAcKrkXRLxuFA0OlHyGDqLDo9hx7"
+          }
+        ],
+        "ga4": [
+          {
+            "account": {
+              "name": "Little Shop Of Happiness",
+              "resource": "accounts/115891819"
+            },
+            "property": {
+              "displayName": "Little Shop Of Happiness - GA4",
+              "parent": "accounts/115891819",
+              "property": "properties/399571311",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://www.littleboxofhappiness.com.au",
+                "measurement_id": "G-C7BG6LE7KR",
+                "name": "Little Shop Of Happiness - GA4",
+                "stream": "properties/399571311/dataStreams/5913189091"
+              }
+            ],
+            "subject": "seo@agents.digital"
+          }
+        ],
+        "monday": [
+          {
+            "board_id": "5026978841",
+            "name": "Little Shop of Happiness",
+            "url": "https://laurencedeer.monday.com/boards/5026978841",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          },
+          {
+            "board_id": "5026978842",
+            "name": "Subitems of Little Shop of Happiness",
+            "url": "https://laurencedeer.monday.com/boards/5026978842",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          }
+        ],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "melani the label",
+        "drive": [
+          {
+            "id": "1HWLcsHS38P5u_d_vfrWux3LaRVln9iMJ",
+            "name": "Melani the Label",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1HWLcsHS38P5u_d_vfrWux3LaRVln9iMJ"
+          },
+          {
+            "id": "1HWLcsHS38P5u_d_vfrWux3LaRVln9iMJ",
+            "name": "Melani the Label",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1HWLcsHS38P5u_d_vfrWux3LaRVln9iMJ"
+          }
+        ],
+        "ga4": [
+          {
+            "account": {
+              "name": "Melani The Label GA4",
+              "resource": "accounts/264527124"
+            },
+            "property": {
+              "displayName": "Melani The Label",
+              "parent": "accounts/264527124",
+              "property": "properties/369346274",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://melanithelabel.com",
+                "measurement_id": "G-DXM05D46Y6",
+                "name": "M\u00c9LANI THE LABEL",
+                "stream": "properties/369346274/dataStreams/5042084823"
+              }
+            ],
+            "subject": "seo@agents.digital"
+          }
+        ],
+        "monday": [
+          {
+            "board_id": "5028353257",
+            "name": "Melanit the Label",
+            "url": "https://laurencedeer.monday.com/boards/5028353257",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          }
+        ],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "mrgadget",
+        "drive": [],
+        "ga4": [],
+        "monday": [
+          {
+            "board_id": "5028135389",
+            "name": "MrGadget",
+            "url": "https://laurencedeer.monday.com/boards/5028135389",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          },
+          {
+            "board_id": "5028139420",
+            "name": "Subitems of MrGadget",
+            "url": "https://laurencedeer.monday.com/boards/5028139420",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          }
+        ],
+        "subjects": []
+      },
+      {
+        "client_key": "new client forms",
+        "drive": [
+          {
+            "id": "1eFoEqwgMyuWyMbQuOZZAzK4xtfQTB7Ao",
+            "name": "New Client Forms",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1eFoEqwgMyuWyMbQuOZZAzK4xtfQTB7Ao"
+          },
+          {
+            "id": "1eFoEqwgMyuWyMbQuOZZAzK4xtfQTB7Ao",
+            "name": "New Client Forms",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1eFoEqwgMyuWyMbQuOZZAzK4xtfQTB7Ao"
+          }
+        ],
+        "ga4": [],
+        "monday": [],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "salad servers",
+        "drive": [
+          {
+            "id": "1VTJy6FaSqLkOyRxaf7ZiAQuoIQVXatyf",
+            "name": "Salad Servers",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1VTJy6FaSqLkOyRxaf7ZiAQuoIQVXatyf"
+          },
+          {
+            "id": "1VTJy6FaSqLkOyRxaf7ZiAQuoIQVXatyf",
+            "name": "Salad Servers",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1VTJy6FaSqLkOyRxaf7ZiAQuoIQVXatyf"
+          }
+        ],
+        "ga4": [
+          {
+            "account": {
+              "name": "Salad Servers Direct",
+              "resource": "accounts/178748241"
+            },
+            "property": {
+              "displayName": "Salad Servers Direct - GA4",
+              "parent": "accounts/178748241",
+              "property": "properties/378662387",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://direct.saladservers.com.au/",
+                "measurement_id": "G-1QXVMW31CK",
+                "name": "Salad Servers Direct - GA4",
+                "stream": "properties/378662387/dataStreams/5267049051"
+              }
+            ],
+            "subject": "seo@agents.digital"
+          }
+        ],
+        "monday": [
+          {
+            "board_id": "5025899615",
+            "name": "Salad Servers",
+            "url": "https://laurencedeer.monday.com/boards/5025899615",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          },
+          {
+            "board_id": "5026186217",
+            "name": "Subitems of Salad Servers",
+            "url": "https://laurencedeer.monday.com/boards/5026186217",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          }
+        ],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "shop rongrong",
+        "drive": [
+          {
+            "id": "1TTxwqCl5JurXCyva9kGK9rz5v66YzaXU",
+            "name": "Shop Rongrong",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1TTxwqCl5JurXCyva9kGK9rz5v66YzaXU"
+          },
+          {
+            "id": "1TTxwqCl5JurXCyva9kGK9rz5v66YzaXU",
+            "name": "Shop Rongrong",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/1TTxwqCl5JurXCyva9kGK9rz5v66YzaXU"
+          }
+        ],
+        "ga4": [
+          {
+            "account": {
+              "name": "Shop Ronrong",
+              "resource": "accounts/123742926"
+            },
+            "property": {
+              "displayName": "Shop Rongrong - GA4",
+              "parent": "accounts/123742926",
+              "property": "properties/354478921",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "http://shoprongrong.com",
+                "measurement_id": "G-ZL24MRZEM7",
+                "name": "Shop Rongrong - GA4",
+                "stream": "properties/354478921/dataStreams/4641436957"
+              }
+            ],
+            "subject": "seo@agents.digital"
+          }
+        ],
+        "monday": [
+          {
+            "board_id": "5026978284",
+            "name": "Shop Rongrong",
+            "url": "https://laurencedeer.monday.com/boards/5026978284",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          },
+          {
+            "board_id": "5026978497",
+            "name": "Subitems of Shop Rongrong",
+            "url": "https://laurencedeer.monday.com/boards/5026978497",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          }
+        ],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      },
+      {
+        "client_key": "travelkon",
+        "drive": [
+          {
+            "id": "175zcM_g56_jtpU1m9bzAMFvLFahXAqS3",
+            "name": "TravelKon",
+            "section": "shared_with_me_folders",
+            "subject": "seo@agents.digital",
+            "url": "https://drive.google.com/drive/folders/175zcM_g56_jtpU1m9bzAMFvLFahXAqS3"
+          },
+          {
+            "id": "175zcM_g56_jtpU1m9bzAMFvLFahXAqS3",
+            "name": "TravelKon",
+            "section": "root_folders",
+            "subject": "hello@agents.digital",
+            "url": "https://drive.google.com/drive/folders/175zcM_g56_jtpU1m9bzAMFvLFahXAqS3"
+          }
+        ],
+        "ga4": [
+          {
+            "account": {
+              "name": "TravelKon",
+              "resource": "accounts/150364053"
+            },
+            "property": {
+              "displayName": "TravelKon - GA4",
+              "parent": "accounts/150364053",
+              "property": "properties/387124003",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "https://www.travelkon.com.au",
+                "measurement_id": "G-NKF7LKLVW5",
+                "name": "https://www.travelkon.com.au",
+                "stream": "properties/387124003/dataStreams/7588420375"
+              }
+            ],
+            "subject": "seo@agents.digital"
+          },
+          {
+            "account": {
+              "name": "TravelKon",
+              "resource": "accounts/150364053"
+            },
+            "property": {
+              "displayName": "travelkon-app-notification",
+              "parent": "accounts/150364053",
+              "property": "properties/532415351",
+              "propertyType": "PROPERTY_TYPE_ORDINARY"
+            },
+            "streams": [
+              {
+                "default_uri": "",
+                "measurement_id": "G-ZE1BR9QTCD",
+                "name": "TravelKon",
+                "stream": "properties/532415351/dataStreams/14348870810"
+              },
+              {
+                "default_uri": "",
+                "measurement_id": "",
+                "name": "Travelkon Android",
+                "stream": "properties/532415351/dataStreams/14357304420"
+              },
+              {
+                "default_uri": "",
+                "measurement_id": "",
+                "name": "Travelkon iOS",
+                "stream": "properties/532415351/dataStreams/14357467634"
+              }
+            ],
+            "subject": "seo@agents.digital"
+          }
+        ],
+        "monday": [
+          {
+            "board_id": "5026863900",
+            "name": "TravelKon",
+            "url": "https://laurencedeer.monday.com/boards/5026863900",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          },
+          {
+            "board_id": "5026863958",
+            "name": "Subitems of TravelKon",
+            "url": "https://laurencedeer.monday.com/boards/5026863958",
+            "workspace": "Main workspace",
+            "workspace_id": "2556079"
+          }
+        ],
+        "subjects": [
+          "hello@agents.digital",
+          "seo@agents.digital"
+        ]
+      }
+    ],
+    "unmatched": {
+      "drive": [
+        "business admin",
+        "client template",
+        "clients",
+        "ducatijr",
+        "new client forms"
+      ],
+      "ga4": [
+        "joe rascal global"
+      ],
+      "monday": [
+        "agents digital business",
+        "mrgadget"
+      ]
+    }
+  },
+  "generated_at": "2026-05-08T10:19:27.877605+00:00",
+  "google": {
+    "subjects": {
+      "hello@agents.digital": {
+        "drive": {
+          "about_user": {
+            "displayName": "Laurence Deer",
+            "emailAddress": "hello@agents.digital",
+            "permissionId": "12813037236131344656"
+          },
+          "ok": true,
+          "root_folders": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1I3xNzkn9vIW4iXRPJMMpBUBOqcUt3ibS",
+                      "name": "Sales",
+                      "url": "https://drive.google.com/drive/folders/1I3xNzkn9vIW4iXRPJMMpBUBOqcUt3ibS"
+                    }
+                  ],
+                  "driveId": "",
+                  "id": "1Nv5NvKxw-0Ai49h7KclMxOA8tmBU6cmY",
+                  "name": "Business Admin",
+                  "url": "https://drive.google.com/drive/folders/1Nv5NvKxw-0Ai49h7KclMxOA8tmBU6cmY"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1NSxmr_AUHoweWrFfKotEvBiJ88zdwOPZ",
+                      "name": "_ CLIENT TEMPLATE",
+                      "url": "https://drive.google.com/drive/folders/1NSxmr_AUHoweWrFfKotEvBiJ88zdwOPZ"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1M2MXfkRFsAMy5nFoM2m7miNOnjBEkvoj",
+                      "name": "Acorn Rentals",
+                      "url": "https://drive.google.com/drive/folders/1M2MXfkRFsAMy5nFoM2m7miNOnjBEkvoj"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1LGXJQosWUROG5s4MVxbNaFgMvXFd90en",
+                      "name": "AVENUE Hampers",
+                      "url": "https://drive.google.com/drive/folders/1LGXJQosWUROG5s4MVxbNaFgMvXFd90en"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "14gHf6UZjgZ751CUP6iLz3Sf6WTTQBWSN",
+                      "name": "Joe Rascal",
+                      "url": "https://drive.google.com/drive/folders/14gHf6UZjgZ751CUP6iLz3Sf6WTTQBWSN"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "157-ddATrb2byi0VMJYKg9JET4RzqIFFr",
+                      "name": "Joe Rascal Ducati ",
+                      "url": "https://drive.google.com/drive/folders/157-ddATrb2byi0VMJYKg9JET4RzqIFFr"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1XENbhUku8qau7HM5I7D9ivtIhrKpfU0s",
+                      "name": "Joe Rascal Harley",
+                      "url": "https://drive.google.com/drive/folders/1XENbhUku8qau7HM5I7D9ivtIhrKpfU0s"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1wN3HSAcKrkXRLxuFA0OlHyGDqLDo9hx7",
+                      "name": "Little Shop of Happiness",
+                      "url": "https://drive.google.com/drive/folders/1wN3HSAcKrkXRLxuFA0OlHyGDqLDo9hx7"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1HWLcsHS38P5u_d_vfrWux3LaRVln9iMJ",
+                      "name": "Melani the Label",
+                      "url": "https://drive.google.com/drive/folders/1HWLcsHS38P5u_d_vfrWux3LaRVln9iMJ"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1eFoEqwgMyuWyMbQuOZZAzK4xtfQTB7Ao",
+                      "name": "New Client Forms",
+                      "url": "https://drive.google.com/drive/folders/1eFoEqwgMyuWyMbQuOZZAzK4xtfQTB7Ao"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1VTJy6FaSqLkOyRxaf7ZiAQuoIQVXatyf",
+                      "name": "Salad Servers",
+                      "url": "https://drive.google.com/drive/folders/1VTJy6FaSqLkOyRxaf7ZiAQuoIQVXatyf"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1TTxwqCl5JurXCyva9kGK9rz5v66YzaXU",
+                      "name": "Shop Rongrong",
+                      "url": "https://drive.google.com/drive/folders/1TTxwqCl5JurXCyva9kGK9rz5v66YzaXU"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "175zcM_g56_jtpU1m9bzAMFvLFahXAqS3",
+                      "name": "TravelKon",
+                      "url": "https://drive.google.com/drive/folders/175zcM_g56_jtpU1m9bzAMFvLFahXAqS3"
+                    }
+                  ],
+                  "driveId": "",
+                  "id": "11AdlM1m9kpa3qtJr5RKIyYNUQWUseqb4",
+                  "name": "Clients",
+                  "url": "https://drive.google.com/drive/folders/11AdlM1m9kpa3qtJr5RKIyYNUQWUseqb4"
+                }
+              ],
+              "driveId": "",
+              "id": "1ZpzgOmzDHmb01ebq_N0lejCI74r3s1jd",
+              "name": "Agents Digital ",
+              "url": "https://drive.google.com/drive/folders/1ZpzgOmzDHmb01ebq_N0lejCI74r3s1jd"
+            },
+            {
+              "children": [],
+              "driveId": "",
+              "id": "1BnGp9OmYaz3al63tIHy-dBGvHwAllD2c",
+              "name": "Google AI Studio",
+              "url": "https://drive.google.com/drive/folders/1BnGp9OmYaz3al63tIHy-dBGvHwAllD2c"
+            },
+            {
+              "children": [],
+              "driveId": "",
+              "id": "1wau6vtgKBbcv3K-yMgCJDF1XhbWd6Mu0",
+              "name": "Sales",
+              "url": "https://drive.google.com/drive/folders/1wau6vtgKBbcv3K-yMgCJDF1XhbWd6Mu0"
+            },
+            {
+              "children": [],
+              "driveId": "",
+              "id": "1glIWyMWwtvWtXWk1nO0nr6_jrq9JOq0T",
+              "name": "Screaming Frog SEO Spider",
+              "url": "https://drive.google.com/drive/folders/1glIWyMWwtvWtXWk1nO0nr6_jrq9JOq0T"
+            },
+            {
+              "children": [],
+              "driveId": "",
+              "id": "1PVDEa6r6S2cBAxZ_w55zOuFrUk3OM0zW",
+              "name": "untitled folder",
+              "url": "https://drive.google.com/drive/folders/1PVDEa6r6S2cBAxZ_w55zOuFrUk3OM0zW"
+            },
+            {
+              "children": [],
+              "driveId": "",
+              "id": "1TYxXiWJLBZhg803bXrH9F2Npp9sVRlzx",
+              "name": "Work Templates",
+              "url": "https://drive.google.com/drive/folders/1TYxXiWJLBZhg803bXrH9F2Npp9sVRlzx"
+            }
+          ],
+          "shared_drives": [],
+          "shared_with_me_folders": []
+        },
+        "ga4": {
+          "account_count": 5,
+          "ok": true,
+          "properties": [
+            {
+              "account": {
+                "name": "Avenue Hampers",
+                "resource": "accounts/137267837"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2023-03-02T11:52:29.126Z",
+                  "displayName": "Avenue Hampers - GA4",
+                  "name": "properties/356217618/dataStreams/4670863884",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2023-03-02T11:52:29.126Z",
+                  "webStreamData": {
+                    "defaultUri": "https://www.avenuehampers.com.au",
+                    "measurementId": "G-PGZTDE1VH0"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/137267837",
+                "createTime": "2023-03-02T11:52:29.126Z",
+                "currencyCode": "AUD",
+                "displayName": "Avenue Hampers - GA4",
+                "industryCategory": "OTHER",
+                "name": "properties/356217618",
+                "parent": "accounts/137267837",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Perth",
+                "updateTime": "2025-12-17T04:20:29.242Z"
+              },
+              "summary": {
+                "displayName": "Avenue Hampers - GA4",
+                "parent": "accounts/137267837",
+                "property": "properties/356217618",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Acorn Rentals",
+                "resource": "accounts/15878613"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2024-01-16T03:50:20.970Z",
+                  "displayName": "Acorn Rentals - GA4",
+                  "name": "properties/423383715/dataStreams/6645827180",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2024-12-02T01:22:57.920Z",
+                  "webStreamData": {
+                    "defaultUri": "http://www.acornrentals.com.au/",
+                    "measurementId": "G-V0TFMZMDWN"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/15878613",
+                "createTime": "2024-01-16T03:50:20.970Z",
+                "currencyCode": "AUD",
+                "displayName": "Acorn Rentals - GA4",
+                "industryCategory": "AUTOMOTIVE",
+                "name": "properties/423383715",
+                "parent": "accounts/15878613",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Sydney",
+                "updateTime": "2024-12-02T01:26:13.265Z"
+              },
+              "summary": {
+                "displayName": "Acorn Rentals - GA4",
+                "parent": "accounts/15878613",
+                "property": "properties/423383715",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Ducati Melbourne",
+                "resource": "accounts/281475195"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2023-08-10T01:39:01.300Z",
+                  "displayName": "Ducati Melbourne - GA4",
+                  "name": "properties/402313624/dataStreams/5988240876",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2023-08-10T01:40:18.797Z",
+                  "webStreamData": {
+                    "defaultUri": "https://www.ducatimelbourne.com.au/",
+                    "measurementId": "G-DNQVKWJJ0E"
+                  }
+                },
+                {
+                  "createTime": "2025-11-13T22:23:46.770Z",
+                  "displayName": "Joe Rascal Ducati",
+                  "name": "properties/402313624/dataStreams/12990327394",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2025-11-13T22:23:46.770Z",
+                  "webStreamData": {
+                    "defaultUri": "https://joerascalducati.com.au/",
+                    "measurementId": "G-CFPVWFWNGJ"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/281475195",
+                "createTime": "2023-08-10T01:38:23.217Z",
+                "currencyCode": "AUD",
+                "displayName": "Ducati Melbourne - GA4",
+                "industryCategory": "AUTOMOTIVE",
+                "name": "properties/402313624",
+                "parent": "accounts/281475195",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Sydney",
+                "updateTime": "2025-07-25T03:08:38.784Z"
+              },
+              "summary": {
+                "displayName": "Ducati Melbourne - GA4",
+                "parent": "accounts/281475195",
+                "property": "properties/402313624",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Joe Rascal Harley",
+                "resource": "accounts/375316773"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2025-11-15T11:22:15.946Z",
+                  "displayName": "Joe Rascal Harley",
+                  "name": "properties/513354197/dataStreams/12997002549",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2025-11-15T11:22:15.946Z",
+                  "webStreamData": {
+                    "defaultUri": "https://www.joerascalharley.com.au",
+                    "measurementId": "G-4BSCWVPQDQ"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/375316773",
+                "createTime": "2025-11-15T11:21:24.978Z",
+                "currencyCode": "AUD",
+                "displayName": "Joe Rascal Harley",
+                "industryCategory": "AUTOMOTIVE",
+                "name": "properties/513354197",
+                "parent": "accounts/375316773",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Sydney",
+                "updateTime": "2025-11-15T11:21:24.978Z"
+              },
+              "summary": {
+                "displayName": "Joe Rascal Harley",
+                "parent": "accounts/375316773",
+                "property": "properties/513354197",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Joe Rascal Harley",
+                "resource": "accounts/375316773"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2026-02-24T22:31:54.909Z",
+                  "displayName": "Joe Rascal Global Website",
+                  "name": "properties/525910399/dataStreams/13662107134",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2026-02-24T22:31:54.909Z",
+                  "webStreamData": {
+                    "defaultUri": "https://joerascal.com",
+                    "measurementId": "G-681P69RP8Y"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/375316773",
+                "createTime": "2026-02-24T22:25:49.311Z",
+                "currencyCode": "AUD",
+                "displayName": "Joe Rascal Global - GA4",
+                "industryCategory": "SPORTS",
+                "name": "properties/525910399",
+                "parent": "accounts/375316773",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Melbourne",
+                "updateTime": "2026-02-24T22:25:49.311Z"
+              },
+              "summary": {
+                "displayName": "Joe Rascal Global - GA4",
+                "parent": "accounts/375316773",
+                "property": "properties/525910399",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Agents Digital",
+                "resource": "accounts/377883763"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2025-12-17T02:51:04.092Z",
+                  "displayName": "RAW",
+                  "name": "properties/516619587/dataStreams/13151080595",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2025-12-17T02:51:04.092Z",
+                  "webStreamData": {
+                    "defaultUri": "https://agents.digital",
+                    "measurementId": "G-V4DFES7E5J"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/377883763",
+                "createTime": "2025-12-17T02:50:53.109Z",
+                "currencyCode": "AUD",
+                "displayName": "Agents Digital Website",
+                "industryCategory": "BUSINESS_AND_INDUSTRIAL_MARKETS",
+                "name": "properties/516619587",
+                "parent": "accounts/377883763",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Melbourne",
+                "updateTime": "2025-12-17T02:50:53.109Z"
+              },
+              "summary": {
+                "displayName": "Agents Digital Website",
+                "parent": "accounts/377883763",
+                "property": "properties/516619587",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            }
+          ],
+          "property_count": 6
+        }
+      },
+      "seo@agents.digital": {
+        "drive": {
+          "about_user": {
+            "displayName": "Laurence Deer",
+            "emailAddress": "seo@agents.digital",
+            "permissionId": "12861048803771408142"
+          },
+          "ok": true,
+          "root_folders": [
+            {
+              "children": [],
+              "driveId": "",
+              "id": "1A517vB5hqdQHdFtZ43SuGRGewHWlgklq",
+              "name": "ducatijr",
+              "url": "https://drive.google.com/drive/folders/1A517vB5hqdQHdFtZ43SuGRGewHWlgklq"
+            }
+          ],
+          "shared_drives": [],
+          "shared_with_me_folders": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1I3xNzkn9vIW4iXRPJMMpBUBOqcUt3ibS",
+                      "name": "Sales",
+                      "url": "https://drive.google.com/drive/folders/1I3xNzkn9vIW4iXRPJMMpBUBOqcUt3ibS"
+                    }
+                  ],
+                  "driveId": "",
+                  "id": "1Nv5NvKxw-0Ai49h7KclMxOA8tmBU6cmY",
+                  "name": "Business Admin",
+                  "url": "https://drive.google.com/drive/folders/1Nv5NvKxw-0Ai49h7KclMxOA8tmBU6cmY"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1NSxmr_AUHoweWrFfKotEvBiJ88zdwOPZ",
+                      "name": "_ CLIENT TEMPLATE",
+                      "url": "https://drive.google.com/drive/folders/1NSxmr_AUHoweWrFfKotEvBiJ88zdwOPZ"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1M2MXfkRFsAMy5nFoM2m7miNOnjBEkvoj",
+                      "name": "Acorn Rentals",
+                      "url": "https://drive.google.com/drive/folders/1M2MXfkRFsAMy5nFoM2m7miNOnjBEkvoj"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1LGXJQosWUROG5s4MVxbNaFgMvXFd90en",
+                      "name": "AVENUE Hampers",
+                      "url": "https://drive.google.com/drive/folders/1LGXJQosWUROG5s4MVxbNaFgMvXFd90en"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "14gHf6UZjgZ751CUP6iLz3Sf6WTTQBWSN",
+                      "name": "Joe Rascal",
+                      "url": "https://drive.google.com/drive/folders/14gHf6UZjgZ751CUP6iLz3Sf6WTTQBWSN"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "157-ddATrb2byi0VMJYKg9JET4RzqIFFr",
+                      "name": "Joe Rascal Ducati ",
+                      "url": "https://drive.google.com/drive/folders/157-ddATrb2byi0VMJYKg9JET4RzqIFFr"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1XENbhUku8qau7HM5I7D9ivtIhrKpfU0s",
+                      "name": "Joe Rascal Harley",
+                      "url": "https://drive.google.com/drive/folders/1XENbhUku8qau7HM5I7D9ivtIhrKpfU0s"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1wN3HSAcKrkXRLxuFA0OlHyGDqLDo9hx7",
+                      "name": "Little Shop of Happiness",
+                      "url": "https://drive.google.com/drive/folders/1wN3HSAcKrkXRLxuFA0OlHyGDqLDo9hx7"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1HWLcsHS38P5u_d_vfrWux3LaRVln9iMJ",
+                      "name": "Melani the Label",
+                      "url": "https://drive.google.com/drive/folders/1HWLcsHS38P5u_d_vfrWux3LaRVln9iMJ"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1eFoEqwgMyuWyMbQuOZZAzK4xtfQTB7Ao",
+                      "name": "New Client Forms",
+                      "url": "https://drive.google.com/drive/folders/1eFoEqwgMyuWyMbQuOZZAzK4xtfQTB7Ao"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1VTJy6FaSqLkOyRxaf7ZiAQuoIQVXatyf",
+                      "name": "Salad Servers",
+                      "url": "https://drive.google.com/drive/folders/1VTJy6FaSqLkOyRxaf7ZiAQuoIQVXatyf"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "1TTxwqCl5JurXCyva9kGK9rz5v66YzaXU",
+                      "name": "Shop Rongrong",
+                      "url": "https://drive.google.com/drive/folders/1TTxwqCl5JurXCyva9kGK9rz5v66YzaXU"
+                    },
+                    {
+                      "children": [],
+                      "driveId": "",
+                      "id": "175zcM_g56_jtpU1m9bzAMFvLFahXAqS3",
+                      "name": "TravelKon",
+                      "url": "https://drive.google.com/drive/folders/175zcM_g56_jtpU1m9bzAMFvLFahXAqS3"
+                    }
+                  ],
+                  "driveId": "",
+                  "id": "11AdlM1m9kpa3qtJr5RKIyYNUQWUseqb4",
+                  "name": "Clients",
+                  "url": "https://drive.google.com/drive/folders/11AdlM1m9kpa3qtJr5RKIyYNUQWUseqb4"
+                }
+              ],
+              "driveId": "",
+              "id": "1ZpzgOmzDHmb01ebq_N0lejCI74r3s1jd",
+              "name": "Agents Digital ",
+              "url": "https://drive.google.com/drive/folders/1ZpzgOmzDHmb01ebq_N0lejCI74r3s1jd"
+            }
+          ]
+        },
+        "ga4": {
+          "account_count": 8,
+          "ok": true,
+          "properties": [
+            {
+              "account": {
+                "name": "Little Shop Of Happiness",
+                "resource": "accounts/115891819"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2023-07-26T05:05:58.209Z",
+                  "displayName": "Little Shop Of Happiness - GA4",
+                  "name": "properties/399571311/dataStreams/5913189091",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2023-07-26T05:05:58.209Z",
+                  "webStreamData": {
+                    "defaultUri": "https://www.littleboxofhappiness.com.au",
+                    "measurementId": "G-C7BG6LE7KR"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/115891819",
+                "createTime": "2023-07-26T05:05:58.209Z",
+                "currencyCode": "AUD",
+                "displayName": "Little Shop Of Happiness - GA4",
+                "industryCategory": "SHOPPING",
+                "name": "properties/399571311",
+                "parent": "accounts/115891819",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Perth",
+                "updateTime": "2024-11-23T05:11:24.748Z"
+              },
+              "summary": {
+                "displayName": "Little Shop Of Happiness - GA4",
+                "parent": "accounts/115891819",
+                "property": "properties/399571311",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Shop Ronrong",
+                "resource": "accounts/123742926"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2023-02-20T16:37:37.956Z",
+                  "displayName": "Shop Rongrong - GA4",
+                  "name": "properties/354478921/dataStreams/4641436957",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2023-02-20T16:46:42.904Z",
+                  "webStreamData": {
+                    "defaultUri": "http://shoprongrong.com",
+                    "measurementId": "G-ZL24MRZEM7"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/123742926",
+                "createTime": "2023-02-20T16:37:37.956Z",
+                "currencyCode": "USD",
+                "displayName": "Shop Rongrong - GA4",
+                "industryCategory": "SHOPPING",
+                "name": "properties/354478921",
+                "parent": "accounts/123742926",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "America/Chicago",
+                "updateTime": "2023-04-14T23:54:35.187Z"
+              },
+              "summary": {
+                "displayName": "Shop Rongrong - GA4",
+                "parent": "accounts/123742926",
+                "property": "properties/354478921",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Avenue Hampers",
+                "resource": "accounts/137267837"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2023-03-02T11:52:29.126Z",
+                  "displayName": "Avenue Hampers - GA4",
+                  "name": "properties/356217618/dataStreams/4670863884",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2023-03-02T11:52:29.126Z",
+                  "webStreamData": {
+                    "defaultUri": "https://www.avenuehampers.com.au",
+                    "measurementId": "G-PGZTDE1VH0"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/137267837",
+                "createTime": "2023-03-02T11:52:29.126Z",
+                "currencyCode": "AUD",
+                "displayName": "Avenue Hampers - GA4",
+                "industryCategory": "OTHER",
+                "name": "properties/356217618",
+                "parent": "accounts/137267837",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Perth",
+                "updateTime": "2025-12-17T04:20:29.242Z"
+              },
+              "summary": {
+                "displayName": "Avenue Hampers - GA4",
+                "parent": "accounts/137267837",
+                "property": "properties/356217618",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "TravelKon",
+                "resource": "accounts/150364053"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2024-03-01T08:39:51.953Z",
+                  "displayName": "https://www.travelkon.com.au",
+                  "name": "properties/387124003/dataStreams/7588420375",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2026-03-25T09:53:11.506Z",
+                  "webStreamData": {
+                    "defaultUri": "https://www.travelkon.com.au",
+                    "measurementId": "G-NKF7LKLVW5"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/150364053",
+                "createTime": "2023-06-17T13:35:12.034Z",
+                "currencyCode": "AUD",
+                "displayName": "TravelKon - GA4",
+                "industryCategory": "INTERNET_AND_TELECOM",
+                "name": "properties/387124003",
+                "parent": "accounts/150364053",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Perth",
+                "updateTime": "2025-05-25T08:14:23.974Z"
+              },
+              "summary": {
+                "displayName": "TravelKon - GA4",
+                "parent": "accounts/150364053",
+                "property": "properties/387124003",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "TravelKon",
+                "resource": "accounts/150364053"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2026-04-11T02:04:08.459Z",
+                  "displayName": "TravelKon",
+                  "name": "properties/532415351/dataStreams/14348870810",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2026-04-11T02:04:08.459Z",
+                  "webStreamData": {
+                    "firebaseAppId": "1:134605516366:web:6ed1f1ea165d3810f41d1f",
+                    "measurementId": "G-ZE1BR9QTCD"
+                  }
+                },
+                {
+                  "androidAppStreamData": {
+                    "firebaseAppId": "1:134605516366:android:8c9bf7ae5e2f44ccf41d1f",
+                    "packageName": "au.com.travelkon"
+                  },
+                  "createTime": "2026-04-13T01:06:01.385Z",
+                  "displayName": "Travelkon Android",
+                  "name": "properties/532415351/dataStreams/14357304420",
+                  "type": "ANDROID_APP_DATA_STREAM",
+                  "updateTime": "2026-04-13T19:02:44.747Z"
+                },
+                {
+                  "createTime": "2026-04-13T01:07:00.666Z",
+                  "displayName": "Travelkon iOS",
+                  "iosAppStreamData": {
+                    "bundleId": "au.com.travelkon.ios",
+                    "firebaseAppId": "1:134605516366:ios:30e5aadf185180b2f41d1f"
+                  },
+                  "name": "properties/532415351/dataStreams/14357467634",
+                  "type": "IOS_APP_DATA_STREAM",
+                  "updateTime": "2026-04-13T01:07:00.666Z"
+                }
+              ],
+              "property": {
+                "account": "accounts/150364053",
+                "createTime": "2026-04-11T02:02:20.162Z",
+                "currencyCode": "USD",
+                "displayName": "travelkon-app-notification",
+                "name": "properties/532415351",
+                "parent": "accounts/150364053",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Perth",
+                "updateTime": "2026-04-11T02:02:20.162Z"
+              },
+              "summary": {
+                "displayName": "travelkon-app-notification",
+                "parent": "accounts/150364053",
+                "property": "properties/532415351",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Salad Servers Direct",
+                "resource": "accounts/178748241"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2023-05-26T01:35:23.160Z",
+                  "displayName": "Salad Servers Direct - GA4",
+                  "name": "properties/378662387/dataStreams/5267049051",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2023-05-26T01:35:23.160Z",
+                  "webStreamData": {
+                    "defaultUri": "https://direct.saladservers.com.au/",
+                    "measurementId": "G-1QXVMW31CK"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/178748241",
+                "createTime": "2023-05-26T01:35:23.160Z",
+                "currencyCode": "AUD",
+                "displayName": "Salad Servers Direct - GA4",
+                "industryCategory": "FOOD_AND_DRINK",
+                "name": "properties/378662387",
+                "parent": "accounts/178748241",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Sydney",
+                "updateTime": "2025-02-04T01:44:20.179Z"
+              },
+              "summary": {
+                "displayName": "Salad Servers Direct - GA4",
+                "parent": "accounts/178748241",
+                "property": "properties/378662387",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Melani The Label GA4",
+                "resource": "accounts/264527124"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2023-04-19T04:53:54.324Z",
+                  "displayName": "M\u00c9LANI THE LABEL",
+                  "name": "properties/369346274/dataStreams/5042084823",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2023-04-19T04:53:54.324Z",
+                  "webStreamData": {
+                    "defaultUri": "https://melanithelabel.com",
+                    "measurementId": "G-DXM05D46Y6"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/264527124",
+                "createTime": "2023-04-19T04:53:10.889Z",
+                "currencyCode": "AUD",
+                "displayName": "Melani The Label",
+                "industryCategory": "SHOPPING",
+                "name": "properties/369346274",
+                "parent": "accounts/264527124",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Adelaide",
+                "updateTime": "2023-08-08T09:46:31.461Z"
+              },
+              "summary": {
+                "displayName": "Melani The Label",
+                "parent": "accounts/264527124",
+                "property": "properties/369346274",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Ducati Melbourne",
+                "resource": "accounts/281475195"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2023-08-10T01:39:01.300Z",
+                  "displayName": "Ducati Melbourne - GA4",
+                  "name": "properties/402313624/dataStreams/5988240876",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2023-08-10T01:40:18.797Z",
+                  "webStreamData": {
+                    "defaultUri": "https://www.ducatimelbourne.com.au/",
+                    "measurementId": "G-DNQVKWJJ0E"
+                  }
+                },
+                {
+                  "createTime": "2025-11-13T22:23:46.770Z",
+                  "displayName": "Joe Rascal Ducati",
+                  "name": "properties/402313624/dataStreams/12990327394",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2025-11-13T22:23:46.770Z",
+                  "webStreamData": {
+                    "defaultUri": "https://joerascalducati.com.au/",
+                    "measurementId": "G-CFPVWFWNGJ"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/281475195",
+                "createTime": "2023-08-10T01:38:23.217Z",
+                "currencyCode": "AUD",
+                "displayName": "Ducati Melbourne - GA4",
+                "industryCategory": "AUTOMOTIVE",
+                "name": "properties/402313624",
+                "parent": "accounts/281475195",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Sydney",
+                "updateTime": "2025-07-25T03:08:38.784Z"
+              },
+              "summary": {
+                "displayName": "Ducati Melbourne - GA4",
+                "parent": "accounts/281475195",
+                "property": "properties/402313624",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Joe Rascal Harley",
+                "resource": "accounts/375316773"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2025-11-15T11:22:15.946Z",
+                  "displayName": "Joe Rascal Harley",
+                  "name": "properties/513354197/dataStreams/12997002549",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2025-11-15T11:22:15.946Z",
+                  "webStreamData": {
+                    "defaultUri": "https://www.joerascalharley.com.au",
+                    "measurementId": "G-4BSCWVPQDQ"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/375316773",
+                "createTime": "2025-11-15T11:21:24.978Z",
+                "currencyCode": "AUD",
+                "displayName": "Joe Rascal Harley",
+                "industryCategory": "AUTOMOTIVE",
+                "name": "properties/513354197",
+                "parent": "accounts/375316773",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Sydney",
+                "updateTime": "2025-11-15T11:21:24.978Z"
+              },
+              "summary": {
+                "displayName": "Joe Rascal Harley",
+                "parent": "accounts/375316773",
+                "property": "properties/513354197",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            },
+            {
+              "account": {
+                "name": "Joe Rascal Harley",
+                "resource": "accounts/375316773"
+              },
+              "data_streams": [
+                {
+                  "createTime": "2026-02-24T22:31:54.909Z",
+                  "displayName": "Joe Rascal Global Website",
+                  "name": "properties/525910399/dataStreams/13662107134",
+                  "type": "WEB_DATA_STREAM",
+                  "updateTime": "2026-02-24T22:31:54.909Z",
+                  "webStreamData": {
+                    "defaultUri": "https://joerascal.com",
+                    "measurementId": "G-681P69RP8Y"
+                  }
+                }
+              ],
+              "property": {
+                "account": "accounts/375316773",
+                "createTime": "2026-02-24T22:25:49.311Z",
+                "currencyCode": "AUD",
+                "displayName": "Joe Rascal Global - GA4",
+                "industryCategory": "SPORTS",
+                "name": "properties/525910399",
+                "parent": "accounts/375316773",
+                "propertyType": "PROPERTY_TYPE_ORDINARY",
+                "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+                "timeZone": "Australia/Melbourne",
+                "updateTime": "2026-02-24T22:25:49.311Z"
+              },
+              "summary": {
+                "displayName": "Joe Rascal Global - GA4",
+                "parent": "accounts/375316773",
+                "property": "properties/525910399",
+                "propertyType": "PROPERTY_TYPE_ORDINARY"
+              }
+            }
+          ],
+          "property_count": 10
+        }
+      }
+    }
+  },
+  "monday": {
+    "board_count": 35,
+    "notes": [
+      "Collected through monday MCP connector, not by exporting items or updates.",
+      "Column schema is summarized as column id, title, and type."
+    ],
+    "ok": true,
+    "source": "monday_mcp_snapshot",
+    "workspace_count": 2,
+    "workspaces": [
+      {
+        "boards": [
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "column_templates___column",
+                "title": "Deal Status",
+                "type": "status"
+              },
+              {
+                "id": "date_mkyaxdcs",
+                "title": "Date",
+                "type": "date"
+              },
+              {
+                "id": "people",
+                "title": "Sales Rep",
+                "type": "people"
+              },
+              {
+                "id": "date7",
+                "title": "Next Activity Date",
+                "type": "date"
+              },
+              {
+                "id": "status",
+                "title": "Priority",
+                "type": "status"
+              },
+              {
+                "id": "numbers",
+                "title": "Deal Size",
+                "type": "numbers"
+              },
+              {
+                "id": "date_mm0hnz4t",
+                "title": "Due Date",
+                "type": "date"
+              },
+              {
+                "id": "text3",
+                "title": "Company",
+                "type": "text"
+              },
+              {
+                "id": "email",
+                "title": "Email",
+                "type": "email"
+              },
+              {
+                "id": "location",
+                "title": "Location",
+                "type": "location"
+              },
+              {
+                "id": "phone",
+                "title": "Phone",
+                "type": "phone"
+              },
+              {
+                "id": "world_clock",
+                "title": "World Clock",
+                "type": "world_clock"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Opportunities"
+              },
+              {
+                "title": "Video Audit"
+              },
+              {
+                "title": "Lead"
+              },
+              {
+                "title": "Proposal"
+              },
+              {
+                "title": "Closed Won"
+              },
+              {
+                "title": "Closed Lost"
+              },
+              {
+                "title": "One Off Client Work"
+              }
+            ],
+            "id": "5025423034",
+            "item_count": 24,
+            "kind": "public",
+            "name": "Sales",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5025423034",
+            "workspace_id": "2767329"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "numeric_mm1gf6c7",
+                "title": "Cost / Month",
+                "type": "numbers"
+              },
+              {
+                "id": "date4",
+                "title": "Start Date",
+                "type": "date"
+              },
+              {
+                "id": "date_mm0t4anx",
+                "title": "Renewal Date",
+                "type": "date"
+              },
+              {
+                "id": "text_mm0z9mb9",
+                "title": "Invoice Agreement",
+                "type": "text"
+              },
+              {
+                "id": "date_mm0zjh60",
+                "title": "Invoicing Schedule",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Tools / Mont"
+              },
+              {
+                "title": "One off Expenses"
+              }
+            ],
+            "id": "5027236764",
+            "item_count": 17,
+            "kind": "public",
+            "name": "Expenses",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5027236764",
+            "workspace_id": "2767329"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "link_mm0tvxqd",
+                "title": "Link",
+                "type": "link"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Risk",
+                "type": "status"
+              },
+              {
+                "id": "date4",
+                "title": "Start Date",
+                "type": "date"
+              },
+              {
+                "id": "date_mm0t4anx",
+                "title": "Renewal Date",
+                "type": "date"
+              },
+              {
+                "id": "numeric_mm0tfsvq",
+                "title": "Retainer",
+                "type": "numbers"
+              },
+              {
+                "id": "file_mm0tz8ga",
+                "title": "Files",
+                "type": "file"
+              },
+              {
+                "id": "text_mm0z9mb9",
+                "title": "Invoice Agreement",
+                "type": "text"
+              },
+              {
+                "id": "date_mm0zjh60",
+                "title": "Invoicing Schedule",
+                "type": "date"
+              },
+              {
+                "id": "text_mm2tew4n",
+                "title": "Agreed Increase Amount",
+                "type": "text"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Current Clients"
+              },
+              {
+                "title": "Lost Clients"
+              }
+            ],
+            "id": "5026765711",
+            "item_count": 9,
+            "kind": "public",
+            "name": "Client Board",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026765711",
+            "workspace_id": "2767329"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date4",
+                "title": "Date",
+                "type": "date"
+              },
+              {
+                "id": "date_mkzwxc9m",
+                "title": "Due Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Admin"
+              },
+              {
+                "title": "Sales & Marketing"
+              }
+            ],
+            "id": "5025901101",
+            "item_count": 16,
+            "kind": "public",
+            "name": "Agents Digital Business",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5025901101",
+            "workspace_id": "2767329"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date4",
+                "title": "Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Group Title"
+              },
+              {
+                "title": "Group Title"
+              }
+            ],
+            "id": "5028185760",
+            "item_count": 0,
+            "kind": "public",
+            "name": "Build Vibe app",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5028185760",
+            "workspace_id": "2767329"
+          }
+        ],
+        "docs": [],
+        "folders": [],
+        "id": "2767329",
+        "kind": "open",
+        "name": "Agency Ops",
+        "url": "https://laurencedeer.monday.com/workspaces/2767329"
+      },
+      {
+        "boards": [
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "subtasks_mm0wvyhd",
+                "title": "Subitems",
+                "type": "subtasks"
+              },
+              {
+                "id": "text_mm0wm7pj",
+                "title": "Client URL",
+                "type": "text"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date4",
+                "title": "Date",
+                "type": "date"
+              },
+              {
+                "id": "date_mm0ywa0d",
+                "title": "Due Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "April"
+              },
+              {
+                "title": "May '26"
+              },
+              {
+                "title": "March '26"
+              },
+              {
+                "title": "Task Library"
+              }
+            ],
+            "id": "5026765957",
+            "item_count": 95,
+            "kind": "share",
+            "name": "SEO Tasks",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026765957",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "subtasks",
+                "title": "Subitems",
+                "type": "subtasks"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "due_date",
+                "title": "Due Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "May 26"
+              },
+              {
+                "title": "April '26"
+              },
+              {
+                "title": "March '26"
+              }
+            ],
+            "id": "5026978284",
+            "item_count": 16,
+            "kind": "share",
+            "name": "Shop Rongrong",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026978284",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              },
+              {
+                "id": "file_mm1a333q",
+                "title": "Files",
+                "type": "file"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5026978497",
+            "item_count": 5,
+            "kind": "share",
+            "name": "Subitems of Shop Rongrong",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026978497",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date4",
+                "title": "Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "June '26 Title"
+              },
+              {
+                "title": "May '26"
+              }
+            ],
+            "id": "5028353257",
+            "item_count": 5,
+            "kind": "public",
+            "name": "Melanit the Label",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5028353257",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "subtasks_mkyaz3hp",
+                "title": "Subitems",
+                "type": "subtasks"
+              },
+              {
+                "id": "project_owner",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "project_status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date",
+                "title": "Due date",
+                "type": "date"
+              },
+              {
+                "id": "text9",
+                "title": "Notes",
+                "type": "text"
+              },
+              {
+                "id": "duration_mkyag2ch",
+                "title": "Time tracking",
+                "type": "time_tracking"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "April"
+              },
+              {
+                "title": "March"
+              },
+              {
+                "title": "February"
+              },
+              {
+                "title": "Janurary '26"
+              },
+              {
+                "title": "December '25"
+              }
+            ],
+            "id": "5025418481",
+            "item_count": 25,
+            "kind": "share",
+            "name": "Joe Rascal Ducati",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5025418481",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "subtasks_mkyaz3hp",
+                "title": "Subitems",
+                "type": "subtasks"
+              },
+              {
+                "id": "project_owner",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "project_status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date",
+                "title": "Due date",
+                "type": "date"
+              },
+              {
+                "id": "text9",
+                "title": "Notes",
+                "type": "text"
+              },
+              {
+                "id": "duration_mkyag2ch",
+                "title": "Time tracking",
+                "type": "time_tracking"
+              },
+              {
+                "id": "file_mkzvvf4f",
+                "title": "Files",
+                "type": "file"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "April"
+              },
+              {
+                "title": "March"
+              },
+              {
+                "title": "February"
+              },
+              {
+                "title": "January '26"
+              },
+              {
+                "title": "December '25"
+              },
+              {
+                "title": "Completed"
+              }
+            ],
+            "id": "5025418382",
+            "item_count": 30,
+            "kind": "share",
+            "name": "Joe Rascal Harley",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5025418382",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "subtasks",
+                "title": "Subitems",
+                "type": "subtasks"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "due_date",
+                "title": "Due Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "May"
+              },
+              {
+                "title": "April"
+              },
+              {
+                "title": "March '26"
+              }
+            ],
+            "id": "5026978841",
+            "item_count": 20,
+            "kind": "share",
+            "name": "Little Shop of Happiness",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026978841",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "subtasks",
+                "title": "Subitems",
+                "type": "subtasks"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "due_date",
+                "title": "Due Date",
+                "type": "date"
+              },
+              {
+                "id": "file_mm1rs0wt",
+                "title": "Files",
+                "type": "file"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "May"
+              },
+              {
+                "title": "April"
+              },
+              {
+                "title": "March '26"
+              }
+            ],
+            "id": "5026978865",
+            "item_count": 23,
+            "kind": "share",
+            "name": "AVENUE Hampers",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026978865",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date4",
+                "title": "Date",
+                "type": "date"
+              },
+              {
+                "id": "subtasks_mm2wctaz",
+                "title": "Subitems",
+                "type": "subtasks"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "June"
+              },
+              {
+                "title": "May"
+              }
+            ],
+            "id": "5028135389",
+            "item_count": 5,
+            "kind": "share",
+            "name": "MrGadget",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5028135389",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "subtasks_mkyaz3hp",
+                "title": "Subitems",
+                "type": "subtasks"
+              },
+              {
+                "id": "project_owner",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "project_status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date",
+                "title": "Due date",
+                "type": "date"
+              },
+              {
+                "id": "text9",
+                "title": "Notes",
+                "type": "text"
+              },
+              {
+                "id": "duration_mkyag2ch",
+                "title": "Time tracking",
+                "type": "time_tracking"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Month 6"
+              },
+              {
+                "title": "Month 5"
+              },
+              {
+                "title": "Month 4"
+              },
+              {
+                "title": "Month 3"
+              },
+              {
+                "title": "Month 2"
+              },
+              {
+                "title": "March"
+              }
+            ],
+            "id": "5026665037",
+            "item_count": 30,
+            "kind": "share",
+            "name": "Acorn Car Rentals",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026665037",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "subtasks",
+                "title": "Subitems",
+                "type": "subtasks"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "due_date",
+                "title": "Due Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "April"
+              },
+              {
+                "title": "March"
+              },
+              {
+                "title": "February"
+              }
+            ],
+            "id": "5026853960",
+            "item_count": 9,
+            "kind": "share",
+            "name": "Joe Rascal",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026853960",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "subtasks",
+                "title": "Subitems",
+                "type": "subtasks"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "due_date",
+                "title": "Due Date",
+                "type": "date"
+              },
+              {
+                "id": "file_mkzvt1wp",
+                "title": "Files",
+                "type": "file"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "March"
+              },
+              {
+                "title": "Jan/Feb"
+              }
+            ],
+            "id": "5025899615",
+            "item_count": 14,
+            "kind": "share",
+            "name": "Salad Servers",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5025899615",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "subtasks",
+                "title": "Subitems",
+                "type": "subtasks"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "due_date",
+                "title": "Due Date",
+                "type": "date"
+              },
+              {
+                "id": "file_mm12cjsg",
+                "title": "Files",
+                "type": "file"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "April '26"
+              },
+              {
+                "title": "March '26"
+              }
+            ],
+            "id": "5026863900",
+            "item_count": 9,
+            "kind": "share",
+            "name": "TravelKon",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026863900",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5025418482",
+            "item_count": 14,
+            "kind": "share",
+            "name": "Subitems of Joe Rascal Ducati",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5025418482",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              },
+              {
+                "id": "date_mm00s7ds",
+                "title": "Due Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5025418417",
+            "item_count": 15,
+            "kind": "share",
+            "name": "Subitems of Joe Rascal Harley",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5025418417",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5026814371",
+            "item_count": 6,
+            "kind": "share",
+            "name": "Subitems of SEO Tasks",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026814371",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "multiple_person_mm0tkss5",
+                "title": "Writer",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "file_mm0t82wa",
+                "title": "Files",
+                "type": "file"
+              },
+              {
+                "id": "date4",
+                "title": "Due Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "March"
+              }
+            ],
+            "id": "5026765647",
+            "item_count": 0,
+            "kind": "share",
+            "name": "Link Building",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026765647",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5026854299",
+            "item_count": 2,
+            "kind": "share",
+            "name": "Subitems of Joe Rascal",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026854299",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "multiple_person_mm0tkss5",
+                "title": "Writer",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "file_mm0t82wa",
+                "title": "Files",
+                "type": "file"
+              },
+              {
+                "id": "date4",
+                "title": "Due Date",
+                "type": "date"
+              },
+              {
+                "id": "board_relation_mm0t1y0b",
+                "title": "Connect boards",
+                "type": "board_relation"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "March"
+              }
+            ],
+            "id": "5026765469",
+            "item_count": 3,
+            "kind": "share",
+            "name": "Content Board",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026765469",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              },
+              {
+                "id": "file_mm12dn3a",
+                "title": "Files",
+                "type": "file"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5026863958",
+            "item_count": 4,
+            "kind": "share",
+            "name": "Subitems of TravelKon",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026863958",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5026673365",
+            "item_count": 24,
+            "kind": "public",
+            "name": "Subitems of Monthly SEO Task List",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026673365",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "multiple_person_mm0njpyy",
+                "title": "Assignees",
+                "type": "people"
+              },
+              {
+                "id": "color_mm0n8p72",
+                "title": "Priority",
+                "type": "status"
+              },
+              {
+                "id": "date_mm0nc5ze",
+                "title": "Due Date",
+                "type": "date"
+              },
+              {
+                "id": "color_mm0nwnj1",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "file_mm0n646n",
+                "title": "Attachments",
+                "type": "file"
+              },
+              {
+                "id": "subtasks_mm0nwmc1",
+                "title": "Subitems",
+                "type": "subtasks"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "March '26"
+              },
+              {
+                "title": "March '26"
+              },
+              {
+                "title": "February '26"
+              },
+              {
+                "title": "Planned"
+              }
+            ],
+            "id": "5026673359",
+            "item_count": 15,
+            "kind": "public",
+            "name": "Monthly SEO Task List",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026673359",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              },
+              {
+                "id": "file_mm0ya4sv",
+                "title": "Files",
+                "type": "file"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5026665038",
+            "item_count": 5,
+            "kind": "share",
+            "name": "Subitems of Acorn Car Rentals",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026665038",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              },
+              {
+                "id": "file_mm1536kp",
+                "title": "Files",
+                "type": "file"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5026978842",
+            "item_count": 5,
+            "kind": "share",
+            "name": "Subitems of Little Shop of Happiness",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026978842",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "files",
+                "title": "Files",
+                "type": "file"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Group Title"
+              }
+            ],
+            "id": "5026204886",
+            "item_count": 1,
+            "kind": "public",
+            "name": "MCP getting started",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026204886",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              },
+              {
+                "id": "file_mm14fv92",
+                "title": "Files",
+                "type": "file"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5026978866",
+            "item_count": 5,
+            "kind": "share",
+            "name": "Subitems of AVENUE Hampers",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026978866",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              },
+              {
+                "id": "file_mkzv2xp3",
+                "title": "Files",
+                "type": "file"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5026186217",
+            "item_count": 11,
+            "kind": "share",
+            "name": "Subitems of Salad Servers",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5026186217",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Owner",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date0",
+                "title": "Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Subitems"
+              }
+            ],
+            "id": "5028139420",
+            "item_count": 0,
+            "kind": "share",
+            "name": "Subitems of MrGadget",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5028139420",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date4",
+                "title": "Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "Group Title"
+              },
+              {
+                "title": "Group Title"
+              }
+            ],
+            "id": "5028178101",
+            "item_count": 0,
+            "kind": "public",
+            "name": "Build Vibe app",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5028178101",
+            "workspace_id": "2556079"
+          },
+          {
+            "columns": [
+              {
+                "id": "name",
+                "title": "Name",
+                "type": "name"
+              },
+              {
+                "id": "person",
+                "title": "Person",
+                "type": "people"
+              },
+              {
+                "id": "status",
+                "title": "Status",
+                "type": "status"
+              },
+              {
+                "id": "date4",
+                "title": "Date",
+                "type": "date"
+              }
+            ],
+            "folder_id": null,
+            "groups": [
+              {
+                "title": "December"
+              }
+            ],
+            "id": "5025899606",
+            "item_count": 4,
+            "kind": "share",
+            "name": "HEIYCH",
+            "source": "monday_mcp",
+            "state": "active",
+            "url": "https://laurencedeer.monday.com/boards/5025899606",
+            "workspace_id": "2556079"
+          }
+        ],
+        "docs": [
+          {
+            "id": "2336639",
+            "name": "MCP getting started"
+          }
+        ],
+        "folders": [],
+        "id": "2556079",
+        "kind": "open",
+        "name": "Main workspace",
+        "url": "https://laurencedeer.monday.com/workspaces/2556079"
+      }
+    ]
+  },
+  "scope": {
+    "drive_folder_depth": 3,
+    "exports_drive_file_contents": false,
+    "exports_monday_item_bodies": false,
+    "mode": "structure-only",
+    "scrapes_client_websites": false
+  },
+  "se_ranking": {
+    "exports_project_data": false,
+    "guardrails": [
+      "Use the remote MCP server instead of storing an SE Ranking API key in this repo.",
+      "Keep default reference passes structure-only unless a task requests client/project data.",
+      "Do not export keyword lists, competitor data, or audit details into docs unless needed for a report."
+    ],
+    "inventory_scope": "connector mapping only",
+    "mcp": {
+      "auth": "OAuth",
+      "configured": true,
+      "listed_url": "https://api.seranking.com/mcp",
+      "name": "se-ranking",
+      "status": "enabled",
+      "url": "https://api.seranking.com/mcp"
+    },
+    "ok": true,
+    "recommended_uses": [
+      "keyword ranking lookups",
+      "project and website SEO metrics",
+      "competitor and SERP research",
+      "site audit data when requested for a client workflow"
+    ],
+    "source": "remote_mcp"
+  }
+}

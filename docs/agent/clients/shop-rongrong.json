@@ -1,0 +1,347 @@
+{
+  "client": "Shop Rongrong",
+  "brand_display_name": "Shop Rongrong",
+  "brand_voice": "Warm, creative, and practical. Shop Rongrong sells planner stickers, sticker books, journals, notebooks, PET tape, and stationery for women who want their planning and journaling to feel expressive without becoming fussy. Copy should sound like it understands planner culture: useful, upbeat, product-specific, and never generic craft-store filler.",
+  "tone_direction": "Lead with what the product helps the shopper make or organise: planning, journaling, scrapbooking, sticker storage, gifting, or seasonal decoration. Avoid vague style claims, unsupported comparisons, and keyword-stuffed wording.",
+  "domain": "www.shoprongrong.com",
+  "market_scope": "AU",
+  "usp": "Free U.S. shipping on orders over $100",
+  "brand_denylist": [
+    "amazon",
+    "etsy",
+    "kmart",
+    "target",
+    "officeworks",
+    "spotlight",
+    "temu",
+    "shein",
+    "erin condren",
+    "happy planner"
+  ],
+  "se_ranking": {
+    "project_id": 11560829,
+    "duplicate_inactive_project_id": 11619515,
+    "engines": {
+      "AU": 1030519
+    },
+    "keyword_count": 519,
+    "pair_count": 519,
+    "last_synced": "2026-05-11",
+    "notes": "SE Ranking live read returned one active project search engine: site_engine_id 1030519, search_engine_id 200, region_id 0, lang_code en. Kept under AU because current LD SEO collection workflows are AU-only unless a client is explicitly dual-market."
+  },
+  "drive": {
+    "client_folder_id": "1TTxwqCl5JurXCyva9kGK9rz5v66YzaXU",
+    "folders": {
+      "00_proposals": "15kCtGdaBurlGgoIaHxJuzS2g0_UpWFAQ",
+      "01_onboarding": "1oq-xtRYs4sTVEA7sqR-98OxGSEYO4nOo",
+      "02_roadmap": "1lz0rHHMYtbwwIDDxIX8TyWU3UJBhI5B7",
+      "03_audits": "1ywpJIkNJddGRLdaGTiAnyDksoxP85pWD",
+      "04_keyword_research": "17p1u8Al0K4OFdEZ0WZmcPlb6Yq_dIvKC",
+      "04_keyword_research_duplicate": "1_6c6lFxotBjpuJgPWswFuaX5HLudSnxy",
+      "05_content": "1OKlpQYetqto6mCJEjNQgeF3tlPbHtpvR",
+      "06_links": "102otYWZ-W7vt-3y4NSKf8SCPsxV3oiaq",
+      "07_reports": "1K66iztEtBye5mCowq-chwTkMr0E1uati",
+      "08_invoices": "1JGYUytb3kJRqVMTq47WDnPpwR9xmSW_K"
+    },
+    "folder_check": {
+      "source": "Google Drive MCP",
+      "checked_at": "2026-05-11",
+      "notes": "Root folder listed through the Google Drive MCP, not the service account, to avoid false empty folder reads."
+    }
+  },
+  "monday": {
+    "workspace_id": 2556079,
+    "board_id": 5026978284,
+    "subitems_board_id": 5026978497,
+    "groups": {
+      "current_month": "May 26",
+      "previous_month": "April '26",
+      "older_month": "March '26"
+    }
+  },
+  "ga4_property": "properties/354478921",
+  "website": {
+    "primary_url": "https://www.shoprongrong.com",
+    "ga4_stream_url": "http://shoprongrong.com",
+    "measurement_id": "G-ZL24MRZEM7",
+    "canonical_note": "Use https://www.shoprongrong.com for crawls and combined reports."
+  },
+  "deliverables": {
+    "collection_discovery": {
+      "path": "/tmp/shop-rongrong-collections.json",
+      "updated": "2026-05-11",
+      "summary": "82 sitemap collections after filter; 31 pure_category, 33 curated_edit, 12 themed_category, 6 empty."
+    },
+    "ga4_collection_opportunities": {
+      "path": "/tmp/shop-rongrong-ga4-collections.json",
+      "updated": "2026-05-11",
+      "period": "2026-04-01 to 2026-04-30",
+      "comparison_period": "2025-04-01 to 2025-04-30",
+      "coverage": "Top 30 Organic Search collection landing pages."
+    },
+    "page_seo_cache": {
+      "path": "/tmp/shop-rongrong-page-seo.json",
+      "updated": "2026-05-11",
+      "coverage": "7 priority collection pages scraped with Firecrawl."
+    },
+    "onboarding_smoke_tests": {
+      "homepage_seo_path": "/tmp/shop-rongrong-homepage-seo.json",
+      "crawl_path": "/tmp/shop-rongrong-crawl-smoke.json",
+      "updated": "2026-05-11",
+      "result": "Homepage SEO scrape returned 200. Five-page crawl completed with 5 pages and 5 Firecrawl credits."
+    }
+  },
+  "collections": [
+    {
+      "slug": "new-arrivals-1",
+      "url": "https://www.shoprongrong.com/collections/new-arrivals-1",
+      "class": "curated_edit",
+      "dominant_product_type": "STATIONERY",
+      "product_count_sample": 0,
+      "sample_product_titles": [],
+      "primary_keyword": "stickers",
+      "tracking_required": true,
+      "tracking_note": "GA4 top priority: Protect / Rescue. Shopify product JSON discovery filtered this slug, so product mix should be manually reviewed before content briefs.",
+      "au_volume": 22200,
+      "current_title": "Rongrong's Newest Beautiful Planner and Journal Stickers for Women",
+      "current_h1": "NEW ARRIVALS",
+      "current_meta_description": "Elevate your planner with our newest hand-drawn stickers. Perfect for adding flair to your daily planning and journaling routine. Enjoy free US shipping!",
+      "last_scraped": "2026-05-11",
+      "ga4_priority_bucket": "Protect / Rescue",
+      "ga4_priority_score": 112.04,
+      "ga4_current": {
+        "sessions": 92,
+        "conversions": 16,
+        "revenue": 859.55,
+        "purchases": 16
+      },
+      "ga4_delta": {
+        "sessions": -67,
+        "conversions": 12,
+        "revenue": 635.1
+      }
+    },
+    {
+      "slug": "sale",
+      "url": "https://www.shoprongrong.com/collections/sale",
+      "class": "curated_edit",
+      "dominant_product_type": "STATIONERY",
+      "product_count_sample": 0,
+      "sample_product_titles": [],
+      "primary_keyword": "stickers",
+      "tracking_required": true,
+      "tracking_note": "GA4 monetise priority. The H1/title are too generic for a strong collection SEO target.",
+      "au_volume": 22200,
+      "current_title": "SALE",
+      "current_h1": "SALE",
+      "current_meta_description": "Discover unbeatable deals in our SALE collection. Shop now to find unique items at amazing prices and elevate your style effortlessly.",
+      "last_scraped": "2026-05-11",
+      "ga4_priority_bucket": "Monetise",
+      "ga4_priority_score": 40.24,
+      "ga4_current": {
+        "sessions": 52,
+        "conversions": 2,
+        "revenue": 138.98,
+        "purchases": 2
+      },
+      "ga4_delta": {
+        "sessions": -16,
+        "conversions": 0,
+        "revenue": -90.6
+      }
+    },
+    {
+      "slug": "sticker-books",
+      "url": "https://www.shoprongrong.com/collections/sticker-books",
+      "class": "pure_category",
+      "dominant_product_type": "STICKER BOOK",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "This Is My Year Planner Sticker Book",
+        "Breakfast at Tiffany's Sticker Pack (Silver Foil)",
+        "Coffee Queen Planner Sticker Book",
+        "Bookworm Vol. 3 Sticker Book",
+        "Black Girl Magic Sticker Book"
+      ],
+      "primary_keyword": "sticker collection book",
+      "tracking_required": true,
+      "tracking_note": "Selected over 'sticker books' because the AU volume check returned measurable demand for this close variant.",
+      "au_volume": 170,
+      "current_title": "Sticker Book | Cute Planner Sticker Books & Albums for Adults",
+      "current_h1": "Sticker Books",
+      "current_meta_description": "Explore sticker books filled with trendy, collectible designs. Perfect for planners, scrapbooks & journaling with style and personality.",
+      "last_scraped": "2026-05-11",
+      "ga4_priority_bucket": "Monetise",
+      "ga4_priority_score": 37.54,
+      "ga4_current": {
+        "sessions": 76,
+        "conversions": 2,
+        "revenue": 154.81,
+        "purchases": 2
+      },
+      "ga4_delta": {
+        "sessions": 76,
+        "conversions": 2,
+        "revenue": 154.81
+      }
+    },
+    {
+      "slug": "stickers",
+      "url": "https://www.shoprongrong.com/collections/stickers",
+      "class": "pure_category",
+      "dominant_product_type": "STICKER BOOK",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "This Is My Year Planner Sticker Book",
+        "Coffee Queen Planner Sticker Book",
+        "I Can & I Will Seasonal Sticker Book",
+        "Bookworm Vol. 3 Sticker Book",
+        "Black Girl Magic Sticker Book"
+      ],
+      "primary_keyword": "stickers",
+      "tracking_required": true,
+      "tracking_note": "GA4 rescue priority after steep YoY decline; keyword is broad and should be refined during collection SEO.",
+      "au_volume": 22200,
+      "current_title": "Stickers",
+      "current_h1": "Stickers",
+      "current_meta_description": "Elevate your planning with our diverse stickers collection. Explore themed sticker books for every occasion and enhance your journaling experience.",
+      "last_scraped": "2026-05-11",
+      "ga4_priority_bucket": "Rescue",
+      "ga4_priority_score": 29.18,
+      "ga4_current": {
+        "sessions": 5,
+        "conversions": 0,
+        "revenue": 0,
+        "purchases": 0
+      },
+      "ga4_delta": {
+        "sessions": -134,
+        "conversions": -13,
+        "revenue": -848.84
+      }
+    },
+    {
+      "slug": "pet-tape",
+      "url": "https://www.shoprongrong.com/collections/pet-tape",
+      "class": "pure_category",
+      "dominant_product_type": "PET TAPE",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "Love You So Matcha Pre-cut PET Tape [3.O]",
+        "Par-Tea Pre-cut PET Tape [3.O]",
+        "Take Time To Read Pre-cut PET Tape [3.O]",
+        "Country Charm Pre-cut PET Tape [3.O]",
+        "Cherry Blossom Pre-cut PET Tape [3.O]"
+      ],
+      "primary_keyword": "washi tape",
+      "tracking_required": true,
+      "tracking_note": "The exact 'pet tape' AU volume check returned 0, while 'washi tape' has measurable demand and overlapping craft intent. Validate SERP intent before writing copy.",
+      "au_volume": 5400,
+      "current_title": "PET Tape",
+      "current_h1": "PET Tape",
+      "current_meta_description": "Elevate your spreads with PET tape - fashion-forward designs, pre-cut for easy layering. Shop Rongrong PET tape stickers for journals, planners & crafts.",
+      "last_scraped": "2026-05-11",
+      "ga4_priority_bucket": "Monetise",
+      "ga4_priority_score": 23.68,
+      "ga4_current": {
+        "sessions": 85,
+        "conversions": 1,
+        "revenue": 0,
+        "purchases": 1
+      },
+      "ga4_delta": {
+        "sessions": -9,
+        "conversions": -2,
+        "revenue": -145.72
+      }
+    },
+    {
+      "slug": "planner-and-sticker-bundles",
+      "url": "https://www.shoprongrong.com/collections/planner-and-sticker-bundles",
+      "class": "pure_category",
+      "dominant_product_type": "STICKER BOOK",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "There Is A Quote For That Bundle",
+        "Cozy Hononichi Bundle",
+        "2026 Spring PET/washi Tapes Bundle",
+        "Ultimate Journaler Bundle",
+        "Elevate Your Year Bundle"
+      ],
+      "primary_keyword": "planner stickers",
+      "tracking_required": true,
+      "tracking_note": "GA4 monetise priority. Live H1 says Scrapbooking Bundles, so keyword/H1 alignment needs manual review.",
+      "au_volume": 20,
+      "current_title": "Scrapbooking Bundles | Scrapbook Supplies Sets & Starter Kits",
+      "current_h1": "Scrapbooking Bundles",
+      "current_meta_description": "Create beautiful memories with scrapbooking bundles featuring complete kits, supplies, and beginner-friendly sets for easy creative crafting.",
+      "last_scraped": "2026-05-11",
+      "ga4_priority_bucket": "Monetise",
+      "ga4_priority_score": 20.46,
+      "ga4_current": {
+        "sessions": 15,
+        "conversions": 1,
+        "revenue": 115.57,
+        "purchases": 1
+      },
+      "ga4_delta": {
+        "sessions": -14,
+        "conversions": 1,
+        "revenue": 115.57
+      }
+    },
+    {
+      "slug": "planners-notebooks",
+      "url": "https://www.shoprongrong.com/collections/planners-notebooks",
+      "class": "curated_edit",
+      "dominant_product_type": "PLANNER",
+      "product_count_sample": 10,
+      "sample_product_titles": [
+        "Dark Academia All Booked Up Reading Journal",
+        "All Booked Up Reading Journal",
+        "Daily Planner Insert - Classic Size - Quarterly Supply",
+        "Planning On Being Awesome Discbound Notebook",
+        "Seasonal Hands off My Stickers Sticker Album"
+      ],
+      "primary_keyword": "planner stickers",
+      "tracking_required": false,
+      "tracking_note": "Included as a lower-priority build/validate collection because GA4 still shows organic sessions. Better planner/notebook volume research is needed.",
+      "au_volume": 20,
+      "current_title": "Premium Planners, Notebooks & Notepads - Shop Rongrong",
+      "current_h1": "Planners/Notebooks",
+      "current_meta_description": "Premium chic stationery for adults with empowering designs. Find your perfect planner, notebook, or notepad. Free U.S. shipping on orders over $100.",
+      "last_scraped": "2026-05-11",
+      "ga4_priority_bucket": "Build / Validate",
+      "ga4_priority_score": 1.72,
+      "ga4_current": {
+        "sessions": 21,
+        "conversions": 0,
+        "revenue": 0,
+        "purchases": 0
+      },
+      "ga4_delta": {
+        "sessions": -10,
+        "conversions": 0,
+        "revenue": 0
+      }
+    }
+  ],
+  "qa": {
+    "created": "2026-05-11",
+    "created_from": [
+      "docs/agent/clients/shop-rongrong.md",
+      "Google Drive MCP folder check",
+      "SE Ranking PROJECT_getSearchEngines",
+      "SE Ranking PROJECT_getSearchVolume",
+      "GA4 collection opportunities",
+      "Firecrawl page SEO scrape",
+      "Shopify sitemap/product JSON discovery"
+    ],
+    "known_warnings": [
+      "The site appears US-facing in page copy, but this sidecar is configured AU-only to match current LD SEO workflow defaults. Confirm market scope before new keyword additions.",
+      "Shopify product JSON discovery previously looked unreliable for this site; 2026-05-11 discovery found product samples for many collections, but promotional slugs were still filtered out.",
+      "Several high-priority commercial collections have generic H1s or broad fallback keywords and need collection SEO refinement before content briefs.",
+      "The 2026-05-11 five-page crawl showed robots noindex,nofollow metadata on at least sticker-books, stickers, and planner-and-sticker-bundles. Confirm indexability before prioritising content work."
+    ]
+  }
+}

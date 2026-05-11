@@ -1,0 +1,62 @@
+{
+  "_template_version": "1.0",
+  "_instructions": "Copy this file to docs/agent/clients/<client-slug>.json. Fill every field marked REQUIRED. Fields marked OPTIONAL improve output quality — leave them out only if genuinely unavailable. Remove all _comment and _instructions keys before use.",
+
+  "client": "REQUIRED — Legal or trading name used in Doc titles and task names. e.g. 'Melani the Label'",
+  "brand_display_name": "REQUIRED — Typographically correct brand name used on first mention in copy. e.g. 'MÉLANI', 'aje.', 'SHEIKE'. Matches how the brand renders its own name in headings and hero text.",
+  "brand_voice": "REQUIRED — One paragraph. Describe the brand's register, positioning, and what good copy sounds like vs bad. This is injected verbatim into every writer/LLM prompt. Be specific: name the tone, the audience, what the brand is not. e.g. 'Sensual and precise. The brand positions its pieces as something between occasion wear and everyday luxury — clothes a woman reaches for because they fit well and feel considered, not because they were marketed at her.'",
+  "tone_direction": "REQUIRED — One or two sentences of specific writer guidance: what to lead with, what to avoid. e.g. 'Lead with what the garment does — fit, fabric, occasion — not with how it makes you feel in abstract terms. Avoid aspirational filler and unsupported competitive comparisons.'",
+  "domain": "REQUIRED — Root domain without protocol. e.g. 'melanithelabel.com'",
+  "market_scope": "REQUIRED — 'AU', 'US', or 'AU+US'. Determines which volume columns are required in briefs and keyword exports.",
+  "usp": "REQUIRED — Primary customer-facing benefit, factual. e.g. 'Free shipping on orders over $100', 'Made in Italy', 'Ships in 24 hours'. Do not invent — only use what the client has confirmed.",
+
+  "brand_denylist": [
+    "OPTIONAL — List of competitor and retailer brand name strings to filter from supplemental keyword research.",
+    "Each entry is matched as a whole word (case-insensitive) against keyword candidates.",
+    "Always include major category retailers and direct competitors.",
+    "e.g. 'kmart', 'target', 'myer', 'david jones', 'sheike', 'tiger mist', 'meshki'"
+  ],
+
+  "se_ranking": {
+    "project_id": "REQUIRED — Integer. SE Ranking project ID. Found in the project URL.",
+    "engines": {
+      "AU": "REQUIRED if market_scope includes AU — Integer. SE Ranking search engine ID for Google AU.",
+      "US": "REQUIRED if market_scope includes US — Integer. SE Ranking search engine ID for Google US."
+    }
+  },
+
+  "drive": {
+    "client_folder_id": "REQUIRED — Google Drive folder ID for this client's root folder.",
+    "folders": {
+      "03_audits": "OPTIONAL — Drive folder ID for audit deliverables.",
+      "05_content": "REQUIRED for content briefs — Drive folder ID where content briefs are filed. If absent, the agent will stop and ask before writing any Doc.",
+      "07_reports": "OPTIONAL — Drive folder ID for reports."
+    }
+  },
+
+  "monday": {
+    "board_id": "REQUIRED — Integer. Monday.com board ID where tasks are created.",
+    "groups": {
+      "current_month": "REQUIRED — Monday group ID or name where new tasks land. Read board schema with get_board_info to confirm before writing tasks."
+    }
+  },
+
+  "ga4_property": "OPTIONAL — GA4 property in 'properties/XXXXXXXXX' format. Required for traffic data pulls.",
+
+  "collections": [
+    {
+      "_comment": "One object per SEO-priority collection. Required fields per collection are listed below.",
+      "slug": "REQUIRED — Shopify collection handle. e.g. 'gowns', 'mini-dresses'. Used as the unique key throughout the pipeline.",
+      "url": "REQUIRED — Full canonical URL of the collection page.",
+      "class": "REQUIRED — One of: pure_category, themed_category, curated_edit, occasion_edit, fabric_edit. Determines content strategy.",
+      "dominant_product_type": "REQUIRED — Primary product type in UPPERCASE matching Shopify product type values. e.g. 'DRESSES', 'TOPS', 'SWIM'. Used for catalog mismatch filtering and internal link scoring. Do not use shorthand like 'TOP' when the collection sells dresses.",
+      "primary_keyword": "REQUIRED — The single keyword this collection page targets. Confirmed against SE Ranking volume data. Must have meaningful AU and/or US monthly search volume.",
+      "au_volume": "REQUIRED if market_scope includes AU — Integer. Monthly AU search volume for primary_keyword.",
+      "us_volume": "REQUIRED if market_scope includes US — Integer. Monthly US search volume for primary_keyword.",
+      "current_title": "REQUIRED — Current page title tag. Scraped live, not assumed.",
+      "current_h1": "REQUIRED — Current page H1 text. Scraped live. Flag if H1 shares no words with primary_keyword — this is an SEO issue to resolve before or during brief delivery.",
+      "current_meta_description": "OPTIONAL — Current meta description. Absence is a warning, not a blocker.",
+      "last_scraped": "REQUIRED — ISO date of the most recent live page scrape. e.g. '2026-05-10'."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "default_google_subject": "seo@agents.digital",
+  "default_output_subject": "hello@agents.digital",
+  "properties": {
+    "properties/399571311": "seo@agents.digital",
+    "properties/354478921": "seo@agents.digital",
+    "properties/356217618": "seo@agents.digital",
+    "properties/387124003": "seo@agents.digital",
+    "properties/532415351": "seo@agents.digital",
+    "properties/378662387": "seo@agents.digital",
+    "properties/369346274": "seo@agents.digital",
+    "properties/402313624": "seo@agents.digital",
+    "properties/513354197": "seo@agents.digital",
+    "properties/525910399": "seo@agents.digital",
+    "properties/423383715": "hello@agents.digital",
+    "properties/516619587": "hello@agents.digital"
+  },
+  "clients": {
+    "little shop of happiness": "seo@agents.digital",
+    "shop rongrong": "seo@agents.digital",
+    "avenue hampers": "seo@agents.digital",
+    "travelkon": "seo@agents.digital",
+    "salad servers direct": "seo@agents.digital",
+    "melani the label": "seo@agents.digital",
+    "ducati melbourne": "seo@agents.digital",
+    "joe rascal harley": "seo@agents.digital",
+    "acorn rentals": "hello@agents.digital",
+    "agents digital": "hello@agents.digital",
+    "mr gadget": "seo@agents.digital"
+  },
+  "hosts": {
+    "agents.digital": "hello@agents.digital"
+  }
+}
+

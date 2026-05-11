@@ -1,0 +1,369 @@
+{
+  "accessories": {
+    "url": "https://melanithelabel.com/collections/accessories",
+    "h1": "Accessories",
+    "title": "Accessories",
+    "description": "",
+    "product_samples": [
+      "Cross Earring",
+      "Cross Belt",
+      "Aliya 1",
+      "Aliya 2",
+      "Aliya 4",
+      "Aliya 3",
+      "Aliya 6",
+      "Aliya 7",
+      "Aliya"
+    ]
+  },
+  "bodysuit": {
+    "url": "https://melanithelabel.com/collections/bodysuit",
+    "h1": "Bodysuits",
+    "title": "Bodysuits",
+    "description": "",
+    "product_samples": [
+      "Clara Bodysuit Espresso",
+      "Khi Bodysuit Espresso",
+      "Clara Bodysuit White Lace",
+      "Valerie",
+      "Clara Bodysuit Shiraz Lace",
+      "Lyra Bodysuit Shiraz",
+      "Khi Bodysuit Shiraz",
+      "Giselle",
+      "Valerie 1",
+      "Lia Bodysuit Shiraz"
+    ]
+  },
+  "bridal": {
+    "url": "https://melanithelabel.com/collections/bridal",
+    "h1": "Bridal",
+    "title": "Bridal",
+    "description": "",
+    "product_samples": [
+      "Josefina Satin Maxi Dress Pearl White",
+      "Natalia Gown White",
+      "Mariana Bridal Gown Ivory",
+      "Valentina Gown Ivory",
+      "Imalia Pearl Crop White",
+      "Palomaskirt",
+      "Astoria Skirt White",
+      "Seriah Skirt Black Lace",
+      "Estela White Lace",
+      "Clara Bodysuit White Lace"
+    ]
+  },
+  "crop-tops": {
+    "url": "https://melanithelabel.com/collections/crop-tops",
+    "h1": "CROP TOPS",
+    "title": "CROP TOPS",
+    "description": "",
+    "product_samples": [
+      "Emara Crop Aqua",
+      "Aliah Crop Top Aqua",
+      "Ella Crop Top Plum",
+      "Eve Top Plum",
+      "Aliah Crop Espresso Brown",
+      "Eve Top Espresso Brown",
+      "Emara Crop Espresso Brown",
+      "Aliah Crop Sage Green",
+      "Eve Top Sage Green",
+      "Ella Crop Sage Green"
+    ]
+  },
+  "lace-collection": {
+    "url": "https://melanithelabel.com/collections/lace-collection",
+    "h1": "**07 / 02 / 2026**",
+    "title": "LACE COLLECTION",
+    "description": "",
+    "product_samples": [
+      "Eva Gown Shiraz",
+      "Eva Gown Latte",
+      "Natalia Gown Espresso Brown",
+      "Natalia Gown White",
+      "Capri Bikini Set 1",
+      "Cartia Skirt Sage",
+      "Capri Bikini Set",
+      "Cartia Skirt Espresso Brown"
+    ]
+  },
+  "lace-dresses": {
+    "url": "https://melanithelabel.com/collections/lace-dresses",
+    "h1": "Lace Dresses",
+    "title": "Lace Dresses",
+    "description": "",
+    "product_samples": [
+      "Miah Lace Ruffle Dress Shiraz",
+      "Leviah 2",
+      "Amara",
+      "Miah Ruffle Maxi Dress Black",
+      "Leviah",
+      "Amara Lace Black",
+      "Samari Lace Black",
+      "Miah Maxi Ruffle Dress Aqua Lace",
+      "Amara Copy",
+      "Leviah 1"
+    ]
+  },
+  "lace-tops": {
+    "url": "https://melanithelabel.com/collections/lace-tops",
+    "h1": "Lace Tops",
+    "title": "Lace Tops",
+    "description": "",
+    "product_samples": [
+      "Ianne Shiraz Lace Copy",
+      "Clara Bodysuit Espresso",
+      "Estela White Lace",
+      "Clara Bodysuit White Lace",
+      "Ianne White Lace",
+      "Sia 3",
+      "Ahria White Lace",
+      "Valerie",
+      "Cecilia",
+      "Estela Aqua Lace"
+    ]
+  },
+  "long-sleeve-tops": {
+    "url": "https://melanithelabel.com/collections/long-sleeve-tops",
+    "h1": "Long Sleeve Tops",
+    "title": "Long Sleeve Tops",
+    "description": "",
+    "product_samples": [
+      "Clara Bodysuit Espresso",
+      "Ianne Shiraz Lace Copy",
+      "Clara Bodysuit White Lace",
+      "Ianne White Lace",
+      "Cecilia",
+      "Valerie",
+      "Cecilia 2",
+      "Amaiya Sunset Ombre",
+      "Lia Bodysuit Shiraz",
+      "Giselle"
+    ]
+  },
+  "maxi-skirts": {
+    "url": "https://melanithelabel.com/collections/maxi-skirts",
+    "h1": "Maxi Skirts",
+    "title": "Maxi Skirts",
+    "description": "",
+    "product_samples": [
+      "Marbella Maxi Skirt Plum",
+      "Martina Maxi Skirt Plum",
+      "Cartia Skirt Espresso Brown",
+      "Marbella Maxi Skirt Espresso Brown",
+      "Ilia Skirt Espresso Brown",
+      "Martina Maxi Skirt Espresso Brown",
+      "Zenaya Maxi Skirt Espresso Brown",
+      "Saira Skirt Espresso Brown",
+      "Lorenza Skirt Espresso",
+      "Cartia Skirt Sage"
+    ]
+  },
+  "melani-signatures": {
+    "url": "https://melanithelabel.com/collections/melani-signatures",
+    "h1": "M\u00c9LANI SIGNATURES",
+    "title": "M\u00c9LANI SIGNATURES",
+    "description": "A M\u00c9LANI woman is elegant, elevated & fearless. Turn heads at your next event with the perfect backless dress. Shop our signature collection online now.",
+    "product_samples": [
+      "Eva Gown Shiraz",
+      "Constantina Gown Wine",
+      "Natalia Gown Shiraz",
+      "Valentina Gown Shiraz",
+      "Eva Gown Latte",
+      "Natalia Gown Espresso Brown",
+      "Valentina Espresso Brown",
+      "Eva Gown Black",
+      "Jiani Gown Wine",
+      "Josefina Satin Maxi Dress Shiraz"
+    ]
+  },
+  "midi-skirts": {
+    "url": "https://melanithelabel.com/collections/midi-skirts",
+    "h1": "Midi Skirts",
+    "title": "Midi Skirts",
+    "description": "",
+    "product_samples": [
+      "Zenaya Sunset Ombre",
+      "Celeste Shiraz",
+      "Astoria Skirt White",
+      "Zenaya Pearl Marble",
+      "Celeste White Lace",
+      "Zenaya Maxi Skirt Espresso Brown",
+      "Zenaya Ombre Blue",
+      "Zenaya Gold Marble",
+      "Zenaya Papaya",
+      "Armina Sorbet"
+    ]
+  },
+  "mini-skirts": {
+    "url": "https://melanithelabel.com/collections/mini-skirts",
+    "h1": "Mini Skirts",
+    "title": "Mini Skirts",
+    "description": "",
+    "product_samples": [
+      "Ziani Skirt Espresso",
+      "Seriah Skirt Shiraz Lace",
+      "Ziani Skirt Black",
+      "Palomaskirt",
+      "Ziani Skirt White Lace",
+      "Seriah Skirt Black Lace",
+      "Seriah Skirt Aqua Lace"
+    ]
+  },
+  "ombre": {
+    "url": "https://melanithelabel.com/collections/ombre",
+    "h1": "**07 / 02 / 2026**",
+    "title": "Ombre",
+    "description": "",
+    "product_samples": [
+      "Eva Gown Shiraz",
+      "Eva Gown Latte",
+      "Natalia Gown Espresso Brown",
+      "Natalia Gown White",
+      "Capri Bikini Set 1",
+      "Cartia Skirt Sage",
+      "Capri Bikini Set",
+      "Cartia Skirt Espresso Brown"
+    ]
+  },
+  "outerwear-collection": {
+    "url": "https://melanithelabel.com/collections/outerwear-collection",
+    "h1": "Outerwear",
+    "title": "Outerwear",
+    "description": "",
+    "product_samples": [
+      "Saint Blazer Chocolate",
+      "Saint Blazer Black"
+    ]
+  },
+  "pants": {
+    "url": "https://melanithelabel.com/collections/pants",
+    "h1": "Pants",
+    "title": "Pants",
+    "description": "",
+    "product_samples": [
+      "Delfina Lace Pant Espresso",
+      "Staple Pant Espresso",
+      "Staple Pant Black",
+      "Delfina Lace Pant Black",
+      "Staple Pant Shiraz"
+    ]
+  },
+  "printed-dresses": {
+    "url": "https://melanithelabel.com/collections/printed-dresses",
+    "h1": "Printed Dresses",
+    "title": "Printed Dresses",
+    "description": "",
+    "product_samples": [
+      "Flora",
+      "Milana"
+    ]
+  },
+  "printed-tops": {
+    "url": "https://melanithelabel.com/collections/printed-tops",
+    "h1": "Printed Tops",
+    "title": "Printed Tops",
+    "description": "",
+    "product_samples": [
+      "Licia Emeraldombre",
+      "Ahria Emerald Ombre",
+      "Iana Emeraldombre",
+      "Licia Crop Blueombre",
+      "Ahria Blueombre",
+      "Iana Blueombre",
+      "Ella Crop Top Marble Print",
+      "Ahria Sunset Ombre",
+      "Amaiya Sunset Ombre",
+      "Iana Sunsetombre"
+    ]
+  },
+  "resort": {
+    "url": "https://melanithelabel.com/collections/resort",
+    "h1": "RESORT",
+    "title": "RESORT",
+    "description": "Escape into effortless dressing with M\u00c9LANI\u2019s resort wear collection, designed for modern, sun-soaked escapes. Discover luxury resort wear for women, including flowing dresses, elevated vacation outfi",
+    "product_samples": [
+      "Eve Top Plum",
+      "Marbella Maxi Skirt Plum",
+      "Ella Crop Top Plum",
+      "Martina Maxi Skirt Plum",
+      "Emara Crop Aqua",
+      "Ilia Skirt Aqua",
+      "Aliah Crop Top Aqua",
+      "Emara Crop Sage Green",
+      "Ilia Skirt Sage Green",
+      "Capri Bikini Set 1"
+    ]
+  },
+  "skirt": {
+    "url": "https://melanithelabel.com/collections/skirt",
+    "h1": "All Skirts",
+    "title": "All Skirts",
+    "description": "",
+    "product_samples": [
+      "Marbella Maxi Skirt Plum",
+      "Martina Maxi Skirt Plum",
+      "Ilia Skirt Aqua",
+      "Seriah Skirt Aqua Lace",
+      "Cartia Skirt Espresso Brown",
+      "Ilia Skirt Espresso Brown",
+      "Marbella Maxi Skirt Espresso Brown",
+      "Marbella Maxi Skirt Sage Green",
+      "Martina Maxi Skirt Sage Green",
+      "Ilia Skirt Sage Green"
+    ]
+  },
+  "swim": {
+    "url": "https://melanithelabel.com/collections/swim",
+    "h1": "SWIM",
+    "title": "SWIM",
+    "description": "",
+    "product_samples": [
+      "Capri Bikini Set",
+      "Capri Bikini Set 1",
+      "Elora Pre Order",
+      "Elora Pre Order 4",
+      "Elora Pre Order 1",
+      "Elora Pre Order 5",
+      "Elora Pre Order 2",
+      "Elora Pre Order 6",
+      "Elora Pre Order 3",
+      "Elora Pre Order 7"
+    ]
+  },
+  "tailored": {
+    "url": "https://melanithelabel.com/collections/tailored",
+    "h1": "Tailored",
+    "title": "Tailored",
+    "description": "",
+    "product_samples": [
+      "Saint Blazer Chocolate",
+      "Misha Top Chocolate",
+      "Delfina Lace Pant Espresso",
+      "Lorenza Skirt Espresso",
+      "Esra Dress Chocolate",
+      "Saint Blazer Black",
+      "Misha Top Black",
+      "Delfina Lace Pant Black",
+      "Lorenza Skirt Black",
+      "Esra Dress Black"
+    ]
+  },
+  "tops": {
+    "url": "https://melanithelabel.com/collections/tops",
+    "h1": "ALL TOPS",
+    "title": "ALL TOPS",
+    "description": "",
+    "product_samples": [
+      "Eve Top Plum",
+      "Ella Crop Top Plum",
+      "Emara Crop Aqua",
+      "Aliah Crop Top Aqua",
+      "Eve Top Espresso Brown",
+      "Emara Crop Espresso Brown",
+      "Aliah Crop Espresso Brown",
+      "Ella Crop Sage Green",
+      "Aliah Crop Sage Green",
+      "Emara Crop Sage Green"
+    ]
+  }
+}

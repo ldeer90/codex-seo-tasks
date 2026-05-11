@@ -1,0 +1,75 @@
+{
+  "client": "Mr Gadget",
+  "brand_display_name": "Mr Gadget",
+  "brand_voice": "Enthusiast-led and plain-spoken. Mr Gadget is an Australian tech review and buyer's guide publication, not a retailer — copy reads like advice from a mate who actually tested the thing in an Australian context (humid summers, cold-snap winters, 240V power, AU plug shapes, local warranty). The register is casual but informed: opinionated where the testing supports it, honest about limits, and never marketing-fluff. Avoid US-centric framing, vague superlatives ('amazing', 'game-changing'), and spec-sheet regurgitation that adds no judgement.",
+  "tone_direction": "Lead with the verdict and the use-case (who it's for, where it falls short), not the specs. Reference Australian-specific context where it matters (climate, retailers, electrical standards, distance from major cities). Avoid affiliate-style hype phrasing.",
+  "domain": "mrgadget.com.au",
+  "market_scope": "AU",
+  "usp": "Australian-focused tech reviews and buyer's guides — products tested and recommended for local conditions, retailers, and warranty reality.",
+  "site_type": "publisher",
+  "site_type_note": "TEST CLIENT — onboarded via /ldseo-onboard skill validation on 2026-05-10. Mr Gadget is a review/content publication, not a Shopify retailer. The collection-SEO pipeline (Shopify collections → metadata → content briefs keyed off dominant_product_type) does not apply here. Editorial SEO workflows (topic clusters, content gap, review-page optimisation) would be the right fit if this were a real engagement.",
+
+  "brand_denylist": [
+    "harvey norman",
+    "jb hi-fi",
+    "the good guys",
+    "officeworks",
+    "kogan",
+    "amazon",
+    "ebay"
+  ],
+
+  "se_ranking": {
+    "project_id": null,
+    "engines": {
+      "AU": null
+    },
+    "_note": "Not created — test onboarding only."
+  },
+
+  "drive": {
+    "client_folder_id": "1JIgScdw7e1_W2-cw-LoZG5DbNC1eywIg",
+    "client_folder_url": "https://drive.google.com/drive/folders/1JIgScdw7e1_W2-cw-LoZG5DbNC1eywIg",
+    "folders": {
+      "_note": "Subfolders (03_audits, 05_content, 07_reports) not created — test onboarding only."
+    }
+  },
+
+  "monday": {
+    "board_id": 5028393076,
+    "board_url": "https://laurencedeer.monday.com/boards/5028393076",
+    "workspace_id": 2556079,
+    "workspace_name": "Main workspace",
+    "groups": {
+      "current_month": "_pending — read board schema with get_board_info before creating tasks"
+    }
+  },
+
+  "ga4_property": null,
+
+  "collections": [],
+
+  "qa": {
+    "onboarded_date": "2026-05-10",
+    "onboarded_by": "/ldseo-onboard skill (test run)",
+    "field_sources": {
+      "brand_voice": "Drafted from www.mrgadget.com.au homepage analysis (WebFetch 2026-05-10) — quotes 'Obsessed with technology. Compelled by innovation.' and 'It gets colder than you remember during Winter here in Aus.'",
+      "tone_direction": "Drafted by skill — confirm with client before using in writer prompts",
+      "usp": "Inferred from site positioning + press features (MSN, Engadget, Wired) — not client-confirmed",
+      "domain": "User-provided",
+      "market_scope": "User-confirmed AU only",
+      "drive": "Created live via Drive MCP 2026-05-10",
+      "monday": "Created live via Monday MCP 2026-05-10",
+      "se_ranking": "Skipped — test run",
+      "ga4_property": "Skipped — test run"
+    },
+    "blockers_for_real_use": [
+      "Confirm brand_voice + tone_direction with client before any writer/content workflow",
+      "Confirm usp with client",
+      "Create SE Ranking project + record project_id and engines.AU",
+      "Decide site_type: publisher path is not yet supported by collection-SEO pipeline",
+      "Provide GA4 property ID and grant access to delegated subject if traffic reporting is in scope",
+      "Read Monday board schema and record real groups.current_month value"
+    ]
+  }
+}
