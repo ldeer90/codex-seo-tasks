@@ -37,7 +37,7 @@ Until `SEO Reports` is created, `create_combined_seo_report` falls back to `GOOG
 
 ## SE Ranking
 - Project ID: `12019802`
-- Keywords tracked: 139 unique keywords / 278 keyword-engine pairs (AU + US engines)
+- Keywords tracked: 312 keyword-engine pairs after 2026-05-26 cleanup
 - Check frequency: daily
 - Search engines: Google Australia (`1176139`), Google USA (`1179880`)
 - Collections covered: full collection SEO expansion completed in SE Ranking; use `docs/agent/clients/melani-the-label.json` as the operational sidecar and validate it before deliverables.

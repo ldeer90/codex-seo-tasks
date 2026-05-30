@@ -1,0 +1,466 @@
+{
+  "workflow_profile": "audit_only",
+  "client": "BestVPN",
+  "brand_display_name": "BestVPN",
+  "brand_voice": "Clear, evidence-led, and privacy-literate. BestVPN should sound like a careful Australian VPN review publication: practical for everyday readers, transparent about commercial relationships, and precise about what has and has not been tested.",
+  "tone_direction": "Lead with tested facts, current 2026 evidence, and plain-English tradeoffs. Avoid unsupported superiority claims, stale pricing, vague privacy promises, and affiliate-first language that weakens trust.",
+  "domain": "bestvpn.com.au",
+  "market_scope": "AU",
+  "usp": "Australian-focused VPN reviews and comparisons that help readers choose privacy tools with current, source-backed facts.",
+  "brand_denylist": [
+    "choice",
+    "finder",
+    "tom's guide",
+    "techradar",
+    "pcmag",
+    "cnet",
+    "forbes",
+    "wired"
+  ],
+  "se_ranking": {
+    "project_id": 12141860,
+    "engines": {
+      "AU": 1202290
+    },
+    "check_frequency": "check_daily",
+    "keyword_count": 0,
+    "last_synced": "2026-05-23",
+    "notes": "Project created for audit-only onboarding. Google AU / English engine attached. SE Ranking readback reports check_daily despite manual setup request; no keywords are tracked yet. Do not add keywords until the initial VPN review/revenue tracking set is confirmed."
+  },
+  "drive": {
+    "client_folder_id": "1RN8QDt_A4HhQ-FhV_oUvsbR8Qp_gEbON",
+    "folders": {
+      "00_proposals": "1CF7r0wmBjlnlqKMFhosUtW3ZdBfNCHUk",
+      "01_onboarding": "1PH7cfP91x5qqXezBr4gdUNxaCZrTA1HI",
+      "02_roadmap": "1jCm4w-tU1jNDea1nYO3I0kTMP9m4tByi",
+      "03_audits": "1NwJWrCh1MifFmdJxGSJCPkuioCGLVT7v",
+      "04_keyword_research": "1CiSxiWcFgYmO3FuV4EcVTUKH5RUbFzii",
+      "05_content": "1TFcsHWM6v8751GLXqlrK0oDMOcvEPtiZ",
+      "06_links": "1pAQGT8o8MxZA5VnVsgwyHwcc0VQ9-h7s",
+      "07_reports": "1LUcMCoKWbQkU6cedc8EHYUPtGXnGmGDK",
+      "07_reports_seo_reports": "151LQVfF5R8rZ6UoUv9ihUFwixEw8uq17",
+      "07_reports_benchmarks": "1YO63cmvKrHy5MQ1qA98t9yHtGEbwGjfc",
+      "08_invoices": "18fu0ueFr1n46Lgenji_wWwqcco8tNuwj"
+    },
+    "folder_check": {
+      "source": "Google Drive MCP",
+      "checked_at": "2026-05-23",
+      "notes": "BestVPN folder and direct child folders were created under Agents Digital / Clients and read back through the Google Drive connector."
+    }
+  },
+  "monday": {
+    "enabled": false,
+    "notes": "User chose to skip Monday tracking for initial audit-only onboarding."
+  },
+  "ga4_property": "properties/319011488",
+  "google_access": {
+    "route_source": "config/site-access.json property route",
+    "analytics_subject": "seo@agents.digital",
+    "output_subject": "hello@agents.digital",
+    "delegated_subjects": [
+      "seo@agents.digital",
+      "hello@agents.digital"
+    ],
+    "service_account_name": "seo-llm-service-account",
+    "service_account_project": "seo-agency-work",
+    "oauth_client_id": "115884595613709396832",
+    "routing_tool": "resolve_google_access_subject",
+    "last_router_check": "2026-05-23",
+    "last_router_result": {
+      "analytics": {
+        "subject": "seo@agents.digital",
+        "source": "property",
+        "key": "properties/319011488",
+        "validated": true
+      },
+      "output": {
+        "subject": "hello@agents.digital",
+        "source": "output_default",
+        "key": ""
+      }
+    },
+    "ga4_candidates_checked": [
+      {
+        "property": "properties/319011488",
+        "display_name": "Best VPN",
+        "time_zone": "Australia/Melbourne",
+        "currency": "AUD",
+        "access_subject": "seo@agents.digital",
+        "access_status": "validated"
+      },
+      {
+        "property": "properties/231696921",
+        "display_name": "BestVPN.com.au",
+        "access_status": "403 for seo@agents.digital, hello@agents.digital, and service account",
+        "notes": "Do not use for reporting unless access changes."
+      }
+    ],
+    "notes": "Use the local seo-automation MCP for GA4/Search Console reads. Do not ask for raw credentials. Search Console source remains pending; use delegated access and repo client memory for source routing."
+  },
+  "website": {
+    "primary_url": "https://bestvpn.com.au/",
+    "staging_url": "https://bestvpn.staging.tempurl.host/",
+    "measurement_id": "G-JJDW1KL2LZ",
+    "cms": "WordPress",
+    "hosting": "WPMU DEV",
+    "wordpress_path": "/home/codex/site/public_html",
+    "staging_indexing": "Temp-domain robots.txt disallows all crawling; keep staging non-indexable."
+  },
+  "wordpress": {
+    "checked_at": "2026-05-23",
+    "core_version": "5.8.13",
+    "active_theme": "rehub-theme",
+    "active_theme_version": "16.5.1",
+    "notable_plugins": {
+      "woocommerce": "5.6.3",
+      "elementor": "3.4.2",
+      "elementor-pro": "3.3.8",
+      "content-egg": "5.2.1",
+      "wp-hummingbird": "3.1.0",
+      "wp-smush-pro": "3.9.0",
+      "wp-defender": "2.5.7"
+    },
+    "published_inventory": {
+      "posts": 15,
+      "pages": 8,
+      "products": 10
+    }
+  },
+  "audit": {
+    "primary_goal": "Trust refresh first; SEO and affiliate cleanup second.",
+    "production_crawl_url": "https://bestvpn.com.au/",
+    "staging_url": "https://bestvpn.staging.tempurl.host/",
+    "staging_access": "Temporarily disable password protection or provide Basic Auth for browser QA. Keep staging blocked from search engines.",
+    "required_before_reporting": [
+      "Search Console property/source",
+      "Drive client folder ID",
+      "Initial SE Ranking keyword set"
+    ]
+  },
+  "deliverables": {
+    "comprehensive_audit_2026_05_23": {
+      "created": "2026-05-23",
+      "local_report_dir": "/Users/laurencedeer/Desktop/SEO Automation/var/reports/bestvpn-comprehensive-audit-2026-05-23",
+      "local_sitemap_crawl_dir": "/Users/laurencedeer/Desktop/SEO Automation/var/screaming-frog/2026-05-23-bestvpn-screaming-frog-sitemap",
+      "drive_doc": {
+        "id": "1VZbVPuSulWQVgc5vtIy8TCOXGi6-1_iDnoRu9r2myAI",
+        "url": "https://docs.google.com/document/d/1VZbVPuSulWQVgc5vtIy8TCOXGi6-1_iDnoRu9r2myAI/edit"
+      },
+      "drive_workbook": {
+        "id": "10uYzSsgZrrrGAdf4BdL3pSG_7jEQ8pJoE5Ip0TYsWdI",
+        "url": "https://docs.google.com/spreadsheets/d/10uYzSsgZrrrGAdf4BdL3pSG_7jEQ8pJoE5Ip0TYsWdI/edit"
+      },
+      "drive_audit_pack_zip": {
+        "id": "1Fv2grnV8vWidAWP6fbZ0IphyMPL25rmz",
+        "url": "https://drive.google.com/file/d/1Fv2grnV8vWidAWP6fbZ0IphyMPL25rmz/view?usp=drivesdk"
+      },
+      "screaming_frog_sitemap_export": {
+        "id": "1W7FP47LYj1ztup1gTCHfX6g7qtgClf-7",
+        "url": "https://drive.google.com/file/d/1W7FP47LYj1ztup1gTCHfX6g7qtgClf-7/view?usp=drivesdk",
+        "internal_rows": 59,
+        "internal_3xx": 0,
+        "internal_4xx_5xx": 0,
+        "non_indexable": 0,
+        "missing_meta_descriptions": 50,
+        "duplicate_titles": 23,
+        "missing_h1": 9,
+        "missing_canonicals": 17,
+        "low_content_pages": 15
+      },
+      "screaming_frog_homepage_spider_export": {
+        "id": "1P9VCI6TMSLXe8S5tzIEEC9-h2gvKtlNG",
+        "url": "https://drive.google.com/file/d/1P9VCI6TMSLXe8S5tzIEEC9-h2gvKtlNG/view?usp=drivesdk",
+        "internal_rows": 1,
+        "notes": "Initial spider crawl reached only the homepage; sitemap crawl is the primary technical export."
+      },
+      "audit_counts": {
+        "core_content_urls": 33,
+        "affiliate_rows": 75,
+        "provider_roster_rows": 10,
+        "keyword_candidate_rows": 36
+      },
+      "keyword_candidate_snapshot": {
+        "id": "1otJg3S4I_2Yo0hXZt1OOC8wc-_tJI-iZ2eXeAraaZ3o",
+        "url": "https://docs.google.com/spreadsheets/d/1otJg3S4I_2Yo0hXZt1OOC8wc-_tJI-iZ2eXeAraaZ3o/edit",
+        "folder": "04 Keyword Research",
+        "source": "SE Ranking DATA_exportKeywords plus related/question keyword pulls for AU",
+        "keywords_added_to_project": 0
+      },
+      "ga4_organic_baseline": {
+        "id": "1rZx5-Obu0XMcvU-Ta-pXSEfafIfMSHGxRaETdnNhxeE",
+        "url": "https://docs.google.com/spreadsheets/d/1rZx5-Obu0XMcvU-Ta-pXSEfafIfMSHGxRaETdnNhxeE/edit",
+        "folder": "07 Reports / Benchmarks",
+        "ga4_property": "properties/319011488",
+        "analytics_subject": "seo@agents.digital",
+        "source": "GA4 Organic Search landingPagePlusQueryString report",
+        "ranges": {
+          "2025-05-23_to_2026-05-22": {
+            "row_count": 14,
+            "sessions": 541,
+            "users": 509,
+            "engaged_sessions": 185,
+            "conversions": 0,
+            "revenue": 0,
+            "top_landing_page": "/",
+            "top_landing_page_sessions": 489
+          },
+          "2026-02-22_to_2026-05-22": {
+            "row_count": 7,
+            "sessions": 124,
+            "users": 116,
+            "engaged_sessions": 39,
+            "conversions": 0,
+            "revenue": 0,
+            "top_landing_page": "/",
+            "top_landing_page_sessions": 107
+          }
+        },
+        "local_csvs": [
+          "/Users/laurencedeer/Desktop/SEO Automation/var/reports/bestvpn-comprehensive-audit-2026-05-23/ga4-organic-landing-pages-12mo-2026-05-23.csv",
+          "/Users/laurencedeer/Desktop/SEO Automation/var/reports/bestvpn-comprehensive-audit-2026-05-23/ga4-organic-landing-pages-90d-2026-05-23.csv"
+        ]
+      },
+      "caveats": [
+        "Search Console source pending.",
+        "Provider-by-provider 2026 official fact verification is the next content phase.",
+        "Staging browser QA requires password protection to be disabled or Basic Auth credentials provided."
+      ]
+    },
+    "vpn_research_homepage_2026_05_23": {
+      "created": "2026-05-23",
+      "local_report_dir": "/Users/laurencedeer/Desktop/SEO Automation/var/reports/bestvpn-vpn-research-homepage-2026-05-23",
+      "drive_workbook": {
+        "id": "1UWQRK49Pt8ZSPK89-8T3Y35sc4ZXZj9kPSc2bKHSleE",
+        "url": "https://docs.google.com/spreadsheets/d/1UWQRK49Pt8ZSPK89-8T3Y35sc4ZXZj9kPSc2bKHSleE/edit",
+        "folder": "05 Content",
+        "tabs": [
+          "Summary",
+          "Provider Evidence Matrix",
+          "AU Test Results",
+          "Pricing And Refunds",
+          "Privacy And Audits",
+          "Streaming And Torrenting",
+          "Affiliate Link QA",
+          "Homepage Ranking Decisions",
+          "Sources Log",
+          "SERP Competitors",
+          "Elementor Homepage Map",
+          "Third Party Evidence",
+          "Third Party Score Model",
+          "Source Quality Rules",
+          "Claim Confidence Log"
+        ]
+      },
+      "content_blueprint_doc": {
+        "id": "1_9NWil8IJSsgLOfdTynVx30qj3lcaC92-lgsNc1thX8",
+        "url": "https://docs.google.com/document/d/1_9NWil8IJSsgLOfdTynVx30qj3lcaC92-lgsNc1thX8/edit",
+        "folder": "05 Content"
+      },
+      "provider_universe": {
+        "provider_count": 17,
+        "current_reviews": [
+          "NordVPN",
+          "ExpressVPN",
+          "Surfshark",
+          "CyberGhost",
+          "Proton VPN",
+          "Private Internet Access",
+          "IPVanish",
+          "PrivateVPN",
+          "Windscribe",
+          "Astrill VPN"
+        ],
+        "market_reset_challengers": [
+          "Mullvad",
+          "Mozilla VPN",
+          "VyprVPN",
+          "hide.me",
+          "PureVPN",
+          "TunnelBear",
+          "Hotspot Shield"
+        ]
+      },
+      "homepage": {
+        "page_id": 101334,
+        "editing_surface": "Elementor homepage with REHub/WPSM offer-card patterns where practical.",
+        "target_h1": "Best VPN Australia 2026",
+        "target_title": "Best VPN Australia 2026: Tested VPNs for Privacy, Speed & Streaming",
+        "target_meta_description": "Compare the best VPNs for Australia in 2026. See AU server coverage, privacy audits, streaming tests, prices, refund terms and clear pros and cons.",
+        "current_top_widget_post_ids": [
+          100331,
+          100924,
+          100653
+        ],
+        "current_top_widget_provider_order": [
+          "NordVPN",
+          "CyberGhost",
+          "ExpressVPN"
+        ],
+        "implementation_status": "Blueprint complete; do not alter Elementor ranking widgets until research scoring and affiliate QA are approved."
+      },
+      "ranking_status": "Blocked until AU tests, affiliate approval, score columns, and final source QA are complete.",
+      "source_status": "Official source rows have been seeded for each provider; unsourced or untested claims remain pending and must not be used in final copy.",
+      "third_party_aggregation": {
+        "created": "2026-05-23",
+        "status": "Interim third-party evidence score only; no BestVPN-tested claim or final ranking approved.",
+        "evidence_rows": 69,
+        "providers_scored": 17,
+        "tabs_added_or_updated": [
+          "Third Party Evidence",
+          "Third Party Score Model",
+          "Source Quality Rules",
+          "Claim Confidence Log"
+        ],
+        "local_files": [
+          "third-party-evidence.csv",
+          "third-party-score-model.csv",
+          "source-quality-rules.csv",
+          "claim-confidence-log.csv",
+          "third-party-aggregation-manifest.json"
+        ],
+        "scoring_rules": {
+          "privacy_security": 25,
+          "au_performance_proxy": 20,
+          "streaming_torrenting": 15,
+          "transparency_audits": 15,
+          "value": 15,
+          "usability_support": 10
+        },
+        "top_interim_priority": [
+          "NordVPN",
+          "Surfshark",
+          "Proton VPN",
+          "ExpressVPN",
+          "Private Internet Access"
+        ],
+        "publish_rule": "Use for draft shortlist and testing priority only. Published homepage copy must say rankings are based on official provider facts and third-party evidence pending BestVPN AU testing.",
+        "source_set": [
+          "Top10VPN",
+          "PCWorld",
+          "Tom's Guide",
+          "TechRadar",
+          "Cybernews",
+          "Security.org",
+          "Comparitech",
+          "provider audit/transparency sources"
+        ]
+      },
+      "homepage_evidence_draft_build": {
+        "created": "2026-05-23",
+        "status": "Staging draft created; not published or swapped into the homepage.",
+        "source_page_id": 101334,
+        "staging_draft_page_id": 102297,
+        "draft_title": "Best VPN Australia 2026 - Draft",
+        "draft_slug": "best-vpn-australia-2026-draft",
+        "draft_status": "draft",
+        "local_build_dir": "/Users/laurencedeer/Desktop/SEO Automation/var/reports/bestvpn-vpn-research-homepage-2026-05-23/homepage-evidence-draft-build",
+        "remote_build_dir": "/home/codex/bestvpn-homepage-build",
+        "remote_backup_dir": "/home/codex/bestvpn-backups/2026-05-23-homepage-draft",
+        "drive_build_package": {
+          "id": "1XXR0gbNJv19-DqCeWiVyUvaoa1rLXjUA",
+          "url": "https://drive.google.com/file/d/1XXR0gbNJv19-DqCeWiVyUvaoa1rLXjUA/view?usp=drivesdk"
+        },
+        "provider_order": [
+          "NordVPN",
+          "Surfshark",
+          "Proton VPN",
+          "ExpressVPN",
+          "Private Internet Access",
+          "Mullvad",
+          "CyberGhost",
+          "IPVanish"
+        ],
+        "top_cards": [
+          "NordVPN",
+          "Surfshark",
+          "Proton VPN"
+        ],
+        "cta_policy": "Internal review/trust links only; no external affiliate URLs because affiliate destinations remain blocked.",
+        "asset_policy": "Existing WP media used where available; Mullvad uses a text badge fallback.",
+        "qa": {
+          "rendered_html_bytes": 34156,
+          "h1_count": 1,
+          "bestvpn_tested_count": 0,
+          "bad_testing_methodology_link_count": 0,
+          "external_affiliate_url_count": 0,
+          "pending_au_testing_labels_present": true,
+          "seo_title_set": true,
+          "seo_meta_description_set": true,
+          "source_page_unchanged": true,
+          "staging_temp_domain_robots_disallow": true
+        },
+        "rollback": {
+          "db_export": "/home/codex/bestvpn-backups/2026-05-23-homepage-draft/db-before-homepage-draft.sql",
+          "source_page_backup": "/home/codex/bestvpn-backups/2026-05-23-homepage-draft/page-101334-before.json",
+          "source_page_meta_backup": "/home/codex/bestvpn-backups/2026-05-23-homepage-draft/page-101334-meta-before.json"
+        },
+        "caveats": [
+          "Draft is not publicly previewable without WordPress/staging authentication.",
+          "WPMU DEV dashboard backup was not independently confirmed; WP-CLI DB and page/meta backups were created before editing.",
+          "WordPress option blog_public is 1, but the WPMU DEV temp-domain robots.txt disallows all crawling.",
+          "No final ranking or BestVPN-owned testing claim is approved."
+        ]
+      },
+      "readback": {
+        "google_api": "Confirmed workbook tabs, sample evidence rows, Doc title/content prefix, new third-party score tabs, and both files in the 05 Content folder on 2026-05-23.",
+        "google_drive_mcp": "Timed out during folder/spreadsheet readback on 2026-05-23; retry connector readback on a future run."
+      },
+      "files": [
+        "provider-evidence-matrix.csv",
+        "au-test-results.csv",
+        "pricing-and-refunds.csv",
+        "privacy-and-audits.csv",
+        "streaming-and-torrenting.csv",
+        "affiliate-link-qa.csv",
+        "homepage-ranking-decisions.csv",
+        "sources-log.csv",
+        "serp-competitors.csv",
+        "elementor-homepage-map.csv",
+        "homepage-content-blueprint.md",
+        "third-party-evidence.csv",
+        "third-party-score-model.csv",
+        "source-quality-rules.csv",
+        "claim-confidence-log.csv",
+        "third-party-aggregation-manifest.json",
+        "manifest.json"
+      ],
+      "caveats": [
+        "Search Console source remains pending.",
+        "No final VPN rankings are approved.",
+        "AU speed, streaming, app, refund, and affiliate destination tests are pending.",
+        "WordPress/Elementor staging edits are pending WPMU DEV backup and rollback confirmation."
+      ]
+    }
+  },
+  "priority_pages": [
+    {
+      "slug": "home",
+      "url": "https://bestvpn.com.au/",
+      "type": "trust_commercial_hub",
+      "current_title": "Homepage Reviewit New",
+      "last_seen": "2026-05-23"
+    },
+    {
+      "slug": "vpn-reviews",
+      "url": "https://bestvpn.com.au/vpn-reviews/",
+      "type": "review_hub",
+      "current_title": "VPN Reviews",
+      "last_seen": "2026-05-23"
+    },
+    {
+      "slug": "testing-methodology",
+      "url": "https://bestvpn.com.au/testing-methodology/",
+      "type": "trust",
+      "current_title": "Testing Methodology",
+      "last_seen": "2026-05-23"
+    },
+    {
+      "slug": "how-we-earn-money",
+      "url": "https://bestvpn.com.au/how-we-earn-money/",
+      "type": "trust_disclosure",
+      "current_title": "How We Earn Money",
+      "last_seen": "2026-05-23"
+    }
+  ],
+  "collections": []
+}

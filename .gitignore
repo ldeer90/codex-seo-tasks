@@ -1,4 +1,6 @@
 .env
+client_secret_*.json
+google-business-profile-token*.json
 seo-agency-work-*.json
 *service-account*.json
 .DS_Store

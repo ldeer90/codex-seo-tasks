@@ -1,0 +1,1768 @@
+{
+  "sampled": [
+    {
+      "url": "https://www.acornrentals.com.au/locations/",
+      "status": 200,
+      "title": "Locations - Acorn Rentals",
+      "title_len": 25,
+      "meta": "",
+      "meta_len": 0,
+      "canonical": "https://www.acornrentals.com.au/locations/",
+      "h1": [],
+      "h2": [
+        "Locations"
+      ],
+      "word_count": 165,
+      "text_hash": "e1d0b2d0583ee35efaf54050f0b2abe6",
+      "sample_text": "Locations - Acorn Rentals Skip to content Locations Acorn Rentals currently has branches in 3 states in Australia and 1 in Auckland New Zealand. From these branches we can deliver accident replacement vehicles to your smash repair shop, home or workplace anywhere in the metropolitan areas of Sydney, Melbourne, Perth and Auckland. Combined with our third party suppliers we can supply accident replacement vehicles from over 250 locations Australia-Wide. New South Wales Sydney Depot F2/22 College S",
+      "internal_links": [
+        [
+          "New South Wales",
+          "https://www.acornrentals.com.au/new-south-wales/"
+        ],
+        [
+          "Click here for our New South Wales\u00a0page",
+          "https://www.acornrentals.com.au/new-south-wales"
+        ],
+        [
+          "Victoria",
+          "https://www.acornrentals.com.au/victoria"
+        ],
+        [
+          "Click here for our Victoria page",
+          "https://www.acornrentals.com.au/victoria"
+        ],
+        [
+          "Western Australia",
+          "https://www.acornrentals.com.au/western-australia"
+        ],
+        [
+          "Click here for our Western Australia page",
+          "https://www.acornrentals.com.au/western-australia"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/new-south-wales/",
+      "status": 200,
+      "title": "Not at Fault Accident Car Hire NSW | Acorn Rental",
+      "title_len": 49,
+      "meta": "Car rental across NSW for not at fault accidents. Servicing Sydney, Newcastle, Wollongong, Port Macquarie & more. Free delivery, no upfront costs.",
+      "meta_len": 146,
+      "canonical": "https://www.acornrentals.com.au/new-south-wales/",
+      "h1": [],
+      "h2": [
+        "New South Wales"
+      ],
+      "word_count": 189,
+      "text_hash": "992cd1d4ecd7b0affdb9fdec05a33382",
+      "sample_text": "Not at Fault Accident Car Hire NSW | Acorn Rental Skip to content New South Wales Acorn Rentals provide free accident replacement vehicles in New South Wales. If you\u2019re in Sydney we are able to offer free delivery and pick-up of the rental vehicle. We are able to offer free courtesy cars in Newcastle, Wollongong, Port Macquarie, Bathurst and many other NSW major regional cities. Acorn Rentals is fully licenced in New South Wales, allowing us to provide courtesy cars free of charge in that state.",
+      "internal_links": []
+    },
+    {
+      "url": "https://www.acornrentals.com.au/victoria/",
+      "status": 200,
+      "title": "Not at Fault Accident Car Hire Victoria | Acorn Rental",
+      "title_len": 54,
+      "meta": "Car rental across Victoria for not at fault accidents. Servicing Melbourne, Geelong, Bendigo, Ballarat & more. Free delivery - insurers billed directly.",
+      "meta_len": 152,
+      "canonical": "https://www.acornrentals.com.au/victoria/",
+      "h1": [],
+      "h2": [
+        "Victoria"
+      ],
+      "word_count": 88,
+      "text_hash": "6f36e101518209b594e95479d190dbf8",
+      "sample_text": "Not at Fault Accident Car Hire Victoria | Acorn Rental Skip to content Victoria If you need a free rental car after an accident in Victoria we have you covered. Acorn Rentals provides courtesy cars anywhere in the Melbourne metropolitan area through our depots in the capital. In the regional areas we can provide free rental cars at Ballarat, Bendigo, Mildura and more. Our Victoria branch address: 164 Bamfield Rd Heidelberg West VIC 3081 We\u2019re available in the following Victoria locations: Melbou",
+      "internal_links": []
+    },
+    {
+      "url": "https://www.acornrentals.com.au/queensland/",
+      "status": 200,
+      "title": "Queensland - Acorn Rentals",
+      "title_len": 26,
+      "meta": "",
+      "meta_len": 0,
+      "canonical": "https://www.acornrentals.com.au/queensland/",
+      "h1": [],
+      "h2": [
+        "Queensland"
+      ],
+      "word_count": 125,
+      "text_hash": "1befa154397ce1063992fa6370ba331b",
+      "sample_text": "Queensland - Acorn Rentals Skip to content Queensland Acorn Rentals provide free accident replacement vehicles in Queensland. We have depots throughout Brisbane, covering all the major areas. We also have regional depots to provide courtesy cars in Toowoomba, Bundaberg, Cairns, Townsville and many other major QLD cities. Acorn Rentals is fully licenced in Queensland, allowing us to provide courtesy cars free of charge in that state. Our QLD Licence number is 3414658. Our Queensland branch addres",
+      "internal_links": []
+    },
+    {
+      "url": "https://www.acornrentals.com.au/south-australia/",
+      "status": 200,
+      "title": "South Australia - Acorn Rentals",
+      "title_len": 31,
+      "meta": "",
+      "meta_len": 0,
+      "canonical": "https://www.acornrentals.com.au/south-australia/",
+      "h1": [],
+      "h2": [
+        "South Australia"
+      ],
+      "word_count": 113,
+      "text_hash": "78ae4cd2aa2d95a85852ce9f8a6f4a74",
+      "sample_text": "South Australia - Acorn Rentals Skip to content South Australia Acorn Rentals provide free accident replacement vehicles for non fault drivers from over 250 locations Australia Wide. With our head office located in Sydney, we cover all capital city Metropolitan areas and many other locations nationally, so there is a good chance we can get you back on the road wherever you are. Acorn Rentals is fully licenced in South Australia, allowing us to provide courtesy cars free of charge in that state. ",
+      "internal_links": []
+    },
+    {
+      "url": "https://www.acornrentals.com.au/western-australia/",
+      "status": 200,
+      "title": "Western Australia - Acorn Rentals",
+      "title_len": 33,
+      "meta": "",
+      "meta_len": 0,
+      "canonical": "https://www.acornrentals.com.au/western-australia/",
+      "h1": [],
+      "h2": [
+        "Western Australia"
+      ],
+      "word_count": 105,
+      "text_hash": "83724d1b989df690db5ee0c8e89ee5ae",
+      "sample_text": "Western Australia - Acorn Rentals Skip to content Western Australia We provide accident replacement vehicles to people in Perth and many regional Western Australia locations. We have our courtesy cars covering the entire Perth metro area, as well as regional WA locations like Bunbury, Busselton, Jurien Bay and more. Acorn Rentals is fully licenced in Western Australia, allowing us to provide courtesy cars free of charge in that state. Our WA Licence number is 5313. Our Western Australia address:",
+      "internal_links": []
+    },
+    {
+      "url": "https://www.acornrentals.com.au/car-accident-sydney/",
+      "status": 200,
+      "title": "Not at Fault Accident Car Hire Sydney | Acorn Rentals",
+      "title_len": 53,
+      "meta": "Have a Car accident Sydney ? Need A Replacement Cars ? Acorn Rentals offers free Courtesy Cars to get you back on the road so click now!",
+      "meta_len": 136,
+      "canonical": "https://www.acornrentals.com.au/car-accident-sydney/",
+      "h1": [
+        "Car Accident Sydney"
+      ],
+      "h2": [
+        "Courtesy Car Hire Sydney",
+        "Recent Posts",
+        "Categories",
+        "Meta"
+      ],
+      "word_count": 724,
+      "text_hash": "b7ffeebb0a05a4a5eefa57fbcabd5961",
+      "sample_text": "Not at Fault Accident Car Hire Sydney | Acorn Rentals Skip to content Car Accident Sydney Courtesy Car Hire Sydney Get a Free Courtesy Car Being involved in a car accident in Sydney is something that unfortunately thousands of drivers experience each year. Once you\u2019ve exchanged details with the other driver at the scene and reported the accident to the police if required, the next thing to arrange is getting your car back on the road and keeping life as normal while that is happening. Here\u2019s how",
+      "internal_links": [
+        [
+          "Get a Free Courtesy Car",
+          "/apply"
+        ],
+        [
+          "Get a Free Courtesy Car",
+          "/apply"
+        ],
+        [
+          "Easy Guide to Renting a Car After Someone Hits You",
+          "https://www.acornrentals.com.au/renting-car-after-someone-hits-you/"
+        ],
+        [
+          "What Happens When the Other Driver is at Fault and You Need a Car",
+          "https://www.acornrentals.com.au/other-driver-is-at-fault/"
+        ],
+        [
+          "How Long Can You Keep a Rental Car After a Crash?",
+          "https://www.acornrentals.com.au/how-long-can-you-keep-rental-car/"
+        ],
+        [
+          "What to Do First After Getting Your Rental Car",
+          "https://www.acornrentals.com.au/what-to-do-first-getting-rental-car/"
+        ],
+        [
+          "Steps to Rent a Car When Not at Fault",
+          "https://www.acornrentals.com.au/steps-to-rent-a-car/"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/car-accident-melbourne/",
+      "status": 200,
+      "title": "Not at Fault Accident Car Hire Melbourne | Acorn Rental",
+      "title_len": 55,
+      "meta": "Have a Car accident Melbourne ? Need A Replacement Cars ? Acorn Rentals offers free Courtesy Cars to get you back on the road so click now!",
+      "meta_len": 139,
+      "canonical": "https://www.acornrentals.com.au/car-accident-melbourne/",
+      "h1": [
+        "Car Accident Melbourne"
+      ],
+      "h2": [
+        "Courtesy Car Hire Melbourne",
+        "Recent Posts",
+        "Categories",
+        "Meta"
+      ],
+      "word_count": 670,
+      "text_hash": "605b99222f640a7f096fcc465390d7ca",
+      "sample_text": "Not at Fault Accident Car Hire Melbourne | Acorn Rental Skip to content Car Accident Melbourne Courtesy Car Hire Melbourne Get a Free Courtesy Car From small prangs through to more serious incidents, car accidents in Melbourne are a daily occurrence. If you\u2019ve been involved in one, you\u2019ll also know how distressing they can be too. Following are three of the most important things you\u2019ll need to arrange to get things back on track after you\u2019ve made a report the police about the incident (if necess",
+      "internal_links": [
+        [
+          "Get a Free Courtesy Car",
+          "https://www.acornrentals.com.au/apply/"
+        ],
+        [
+          "Get a Free Courtesy Car",
+          "/apply"
+        ],
+        [
+          "Easy Guide to Renting a Car After Someone Hits You",
+          "https://www.acornrentals.com.au/renting-car-after-someone-hits-you/"
+        ],
+        [
+          "What Happens When the Other Driver is at Fault and You Need a Car",
+          "https://www.acornrentals.com.au/other-driver-is-at-fault/"
+        ],
+        [
+          "How Long Can You Keep a Rental Car After a Crash?",
+          "https://www.acornrentals.com.au/how-long-can-you-keep-rental-car/"
+        ],
+        [
+          "What to Do First After Getting Your Rental Car",
+          "https://www.acornrentals.com.au/what-to-do-first-getting-rental-car/"
+        ],
+        [
+          "Steps to Rent a Car When Not at Fault",
+          "https://www.acornrentals.com.au/steps-to-rent-a-car/"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/car-accident-brisbane/",
+      "status": 200,
+      "title": "Car Accident Brisbane - Acorn Rentals",
+      "title_len": 37,
+      "meta": "Have a Car accident Brisbane ? Need A Replacement Cars ? Acorn Rentals offers free Courtesy Cars to get you back on the road so click now!",
+      "meta_len": 138,
+      "canonical": "https://www.acornrentals.com.au/car-accident-brisbane/",
+      "h1": [
+        "Car Accident Brisbane"
+      ],
+      "h2": [
+        "Courtesy Car Hire Brisbane",
+        "Recent Posts",
+        "Categories",
+        "Meta"
+      ],
+      "word_count": 669,
+      "text_hash": "724d69246c6e95877e69cc306691cd1c",
+      "sample_text": "Car Accident Brisbane - Acorn Rentals Skip to content Car Accident Brisbane Courtesy Car Hire Brisbane Get a Free Courtesy Car Car accidents in Brisbane are unfortunately a reality that many drivers face at some point. Knowing what to do after the accident and taking the right steps however can make getting back to life as normal much easier. Following are the simple steps you\u2019ll need to take after the accident. Report the accident In Queensland, you are required to report a car accident to the ",
+      "internal_links": [
+        [
+          "Get a Free Courtesy Car",
+          "https://www.acornrentals.com.au/apply/"
+        ],
+        [
+          "Get a Free Courtesy Car",
+          "/apply"
+        ],
+        [
+          "Easy Guide to Renting a Car After Someone Hits You",
+          "https://www.acornrentals.com.au/renting-car-after-someone-hits-you/"
+        ],
+        [
+          "What Happens When the Other Driver is at Fault and You Need a Car",
+          "https://www.acornrentals.com.au/other-driver-is-at-fault/"
+        ],
+        [
+          "How Long Can You Keep a Rental Car After a Crash?",
+          "https://www.acornrentals.com.au/how-long-can-you-keep-rental-car/"
+        ],
+        [
+          "What to Do First After Getting Your Rental Car",
+          "https://www.acornrentals.com.au/what-to-do-first-getting-rental-car/"
+        ],
+        [
+          "Steps to Rent a Car When Not at Fault",
+          "https://www.acornrentals.com.au/steps-to-rent-a-car/"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/car-accident-perth/",
+      "status": 200,
+      "title": "Car Accident Perth - Acorn Rentals",
+      "title_len": 34,
+      "meta": "Have a Car accident Perth ? Need A Replacement Cars ? Acorn Rentals offers free Courtesy Cars to get you back on the road so click now!",
+      "meta_len": 135,
+      "canonical": "https://www.acornrentals.com.au/car-accident-perth/",
+      "h1": [],
+      "h2": [
+        "Car Accident Perth",
+        "Courtesy Car Hire Perth",
+        "Recent Posts",
+        "Categories",
+        "Meta"
+      ],
+      "word_count": 704,
+      "text_hash": "000f92ebc51333e8834f4f26a6efcfa9",
+      "sample_text": "Car Accident Perth - Acorn Rentals Skip to content Car Accident Perth Courtesy Car Hire Perth Get a Free Courtesy Car If you\u2019ve found yourself involved in a car accident in Perth, you may be left wondering what you need to do after the accident to get things moving again \u2013 after all, it\u2019s not the sort of thing you think about until you\u2019re put in the position. Here\u2019s a look at the major things you\u2019ll need to take care of. Report the accident to the police In Western Australia, you\u2019re required to ",
+      "internal_links": [
+        [
+          "Get a Free Courtesy Car",
+          "https://www.acornrentals.com.au/apply/"
+        ],
+        [
+          "Get a Free Courtesy Car",
+          "/apply"
+        ],
+        [
+          "Easy Guide to Renting a Car After Someone Hits You",
+          "https://www.acornrentals.com.au/renting-car-after-someone-hits-you/"
+        ],
+        [
+          "What Happens When the Other Driver is at Fault and You Need a Car",
+          "https://www.acornrentals.com.au/other-driver-is-at-fault/"
+        ],
+        [
+          "How Long Can You Keep a Rental Car After a Crash?",
+          "https://www.acornrentals.com.au/how-long-can-you-keep-rental-car/"
+        ],
+        [
+          "What to Do First After Getting Your Rental Car",
+          "https://www.acornrentals.com.au/what-to-do-first-getting-rental-car/"
+        ],
+        [
+          "Steps to Rent a Car When Not at Fault",
+          "https://www.acornrentals.com.au/steps-to-rent-a-car/"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/car-accident-adelaide/",
+      "status": 200,
+      "title": "Car Accident Adelaide - Acorn Rentals",
+      "title_len": 37,
+      "meta": "Have a Car accident Adelaide ? Need A Replacement Cars ? Acorn Rentals offers free Courtesy Cars to get you back on the road so click now!",
+      "meta_len": 138,
+      "canonical": "https://www.acornrentals.com.au/car-accident-adelaide/",
+      "h1": [
+        "Car Accident Adelaide"
+      ],
+      "h2": [
+        "Courtesy Car Hire Adelaide",
+        "Recent Posts",
+        "Categories",
+        "Meta"
+      ],
+      "word_count": 718,
+      "text_hash": "9ccafaaca64402f50b59d7d7861679d7",
+      "sample_text": "Car Accident Adelaide - Acorn Rentals Skip to content Car Accident Adelaide Courtesy Car Hire Adelaide Get A Free Courtesy Car Car accidents in Adelaide, like much of Australia are an all too common part of daily life on our roads. If you have been involved in a crash, it can be a stressful time to deal with as well, but there are some simple steps that you can follow to make getting back on the road smoother. Report the accident You may need to report the accident to the police, as well as your",
+      "internal_links": [
+        [
+          "Get A Free Courtesy Car",
+          "https://www.acornrentals.com.au/apply/"
+        ],
+        [
+          "Easy Guide to Renting a Car After Someone Hits You",
+          "https://www.acornrentals.com.au/renting-car-after-someone-hits-you/"
+        ],
+        [
+          "What Happens When the Other Driver is at Fault and You Need a Car",
+          "https://www.acornrentals.com.au/other-driver-is-at-fault/"
+        ],
+        [
+          "How Long Can You Keep a Rental Car After a Crash?",
+          "https://www.acornrentals.com.au/how-long-can-you-keep-rental-car/"
+        ],
+        [
+          "What to Do First After Getting Your Rental Car",
+          "https://www.acornrentals.com.au/what-to-do-first-getting-rental-car/"
+        ],
+        [
+          "Steps to Rent a Car When Not at Fault",
+          "https://www.acornrentals.com.au/steps-to-rent-a-car/"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "title_len": 53,
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "meta_len": 151,
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "h2": [
+        "Service Areas",
+        "Recent Posts",
+        "Categories",
+        "Meta"
+      ],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc",
+      "sample_text": "Service Areas | Top Courtesy Car Company in Australia Skip to content Service Areas We provide courtesy cars to almost every suburb in every major capital city in Australia. Some suburbs are known for the number of smash repair shops located within them, so below we have provided a list of some of the major areas we deliver our courtesy cars to. We do, however, deliver to almost every suburb in every capital city, as well as many regional cities. We can also meet you at your office or home locat",
+      "internal_links": [
+        [
+          "Sydney",
+          "/car-accident-sydney/"
+        ],
+        [
+          "Smash Repairs",
+          "/service-areas/sydney-smash-repairs/"
+        ],
+        [
+          "Parramatta Smash Repairs",
+          "/service-areas/parramatta-smash-repairs"
+        ],
+        [
+          "Silverwater Smash Repairs",
+          "/service-areas/silverwater-smash-repairs/"
+        ],
+        [
+          "Narrabeen Smash Repairs",
+          "/service-areas/narrabeen-smash-repairs/"
+        ],
+        [
+          "Mosman Smash Repairs",
+          "/service-areas/mosman-smash-repairs/"
+        ],
+        [
+          "Narellan Smash Repairs",
+          "/service-areas/narellan-smash-repairs/"
+        ],
+        [
+          "Emu Plains Smash Repairs",
+          "/service-areas/emu-plains-smash-repairs/"
+        ],
+        [
+          "Castle Hill Smash Repairs",
+          "/service-areas/castle-hill-smash-repairs/"
+        ],
+        [
+          "Lilyfield Smash Repairs",
+          "/service-areas/lilyfield-smash-repairs/"
+        ],
+        [
+          "Penrith Smash Repairs",
+          "/service-areas/penrith-smash-repairs/"
+        ],
+        [
+          "Blacktown Smash Repairs",
+          "/service-areas/blacktown-smash-repairs/"
+        ],
+        [
+          "Katoomba Smash Repairs",
+          "/service-areas/katoomba-smash-repairs/"
+        ],
+        [
+          "Mona Vale Smash Repairs",
+          "/service-areas/mona-vale-smash-repairs/"
+        ],
+        [
+          "Brisbane",
+          "/car-accident-brisbane/"
+        ],
+        [
+          "Toowong Smash Repairs",
+          "/service-areas/toowong-smash-repairs/"
+        ],
+        [
+          "Kedron Smash Repairs",
+          "/service-areas/kedron-smash-repairs/"
+        ],
+        [
+          "Morayfield Smash Repairs",
+          "/service-areas/morayfield-smash-repairs/"
+        ],
+        [
+          "Coomera Smash Repairs",
+          "/service-areas/coomera-smash-repairs/"
+        ],
+        [
+          "Archerfield Smash Repairs",
+          "/service-areas/archerfield-smash-repairs"
+        ],
+        [
+          "Burleigh Smash Repairs",
+          "/service-areas/burleigh-smash-repairs/"
+        ],
+        [
+          "Nambour Smash Repairs",
+          "/service-areas/nambour-smash-repairs/"
+        ],
+        [
+          "Sherwood Smash Repairs",
+          "/service-areas/sherwood-smash-repairs/"
+        ],
+        [
+          "Redcliffe Smash Repairs",
+          "/service-areas/redcliffe-smash-repairs/"
+        ],
+        [
+          "Rosemount Smash Repairs",
+          "/service-areas/rosemount-smash-repairs/"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/sydney-smash-repairs/",
+      "status": 200,
+      "title": "Sydney Smash Repairs - Courtesy Car Sydney - Acorn Rentals",
+      "title_len": 58,
+      "meta": "We provide free courtesy cars to smash repairs in Sydney. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "meta_len": 139,
+      "canonical": "https://www.acornrentals.com.au/service-areas/sydney-smash-repairs/",
+      "h1": [
+        "Sydney Smash Repairs"
+      ],
+      "h2": [
+        "Sydney Smash Repairs \u2013 Courtesy Cars",
+        "Leave a Reply",
+        "Recent Posts",
+        "Categories",
+        "Meta",
+        "Leave a Reply Cancel reply"
+      ],
+      "word_count": 316,
+      "text_hash": "a069faa6f2706476002e3f2ace115d69",
+      "sample_text": "Sydney Smash Repairs - Courtesy Car Sydney - Acorn Rentals Skip to content Sydney Smash Repairs Sydney Smash Repairs \u2013 Courtesy Cars We provide free courtesy cars to people that are having their car repaired at a wide range of Sydney smash repairs businesses. We will meet you with a late model rental car at the smash repair shop in Sydney when you drop your car off for repair. You can drive the courtesy car for as long as your car takes to be repaired, and just leave it at the smash shop for us ",
+      "internal_links": [
+        [
+          "Get A Free Courtesy Car",
+          "https://www.acornrentals.com.au/apply/"
+        ],
+        [
+          "Easy Guide to Renting a Car After Someone Hits You",
+          "https://www.acornrentals.com.au/renting-car-after-someone-hits-you/"
+        ],
+        [
+          "What Happens When the Other Driver is at Fault and You Need a Car",
+          "https://www.acornrentals.com.au/other-driver-is-at-fault/"
+        ],
+        [
+          "How Long Can You Keep a Rental Car After a Crash?",
+          "https://www.acornrentals.com.au/how-long-can-you-keep-rental-car/"
+        ],
+        [
+          "What to Do First After Getting Your Rental Car",
+          "https://www.acornrentals.com.au/what-to-do-first-getting-rental-car/"
+        ],
+        [
+          "Steps to Rent a Car When Not at Fault",
+          "https://www.acornrentals.com.au/steps-to-rent-a-car/"
+        ],
+        [
+          "Cancel reply",
+          "/service-areas/sydney-smash-repairs/#respond"
+        ],
+        [
+          "logged in",
+          "https://www.acornrentals.com.au/wp-login.php?redirect_to=https%3A%2F%2Fwww.acornrentals.com.au%2Fservice-areas%2Fsydney-smash-repairs%2F"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/melbourne-smash-repairs/",
+      "status": 200,
+      "title": "Melbourne Smash Repairs | Courtesy Car Melbourne - Acorn Rentals",
+      "title_len": 64,
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in Melbourne so you can hire a courtesy vehicle while yours is being repaired",
+      "meta_len": 179,
+      "canonical": "https://www.acornrentals.com.au/service-areas/melbourne-smash-repairs/",
+      "h1": [
+        "Melbourne Smash Repairs"
+      ],
+      "h2": [
+        "Courtesy Car Hire Melbourne",
+        "Leave a Reply",
+        "Recent Posts",
+        "Categories",
+        "Meta",
+        "Leave a Reply Cancel reply"
+      ],
+      "word_count": 315,
+      "text_hash": "a5df7741bc911d124a17566cb4673be7",
+      "sample_text": "Melbourne Smash Repairs | Courtesy Car Melbourne - Acorn Rentals Skip to content Melbourne Smash Repairs Courtesy Car Hire Melbourne We provide free courtesy cars to people that are having their car repaired at a wide range of Melbourne smash repairs businesses. We will meet you with a late model rental car at the smash repair shop in Melbourne when you drop your car off for repair. You can drive the courtesy car for as long as your car takes to be repaired, and just leave it at the smash shop f",
+      "internal_links": [
+        [
+          "Get A Free Courtesy Car",
+          "https://www.acornrentals.com.au/apply/"
+        ],
+        [
+          "Easy Guide to Renting a Car After Someone Hits You",
+          "https://www.acornrentals.com.au/renting-car-after-someone-hits-you/"
+        ],
+        [
+          "What Happens When the Other Driver is at Fault and You Need a Car",
+          "https://www.acornrentals.com.au/other-driver-is-at-fault/"
+        ],
+        [
+          "How Long Can You Keep a Rental Car After a Crash?",
+          "https://www.acornrentals.com.au/how-long-can-you-keep-rental-car/"
+        ],
+        [
+          "What to Do First After Getting Your Rental Car",
+          "https://www.acornrentals.com.au/what-to-do-first-getting-rental-car/"
+        ],
+        [
+          "Steps to Rent a Car When Not at Fault",
+          "https://www.acornrentals.com.au/steps-to-rent-a-car/"
+        ],
+        [
+          "Cancel reply",
+          "/service-areas/melbourne-smash-repairs/#respond"
+        ],
+        [
+          "logged in",
+          "https://www.acornrentals.com.au/wp-login.php?redirect_to=https%3A%2F%2Fwww.acornrentals.com.au%2Fservice-areas%2Fmelbourne-smash-repairs%2F"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/brisbane-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "title_len": 53,
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "meta_len": 151,
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "h2": [
+        "Service Areas",
+        "Recent Posts",
+        "Categories",
+        "Meta"
+      ],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc",
+      "sample_text": "Service Areas | Top Courtesy Car Company in Australia Skip to content Service Areas We provide courtesy cars to almost every suburb in every major capital city in Australia. Some suburbs are known for the number of smash repair shops located within them, so below we have provided a list of some of the major areas we deliver our courtesy cars to. We do, however, deliver to almost every suburb in every capital city, as well as many regional cities. We can also meet you at your office or home locat",
+      "internal_links": [
+        [
+          "Sydney",
+          "/car-accident-sydney/"
+        ],
+        [
+          "Smash Repairs",
+          "/service-areas/sydney-smash-repairs/"
+        ],
+        [
+          "Parramatta Smash Repairs",
+          "/service-areas/parramatta-smash-repairs"
+        ],
+        [
+          "Silverwater Smash Repairs",
+          "/service-areas/silverwater-smash-repairs/"
+        ],
+        [
+          "Narrabeen Smash Repairs",
+          "/service-areas/narrabeen-smash-repairs/"
+        ],
+        [
+          "Mosman Smash Repairs",
+          "/service-areas/mosman-smash-repairs/"
+        ],
+        [
+          "Narellan Smash Repairs",
+          "/service-areas/narellan-smash-repairs/"
+        ],
+        [
+          "Emu Plains Smash Repairs",
+          "/service-areas/emu-plains-smash-repairs/"
+        ],
+        [
+          "Castle Hill Smash Repairs",
+          "/service-areas/castle-hill-smash-repairs/"
+        ],
+        [
+          "Lilyfield Smash Repairs",
+          "/service-areas/lilyfield-smash-repairs/"
+        ],
+        [
+          "Penrith Smash Repairs",
+          "/service-areas/penrith-smash-repairs/"
+        ],
+        [
+          "Blacktown Smash Repairs",
+          "/service-areas/blacktown-smash-repairs/"
+        ],
+        [
+          "Katoomba Smash Repairs",
+          "/service-areas/katoomba-smash-repairs/"
+        ],
+        [
+          "Mona Vale Smash Repairs",
+          "/service-areas/mona-vale-smash-repairs/"
+        ],
+        [
+          "Brisbane",
+          "/car-accident-brisbane/"
+        ],
+        [
+          "Toowong Smash Repairs",
+          "/service-areas/toowong-smash-repairs/"
+        ],
+        [
+          "Kedron Smash Repairs",
+          "/service-areas/kedron-smash-repairs/"
+        ],
+        [
+          "Morayfield Smash Repairs",
+          "/service-areas/morayfield-smash-repairs/"
+        ],
+        [
+          "Coomera Smash Repairs",
+          "/service-areas/coomera-smash-repairs/"
+        ],
+        [
+          "Archerfield Smash Repairs",
+          "/service-areas/archerfield-smash-repairs"
+        ],
+        [
+          "Burleigh Smash Repairs",
+          "/service-areas/burleigh-smash-repairs/"
+        ],
+        [
+          "Nambour Smash Repairs",
+          "/service-areas/nambour-smash-repairs/"
+        ],
+        [
+          "Sherwood Smash Repairs",
+          "/service-areas/sherwood-smash-repairs/"
+        ],
+        [
+          "Redcliffe Smash Repairs",
+          "/service-areas/redcliffe-smash-repairs/"
+        ],
+        [
+          "Rosemount Smash Repairs",
+          "/service-areas/rosemount-smash-repairs/"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/perth-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "title_len": 53,
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "meta_len": 151,
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "h2": [
+        "Service Areas",
+        "Recent Posts",
+        "Categories",
+        "Meta"
+      ],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc",
+      "sample_text": "Service Areas | Top Courtesy Car Company in Australia Skip to content Service Areas We provide courtesy cars to almost every suburb in every major capital city in Australia. Some suburbs are known for the number of smash repair shops located within them, so below we have provided a list of some of the major areas we deliver our courtesy cars to. We do, however, deliver to almost every suburb in every capital city, as well as many regional cities. We can also meet you at your office or home locat",
+      "internal_links": [
+        [
+          "Sydney",
+          "/car-accident-sydney/"
+        ],
+        [
+          "Smash Repairs",
+          "/service-areas/sydney-smash-repairs/"
+        ],
+        [
+          "Parramatta Smash Repairs",
+          "/service-areas/parramatta-smash-repairs"
+        ],
+        [
+          "Silverwater Smash Repairs",
+          "/service-areas/silverwater-smash-repairs/"
+        ],
+        [
+          "Narrabeen Smash Repairs",
+          "/service-areas/narrabeen-smash-repairs/"
+        ],
+        [
+          "Mosman Smash Repairs",
+          "/service-areas/mosman-smash-repairs/"
+        ],
+        [
+          "Narellan Smash Repairs",
+          "/service-areas/narellan-smash-repairs/"
+        ],
+        [
+          "Emu Plains Smash Repairs",
+          "/service-areas/emu-plains-smash-repairs/"
+        ],
+        [
+          "Castle Hill Smash Repairs",
+          "/service-areas/castle-hill-smash-repairs/"
+        ],
+        [
+          "Lilyfield Smash Repairs",
+          "/service-areas/lilyfield-smash-repairs/"
+        ],
+        [
+          "Penrith Smash Repairs",
+          "/service-areas/penrith-smash-repairs/"
+        ],
+        [
+          "Blacktown Smash Repairs",
+          "/service-areas/blacktown-smash-repairs/"
+        ],
+        [
+          "Katoomba Smash Repairs",
+          "/service-areas/katoomba-smash-repairs/"
+        ],
+        [
+          "Mona Vale Smash Repairs",
+          "/service-areas/mona-vale-smash-repairs/"
+        ],
+        [
+          "Brisbane",
+          "/car-accident-brisbane/"
+        ],
+        [
+          "Toowong Smash Repairs",
+          "/service-areas/toowong-smash-repairs/"
+        ],
+        [
+          "Kedron Smash Repairs",
+          "/service-areas/kedron-smash-repairs/"
+        ],
+        [
+          "Morayfield Smash Repairs",
+          "/service-areas/morayfield-smash-repairs/"
+        ],
+        [
+          "Coomera Smash Repairs",
+          "/service-areas/coomera-smash-repairs/"
+        ],
+        [
+          "Archerfield Smash Repairs",
+          "/service-areas/archerfield-smash-repairs"
+        ],
+        [
+          "Burleigh Smash Repairs",
+          "/service-areas/burleigh-smash-repairs/"
+        ],
+        [
+          "Nambour Smash Repairs",
+          "/service-areas/nambour-smash-repairs/"
+        ],
+        [
+          "Sherwood Smash Repairs",
+          "/service-areas/sherwood-smash-repairs/"
+        ],
+        [
+          "Redcliffe Smash Repairs",
+          "/service-areas/redcliffe-smash-repairs/"
+        ],
+        [
+          "Rosemount Smash Repairs",
+          "/service-areas/rosemount-smash-repairs/"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/adelaide-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "title_len": 53,
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "meta_len": 151,
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "h2": [
+        "Service Areas",
+        "Recent Posts",
+        "Categories",
+        "Meta"
+      ],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc",
+      "sample_text": "Service Areas | Top Courtesy Car Company in Australia Skip to content Service Areas We provide courtesy cars to almost every suburb in every major capital city in Australia. Some suburbs are known for the number of smash repair shops located within them, so below we have provided a list of some of the major areas we deliver our courtesy cars to. We do, however, deliver to almost every suburb in every capital city, as well as many regional cities. We can also meet you at your office or home locat",
+      "internal_links": [
+        [
+          "Sydney",
+          "/car-accident-sydney/"
+        ],
+        [
+          "Smash Repairs",
+          "/service-areas/sydney-smash-repairs/"
+        ],
+        [
+          "Parramatta Smash Repairs",
+          "/service-areas/parramatta-smash-repairs"
+        ],
+        [
+          "Silverwater Smash Repairs",
+          "/service-areas/silverwater-smash-repairs/"
+        ],
+        [
+          "Narrabeen Smash Repairs",
+          "/service-areas/narrabeen-smash-repairs/"
+        ],
+        [
+          "Mosman Smash Repairs",
+          "/service-areas/mosman-smash-repairs/"
+        ],
+        [
+          "Narellan Smash Repairs",
+          "/service-areas/narellan-smash-repairs/"
+        ],
+        [
+          "Emu Plains Smash Repairs",
+          "/service-areas/emu-plains-smash-repairs/"
+        ],
+        [
+          "Castle Hill Smash Repairs",
+          "/service-areas/castle-hill-smash-repairs/"
+        ],
+        [
+          "Lilyfield Smash Repairs",
+          "/service-areas/lilyfield-smash-repairs/"
+        ],
+        [
+          "Penrith Smash Repairs",
+          "/service-areas/penrith-smash-repairs/"
+        ],
+        [
+          "Blacktown Smash Repairs",
+          "/service-areas/blacktown-smash-repairs/"
+        ],
+        [
+          "Katoomba Smash Repairs",
+          "/service-areas/katoomba-smash-repairs/"
+        ],
+        [
+          "Mona Vale Smash Repairs",
+          "/service-areas/mona-vale-smash-repairs/"
+        ],
+        [
+          "Brisbane",
+          "/car-accident-brisbane/"
+        ],
+        [
+          "Toowong Smash Repairs",
+          "/service-areas/toowong-smash-repairs/"
+        ],
+        [
+          "Kedron Smash Repairs",
+          "/service-areas/kedron-smash-repairs/"
+        ],
+        [
+          "Morayfield Smash Repairs",
+          "/service-areas/morayfield-smash-repairs/"
+        ],
+        [
+          "Coomera Smash Repairs",
+          "/service-areas/coomera-smash-repairs/"
+        ],
+        [
+          "Archerfield Smash Repairs",
+          "/service-areas/archerfield-smash-repairs"
+        ],
+        [
+          "Burleigh Smash Repairs",
+          "/service-areas/burleigh-smash-repairs/"
+        ],
+        [
+          "Nambour Smash Repairs",
+          "/service-areas/nambour-smash-repairs/"
+        ],
+        [
+          "Sherwood Smash Repairs",
+          "/service-areas/sherwood-smash-repairs/"
+        ],
+        [
+          "Redcliffe Smash Repairs",
+          "/service-areas/redcliffe-smash-repairs/"
+        ],
+        [
+          "Rosemount Smash Repairs",
+          "/service-areas/rosemount-smash-repairs/"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/brooklyn-park/",
+      "status": 200,
+      "title": "Brooklyn Park Smash Repairs Courtesy Car - Acorn Rentals",
+      "title_len": 56,
+      "meta": "We provide free courtesy cars to smash repairs in the Brooklyn Park area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "meta_len": 155,
+      "canonical": "https://www.acornrentals.com.au/service-areas/brooklyn-park/",
+      "h1": [
+        "Brooklyn Park Smash Repairs"
+      ],
+      "h2": [
+        "Brooklyn Smash Repairs \u2013 Courtesy Cars",
+        "Leave a Reply",
+        "Recent Posts",
+        "Categories",
+        "Meta",
+        "Leave a Reply Cancel reply"
+      ],
+      "word_count": 317,
+      "text_hash": "7199299be6a0fa9a3ebb4cfc28bf394c",
+      "sample_text": "Brooklyn Park Smash Repairs Courtesy Car - Acorn Rentals Skip to content Brooklyn Park Smash Repairs Brooklyn Smash Repairs \u2013 Courtesy Cars We provide free courtesy cars to people that are having their car repaired at a wide range of Brooklyn smash repairs businesses. We will meet you with a late model rental car at the smash repair shop in Brooklyn when you drop your car off for repair. You can drive the courtesy car for as long as your car takes to be repaired, and just leave it at the smash s",
+      "internal_links": [
+        [
+          "Get A Free Courtesy Car",
+          "https://www.acornrentals.com.au/apply/"
+        ],
+        [
+          "Easy Guide to Renting a Car After Someone Hits You",
+          "https://www.acornrentals.com.au/renting-car-after-someone-hits-you/"
+        ],
+        [
+          "What Happens When the Other Driver is at Fault and You Need a Car",
+          "https://www.acornrentals.com.au/other-driver-is-at-fault/"
+        ],
+        [
+          "How Long Can You Keep a Rental Car After a Crash?",
+          "https://www.acornrentals.com.au/how-long-can-you-keep-rental-car/"
+        ],
+        [
+          "What to Do First After Getting Your Rental Car",
+          "https://www.acornrentals.com.au/what-to-do-first-getting-rental-car/"
+        ],
+        [
+          "Steps to Rent a Car When Not at Fault",
+          "https://www.acornrentals.com.au/steps-to-rent-a-car/"
+        ],
+        [
+          "Cancel reply",
+          "/service-areas/brooklyn-park/#respond"
+        ],
+        [
+          "logged in",
+          "https://www.acornrentals.com.au/wp-login.php?redirect_to=https%3A%2F%2Fwww.acornrentals.com.au%2Fservice-areas%2Fbrooklyn-park%2F"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/victoria-smash-repairs/",
+      "status": 200,
+      "title": "Victoria Smash Repairs Courtesy Car - Acorn Rentals",
+      "title_len": 51,
+      "meta": "We provide free courtesy cars to smash repairs in the Victoria area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "meta_len": 150,
+      "canonical": "https://www.acornrentals.com.au/service-areas/victoria-smash-repairs/",
+      "h1": [
+        "Victoria Smash Repairs"
+      ],
+      "h2": [
+        "Victoria Smash Repairs \u2013 Courtesy Cars",
+        "Leave a Reply",
+        "Recent Posts",
+        "Categories",
+        "Meta",
+        "Leave a Reply Cancel reply"
+      ],
+      "word_count": 315,
+      "text_hash": "929cf6e16895410fc65ecf704e5b909c",
+      "sample_text": "Victoria Smash Repairs Courtesy Car - Acorn Rentals Skip to content Victoria Smash Repairs Victoria Smash Repairs \u2013 Courtesy Cars We provide free courtesy cars to people that are having their car repaired at a wide range of Victoria smash repairs businesses. We will meet you with a late model rental car at the smash repair shop in Victoria when you drop your car off for repair. You can drive the courtesy car for as long as your car takes to be repaired, and just leave it at the smash shop for us",
+      "internal_links": [
+        [
+          "Get A Free Courtesy Car",
+          "https://www.acornrentals.com.au/apply/"
+        ],
+        [
+          "Easy Guide to Renting a Car After Someone Hits You",
+          "https://www.acornrentals.com.au/renting-car-after-someone-hits-you/"
+        ],
+        [
+          "What Happens When the Other Driver is at Fault and You Need a Car",
+          "https://www.acornrentals.com.au/other-driver-is-at-fault/"
+        ],
+        [
+          "How Long Can You Keep a Rental Car After a Crash?",
+          "https://www.acornrentals.com.au/how-long-can-you-keep-rental-car/"
+        ],
+        [
+          "What to Do First After Getting Your Rental Car",
+          "https://www.acornrentals.com.au/what-to-do-first-getting-rental-car/"
+        ],
+        [
+          "Steps to Rent a Car When Not at Fault",
+          "https://www.acornrentals.com.au/steps-to-rent-a-car/"
+        ],
+        [
+          "Cancel reply",
+          "/service-areas/victoria-smash-repairs/#respond"
+        ],
+        [
+          "logged in",
+          "https://www.acornrentals.com.au/wp-login.php?redirect_to=https%3A%2F%2Fwww.acornrentals.com.au%2Fservice-areas%2Fvictoria-smash-repairs%2F"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/victoria-smash-repairs-2/",
+      "status": 200,
+      "title": "Victorian Smash Repairs Courtesy Car - Acorn Rentals",
+      "title_len": 52,
+      "meta": "We provide free courtesy cars to smash repairs in the Victorian area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "meta_len": 151,
+      "canonical": "https://www.acornrentals.com.au/service-areas/victoria-smash-repairs-2/",
+      "h1": [
+        "Victorian Smash Repairs"
+      ],
+      "h2": [
+        "Victoria Smash Repairs \u2013 Courtesy Cars",
+        "Leave a Reply",
+        "Recent Posts",
+        "Categories",
+        "Meta",
+        "Leave a Reply Cancel reply"
+      ],
+      "word_count": 318,
+      "text_hash": "8aa9878173f5129658452e6258421c1d",
+      "sample_text": "Victorian Smash Repairs Courtesy Car - Acorn Rentals Skip to content Victorian Smash Repairs Victoria Smash Repairs \u2013 Courtesy Cars We provide free courtesy cars to people that are having their car repaired at a wide range of Victoria , Australia smash repairs businesses. We will meet you with a late model rental car at the smash repair shop in Victoria , Australia when you drop your car off for repair. You can drive the courtesy car for as long as your car takes to be repaired, and just leave i",
+      "internal_links": [
+        [
+          "Get A Free Courtesy Car",
+          "https://www.acornrentals.com.au/apply/"
+        ],
+        [
+          "Easy Guide to Renting a Car After Someone Hits You",
+          "https://www.acornrentals.com.au/renting-car-after-someone-hits-you/"
+        ],
+        [
+          "What Happens When the Other Driver is at Fault and You Need a Car",
+          "https://www.acornrentals.com.au/other-driver-is-at-fault/"
+        ],
+        [
+          "How Long Can You Keep a Rental Car After a Crash?",
+          "https://www.acornrentals.com.au/how-long-can-you-keep-rental-car/"
+        ],
+        [
+          "What to Do First After Getting Your Rental Car",
+          "https://www.acornrentals.com.au/what-to-do-first-getting-rental-car/"
+        ],
+        [
+          "Steps to Rent a Car When Not at Fault",
+          "https://www.acornrentals.com.au/steps-to-rent-a-car/"
+        ],
+        [
+          "Cancel reply",
+          "/service-areas/victoria-smash-repairs-2/#respond"
+        ],
+        [
+          "logged in",
+          "https://www.acornrentals.com.au/wp-login.php?redirect_to=https%3A%2F%2Fwww.acornrentals.com.au%2Fservice-areas%2Fvictoria-smash-repairs-2%2F"
+        ]
+      ]
+    }
+  ],
+  "service_sample": [
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/underwood-smash-repairs/",
+      "status": 200,
+      "title": "Underwood Smash Repairs Courtesy Car - Acorn Rentals",
+      "meta": "We provide free courtesy cars to smash repairs in the Underwood area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/underwood-smash-repairs/",
+      "h1": [
+        "Underwood Smash Repairs \u2013 Courtesy Cars"
+      ],
+      "word_count": 224,
+      "text_hash": "384f9182f59a17f14b0a4b0694ea71aa"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/victoria-smash-repairs/",
+      "status": 200,
+      "title": "Victoria Smash Repairs Courtesy Car - Acorn Rentals",
+      "meta": "We provide free courtesy cars to smash repairs in the Victoria area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/victoria-smash-repairs/",
+      "h1": [
+        "Victoria Smash Repairs"
+      ],
+      "word_count": 315,
+      "text_hash": "929cf6e16895410fc65ecf704e5b909c"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/wingfield-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/welland-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/woodside-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/willaston-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/verdun-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/woodville-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/woodville-north-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/woodville-south-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/thebarton-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/unley-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/stepney-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/underdale-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/somerton-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/st-agnes-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/st-marys-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/seaford-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/regency-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/salisbury-south-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/salisbury-plain-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/ridleyton-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/ridgehaven-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/port-adelaide-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/pooraka-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/para-hills-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/melrose-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/panorama-smash-repairs/",
+      "status": 200,
+      "title": "Panorama Smash Repairs Courtesy Car - Acorn Rentals",
+      "meta": "We provide free courtesy cars to smash repairs in the Panorama area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/panorama-smash-repairs/",
+      "h1": [
+        "Panorama Smash Repairs"
+      ],
+      "word_count": 315,
+      "text_hash": "beadacd0a43990a536b11afda691a383"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/norwood-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/newton-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mt-barker-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mt-gambier-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/morphett-vale-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mile-end-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/lonsdale-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/magill-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/klemzig-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/kilkenny-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/keswick-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/kilburn-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/holden-hill-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/kent-town-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/hindmarsh-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/henley-beach-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/hendon-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/glynde-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/hampstead-gardens-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/elizabeth-west-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/gilles-plains-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/ferryden-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/aldinga-beach-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/christies-beach-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/camden-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/athol-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/beverley-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/brompton-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/dudley-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/edwardstown-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "word_count": 809,
+      "text_hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/brooklyn-park/",
+      "status": 200,
+      "title": "Brooklyn Park Smash Repairs Courtesy Car - Acorn Rentals",
+      "meta": "We provide free courtesy cars to smash repairs in the Brooklyn Park area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/brooklyn-park/",
+      "h1": [
+        "Brooklyn Park Smash Repairs"
+      ],
+      "word_count": 317,
+      "text_hash": "7199299be6a0fa9a3ebb4cfc28bf394c"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/wetherill-park-smash-repairs/",
+      "status": 200,
+      "title": "Wetherill Park Smash Repairs Courtesy Car - Acorn Rentals",
+      "meta": "We provide free courtesy cars to smash repairs in the Wetherill Park area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "canonical": "https://www.acornrentals.com.au/service-areas/wetherill-park-smash-repairs/",
+      "h1": [
+        "Wetherill Park Smash Repairs"
+      ],
+      "word_count": 321,
+      "text_hash": "1f59b7bff9cffadef4fc7381a5caee99"
+    }
+  ],
+  "counts": {
+    "all_sitemap": 206,
+    "location_like": 179,
+    "service_area": 167,
+    "car_accident_city": 5
+  }
+}

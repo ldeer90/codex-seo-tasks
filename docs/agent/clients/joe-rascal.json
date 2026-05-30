@@ -1,0 +1,72 @@
+{
+  "client": "Joe Rascal",
+  "brand_display_name": "Joe Rascal",
+  "sidecar_type": "parent_rollup",
+  "last_synced": "2026-05-13",
+  "routing": {
+    "client_name_fallback": "Joe Rascal Harley",
+    "analytics_subject": "seo@agents.digital",
+    "output_subject": "hello@agents.digital"
+  },
+  "drive": {
+    "client_folder_id": "14gHf6UZjgZ751CUP6iLz3Sf6WTTQBWSN",
+    "pending": [
+      "Repair or rescan parent Drive subfolders before relying on folder state.",
+      "Create or confirm 07 Reports / SEO Reports and Benchmarks folders."
+    ]
+  },
+  "monday": {
+    "parent_board_id": 5026853960,
+    "parent_board_url": "https://agentsdigital.monday.com/boards/5026853960",
+    "seo_tasks_board_id": 5026765957,
+    "seo_tasks_board_url": "https://agentsdigital.monday.com/boards/5026765957",
+    "sibling_boards": {
+      "joe_rascal_harley": 5025418382,
+      "joe_rascal_ducati": 5025418481
+    }
+  },
+  "sub_brands": {
+    "joe_rascal_harley": {
+      "domain": "joerascalharley.com.au",
+      "ga4_property": "properties/513354197",
+      "april_report_url": "https://datastudio.google.com/reporting/a1a81cb5-0756-4552-926e-dec9e127c4fe",
+      "monday_task_url": "https://agentsdigital.monday.com/boards/5025418382/pulses/2695607849"
+    },
+    "joe_rascal_ducati": {
+      "domain": "joerascalducati.com.au",
+      "ga4_property": "properties/402313624",
+      "april_report_url": "https://datastudio.google.com/reporting/dc270efa-f35a-4f97-a7f5-24abe304216d",
+      "monday_task_url": "https://agentsdigital.monday.com/boards/5025418481/pulses/2695721582"
+    },
+    "joe_rascal_global": {
+      "domain": "joerascal.com",
+      "ga4_property": "properties/525910399",
+      "seo_task_url": "https://agentsdigital.monday.com/boards/5026765957/pulses/2686519579"
+    }
+  },
+  "communications": {
+    "april_2026_reports_and_joerascal_dot_com_work": {
+      "status": "sent_by_user",
+      "sent_date": "2026-05-13",
+      "subject": "SEO Reports + Joe Rascal.com Work Completed",
+      "recipients": [
+        "shannon.mulholland@joerascal.com.au",
+        "jess.thompson@joerascal.com.au",
+        "jason@strikedigital.com.au"
+      ],
+      "included_links": [
+        "Joe Rascal Harley April SEO Report",
+        "Joe Rascal Ducati April SEO Report",
+        "Joe Rascal Harley Monday task",
+        "Joe Rascal Ducati Monday task",
+        "JoeRascal.com SEO task"
+      ],
+      "included_summary": "Email summarised April SEO performance for Harley and Ducati, plus JoeRascal.com SEO implementation work covering meta tags, H1s, missing meta descriptions, collection content and indexing checks."
+    }
+  },
+  "collections": [],
+  "notes": [
+    "Parent/rollup sidecar only. Do not use this as a direct GA4 or SE Ranking routing record without confirming the sub-brand.",
+    "When the user says Joe Rascal without qualifier, confirm whether they mean Harley, Ducati, JoeRascal.com, or the parent account."
+  ]
+}

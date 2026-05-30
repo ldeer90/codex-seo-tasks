@@ -12,10 +12,12 @@
     "properties/402313624": "seo@agents.digital",
     "properties/513354197": "seo@agents.digital",
     "properties/525910399": "seo@agents.digital",
+    "properties/319011488": "seo@agents.digital",
     "properties/423383715": "hello@agents.digital",
     "properties/516619587": "hello@agents.digital"
   },
   "clients": {
+    "bestvpn": "seo@agents.digital",
     "little shop of happiness": "seo@agents.digital",
     "shop rongrong": "seo@agents.digital",
     "avenue hampers": "seo@agents.digital",
@@ -29,7 +31,7 @@
     "mr gadget": "seo@agents.digital"
   },
   "hosts": {
-    "agents.digital": "hello@agents.digital"
+    "agents.digital": "hello@agents.digital",
+    "bestvpn.com.au": "seo@agents.digital"
   }
 }
-

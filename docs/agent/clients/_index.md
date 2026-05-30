@@ -7,13 +7,16 @@ One file per client. Each brief is the single source of truth the agent should c
 | [Acorn Rentals](acorn-rentals.md) | hello@ | 423383715 | acornrentals.com.au | 5026665037 |
 | [Agents Digital](agents-digital.md) | hello@ | 516619587 | agents.digital | 5025901101 |
 | [Avenue Hampers](avenue-hampers.md) | seo@ (also visible to hello@) | 356217618 | avenuehampers.com.au | 5026978865 |
+| [BestVPN](bestvpn.md) | seo@ (GA4 pending) | pending | bestvpn.com.au | skipped |
 | [Ducati Melbourne](ducati-melbourne.md) | seo@ (also visible to hello@) | 402313624 | ducatimelbourne.com.au | 5025418481 |
 | [Joe Rascal (parent)](joe-rascal.md) | seo@ | — | — | 5026853960 |
 | [Joe Rascal Harley](joe-rascal-harley.md) | seo@ (also visible to hello@) | 513354197 | joerascalharley.com.au | 5025418382 |
 | [Joe Rascal Global](joe-rascal-global.md) | seo@ | 525910399 | joerascal.com | (rolls up under Joe Rascal) |
 | [Little Shop of Happiness](little-shop-of-happiness.md) | seo@ | 399571311 | littleshopofhappiness.com.au | 5026978841 |
 | [Melani the Label](melani-the-label.md) | seo@ | 369346274 | melanithelabel.com | 5028353257 |
+| [Salad Servers](salad-servers.md) | pending | pending | www.saladservers.com.au | 5025899615 |
 | [Salad Servers Direct](salad-servers-direct.md) | seo@ | 378662387 | direct.saladservers.com.au | 5025899615 |
+| [Salad Servers Wholesale](salad-servers-wholesale.md) | pending | pending | wholesale.saladservers.com.au | pending |
 | [Shop Rongrong](shop-rongrong.md) | seo@ | 354478921 | shoprongrong.com | 5026978284 |
 | [TravelKon](travelkon.md) | seo@ | 387124003 + 532415351 | travelkon.com.au | 5026863900 |
 

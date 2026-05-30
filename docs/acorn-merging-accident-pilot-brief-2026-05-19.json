@@ -1,0 +1,113 @@
+{
+  "by_slug": {
+    "who-is-at-fault-in-a-merging-accident": {
+      "slug": "who-is-at-fault-in-a-merging-accident",
+      "title": "Who Is at Fault in a Merging Accident?",
+      "primary_keyword": "merging lanes rules",
+      "keywords": {
+        "primary": "merging lanes rules",
+        "secondary": [
+          "who gives way when merging",
+          "zipper merge",
+          "changing lanes",
+          "lane change accident",
+          "sideswipe accident"
+        ]
+      },
+      "intent": "Reader wants to know who gives way when lanes merge or one lane ends, and what evidence matters after a merging accident.",
+      "audience": "Australian drivers after a merging, lane-change, or side-swipe accident.",
+      "html_policy": {
+        "allowed_tags": [
+          "h2",
+          "h3",
+          "p",
+          "a",
+          "strong",
+          "em",
+          "br",
+          "ul",
+          "ol",
+          "li",
+          "blockquote"
+        ],
+        "required_headings": [
+          "Quick answer: who gives way when merging?",
+          "Merging vs changing lanes: why it matters",
+          "What official road rules say about merging",
+          "Common merging accident disputes",
+          "What evidence matters after a merging accident?",
+          "Can you get a replacement vehicle after a merging accident?",
+          "Merging accident FAQs"
+        ]
+      },
+      "content_requirements": {
+        "min_words": 1200,
+        "max_words": 1600
+      },
+      "internal_links": [
+        {
+          "url": "https://www.acornrentals.com.au/apply/",
+          "anchor": "apply online"
+        },
+        {
+          "url": "https://www.acornrentals.com.au/how-it-works/",
+          "anchor": "not-at-fault car hire"
+        },
+        {
+          "url": "https://www.acornrentals.com.au/accident-replacement-vehicle/",
+          "anchor": "accident replacement vehicle"
+        },
+        {
+          "url": "https://www.acornrentals.com.au/faqs/",
+          "anchor": "Acorn FAQs"
+        }
+      ],
+      "approved_external_links": [
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/sharing-road-overtaking-and-merging/merging-and-changing-lanes",
+          "anchor": "merging and changing lanes"
+        },
+        {
+          "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2014-0758",
+          "anchor": "NSW Road Rules 2014"
+        },
+        {
+          "url": "https://opendata.transport.vic.gov.au/dataset/victoria-road-crash-data?v=0",
+          "anchor": "Victoria crash data"
+        },
+        {
+          "url": "https://opendata.transport.vic.gov.au/dataset/victoria-road-crash-data/resource/b658d974-4ff1-4de2-9c12-e47bb0fdbbac",
+          "anchor": "DCA crash codes"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/sharing-road-overtaking-and-merging/merging-and-changing-lanes",
+          "source_type": "official road-rule guidance"
+        },
+        {
+          "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2014-0758",
+          "source_type": "legislation"
+        },
+        {
+          "url": "https://opendata.transport.vic.gov.au/dataset/victoria-road-crash-data?v=0",
+          "source_type": "official open data"
+        },
+        {
+          "url": "https://opendata.transport.vic.gov.au/dataset/victoria-road-crash-data/resource/b658d974-4ff1-4de2-9c12-e47bb0fdbbac",
+          "source_type": "official crash classification data dictionary"
+        }
+      ],
+      "requires_sources": true,
+      "style_rules": {
+        "banned_phrases": [
+          "you are definitely not at fault",
+          "Acorn will decide who was at fault",
+          "Reddit proves",
+          "guaranteed outcome"
+        ]
+      },
+      "cta_guidance": "Use eligibility-check CTAs: Check if you're eligible for an accident replacement vehicle, apply online, or call Acorn on 1300 22 67 67. Keep all CTAs qualified with may be eligible, subject to approval, and terms where needed."
+    }
+  }
+}

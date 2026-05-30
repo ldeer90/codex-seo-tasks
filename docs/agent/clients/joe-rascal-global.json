@@ -1,0 +1,69 @@
+{
+  "client": "Joe Rascal Global",
+  "brand_display_name": "JoeRascal.com",
+  "domain": "joerascal.com",
+  "market_scope": "AU",
+  "site_type": "global_storefront",
+  "sidecar_type": "operational_reporting",
+  "last_synced": "2026-05-13",
+  "routing": {
+    "client_name_fallback": "Joe Rascal Harley",
+    "analytics_subject": "seo@agents.digital",
+    "output_subject": "hello@agents.digital",
+    "route_status": "fallback_until_dedicated_site_access_key_exists"
+  },
+  "ga4_property": "properties/525910399",
+  "drive": {
+    "client_folder_id": null,
+    "fallback_folder_id": "14gHf6UZjgZ751CUP6iLz3Sf6WTTQBWSN",
+    "pending": [
+      "Add a dedicated joe rascal global key to config/site-access.json if this becomes regular reporting work.",
+      "Create or confirm a dedicated Joe Rascal Global Drive folder.",
+      "Repair or rescan the Joe Rascal parent Drive folder before relying on subfolder state."
+    ]
+  },
+  "monday": {
+    "parent_board_id": 5026853960,
+    "seo_tasks_board_id": 5026765957,
+    "seo_tasks_board_url": "https://agentsdigital.monday.com/boards/5026765957",
+    "initial_task_item_id": 2678242191,
+    "implementation_report_item_id": 2686519579,
+    "implementation_report_item_url": "https://agentsdigital.monday.com/boards/5026765957/pulses/2686519579"
+  },
+  "seo_work": {
+    "april_may_2026": {
+      "status": "communicated_to_client",
+      "client_email_status": "sent_by_user",
+      "client_email_subject": "SEO Reports + Joe Rascal.com Work Completed",
+      "client_email_sent_date": "2026-05-13",
+      "client_email_recipients": [
+        "shannon.mulholland@joerascal.com.au",
+        "jess.thompson@joerascal.com.au",
+        "jason@strikedigital.com.au"
+      ],
+      "work_completed": [
+        "Keyword research",
+        "Page title and meta tag recommendations",
+        "Collection content opportunities",
+        "Indexing checks",
+        "Re-indexing request submitted in Google Search Console"
+      ],
+      "implementation_items_communicated": [
+        "Implement recommended page titles and meta descriptions for the main pages and collections.",
+        "Add clear H1s to pages flagged in the crawl, starting with the homepage and main collection pages.",
+        "Fill missing meta descriptions from the crawl export and spot check main collection pages once live.",
+        "Add content to collection pages identified in the keyword and meta tag review.",
+        "Review affected indexing items after Google has had time to recrawl."
+      ],
+      "source_links": {
+        "keyword_research": "https://docs.google.com/spreadsheets/d/1Qir6dkdz_qJni61nqqHs2dvTPAO5lKMwXNyBnwb49J8/edit?usp=sharing",
+        "meta_tag_optimisation": "https://docs.google.com/document/d/1uSGjj78EeR6uRX1EBy42XhfEFuU-Z9e9xzQrdoo8Wqw/edit?usp=sharing"
+      }
+    }
+  },
+  "collections": [],
+  "notes": [
+    "No dedicated Monday board or Drive folder exists yet. Work currently lives on the SEO Tasks board and parent Joe Rascal context.",
+    "The SEO Tasks implementation item status was blank during live review even though the update said work was complete."
+  ]
+}

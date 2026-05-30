@@ -1,0 +1,61 @@
+{
+  "client": "Ducati Melbourne",
+  "brand_display_name": "Joe Rascal Ducati",
+  "domain": "joerascalducati.com.au",
+  "market_scope": "AU",
+  "site_type": "dealer_ecommerce",
+  "sidecar_type": "operational_reporting",
+  "last_synced": "2026-05-13",
+  "routing": {
+    "analytics_subject": "seo@agents.digital",
+    "output_subject": "hello@agents.digital",
+    "website_url_for_joe_rascal_ducati": "https://joerascalducati.com.au"
+  },
+  "ga4_property": "properties/402313624",
+  "ga4_note": "Joe Rascal Ducati is a stream on the Ducati Melbourne GA4 property. Pass the Joe Rascal Ducati website URL when auditing or reporting on that site.",
+  "se_ranking": {
+    "project_id": 10993280,
+    "engines": {
+      "AU": 738163
+    },
+    "keywords_tracked": 100,
+    "project_title": "joerascalducati.com.au"
+  },
+  "drive": {
+    "client_folder_id": "157-ddATrb2byi0VMJYKg9JET4RzqIFFr",
+    "folders": {
+      "03_audits": "1zqzxqVT2aeJ1aahoGW3EM0qEoqomnB5x",
+      "07_reports": "1dzj65zJm15qNxV0AK0VyefNsr1prGkd2"
+    },
+    "pending": [
+      "Create or confirm 07 Reports / SEO Reports subfolder.",
+      "Create or confirm 07 Reports / Benchmarks subfolder."
+    ]
+  },
+  "monday": {
+    "board_id": 5025418481,
+    "board_url": "https://agentsdigital.monday.com/boards/5025418481",
+    "april_report_item_id": 2695721582,
+    "april_report_item_url": "https://agentsdigital.monday.com/boards/5025418481/pulses/2695721582",
+    "april_report_update_id": 106471553
+  },
+  "reports": {
+    "april_2026": {
+      "looker_studio_url": "https://datastudio.google.com/reporting/dc270efa-f35a-4f97-a7f5-24abe304216d",
+      "summary": "April was steady overall. Organic traffic held firm, sessions increased slightly month on month, and several commercial collection areas improved, including parts, apparel, hoodies, boots, gloves and T-shirts.",
+      "client_email_status": "sent_by_user",
+      "client_email_subject": "SEO Reports + Joe Rascal.com Work Completed",
+      "client_email_sent_date": "2026-05-13",
+      "client_email_recipients": [
+        "shannon.mulholland@joerascal.com.au",
+        "jess.thompson@joerascal.com.au",
+        "jason@strikedigital.com.au"
+      ]
+    }
+  },
+  "collections": [],
+  "notes": [
+    "Operational/dealer SEO sidecar only. Shopify collection sidecar workflow does not currently apply.",
+    "Closely tied to the Joe Rascal parent group. See joe-rascal.json for cross-brand communications."
+  ]
+}

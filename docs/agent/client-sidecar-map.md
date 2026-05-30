@@ -72,10 +72,10 @@ Comparison period: 2025-04-01 to 2025-04-30. Channel: Organic Search. Path prefi
 | Acorn Rentals | Missing | 0 collections | Operational/reporting only | Low | Create lightweight operational sidecar only if needed for reports; collection SEO not applicable. |
 | Agents Digital | Missing | Not run; internal agency site | Operational/reporting only | Low | Create internal operational sidecar only if recurring reports or internal roadmap work need it. |
 | Avenue Hampers | Missing | 103 discovered; 65 non-empty candidates | Collection sidecar needed | High | Create `avenue-hampers.json`, then clean collection classes and keyword map. |
-| Ducati Melbourne | Missing | 0 collections | Operational/reporting or dealer SEO, not Shopify collection | Medium | Create operational sidecar; use a dealer/category workflow if packaged later. |
-| Joe Rascal parent | Missing | Parent only | Routing/rollup only | Medium | Do not create collection sidecar; create parent operational sidecar only after Drive folder scan is repaired. |
-| Joe Rascal Harley | Missing | 0 collections | Operational/reporting or dealer SEO, not Shopify collection | Medium | Create operational sidecar if recurring reports need it. |
-| Joe Rascal Global | Missing | 0 collections | Operational/reporting; folder setup incomplete | Medium | Add site-access client route and Drive folder before a full sidecar. |
+| Ducati Melbourne | Exists, operational | 0 collections | Operational/reporting or dealer SEO, not Shopify collection | Medium | Use `ducati-melbourne.json` for report/email state; use a dealer/category workflow if packaged later. |
+| Joe Rascal parent | Exists, parent rollup | Parent only | Routing/rollup only | Medium | Use `joe-rascal.json` for cross-brand communications; repair Drive folder scan before relying on folder state. |
+| Joe Rascal Harley | Exists, operational | 0 collections | Operational/reporting or dealer SEO, not Shopify collection | Medium | Use `joe-rascal-harley.json` for report/email state. |
+| Joe Rascal Global | Exists, operational | 0 collections | Operational/reporting; folder setup incomplete | Medium | Use `joe-rascal-global.json` for JoeRascal.com work state; add site-access client route and Drive folder before a full sidecar. |
 | Little Shop of Happiness | Missing | 215 discovered; 28 non-empty candidates | Collection + blog sidecar needed | High | Create `little-shop-of-happiness.json`; reuse writing style guide and content folders. |
 | Melani the Label | Exists | 26 discovered; 25 non-empty candidates | Collection sidecar live | Done | Keep validating; resolve known H1/keyword warnings over time. |
 | Mr Gadget | Exists, test-only | Not applicable | Editorial, not Shopify collection | Exclude | Do not use collection sidecar workflow. Needs editorial SEO sidecar/workflow if activated. |
@@ -133,13 +133,16 @@ Comparison period: 2025-04-01 to 2025-04-30. Channel: Organic Search. Path prefi
 - SE Ranking project: `10993280`, 100 keywords
 - Monday board: `5025418481`
 - Discovery: 0 Shopify collections
-- Sidecar type: operational/dealer SEO only
+- Sidecar type: existing operational/dealer SEO sidecar (`ducati-melbourne.json`)
+- Latest communication: April 2026 report emailed with Harley report and JoeRascal.com work on 2026-05-13.
 
 ### Joe Rascal Parent
 
 - Drive root: `14gHf6UZjgZ751CUP6iLz3Sf6WTTQBWSN`
 - Monday parent board: `5026853960`
 - Status: parent/rollup record, not a collection SEO client
+- Sidecar type: existing parent rollup sidecar (`joe-rascal.json`)
+- Latest communication: cross-brand April reports and JoeRascal.com implementation work emailed on 2026-05-13.
 - Blocker: Drive subfolder scan needs repair before it becomes a reliable operational sidecar.
 
 ### Joe Rascal Harley
@@ -154,7 +157,8 @@ Comparison period: 2025-04-01 to 2025-04-30. Channel: Organic Search. Path prefi
 - SE Ranking project: `10993304`, 302 keywords
 - Monday board: `5025418382`
 - Discovery: 0 Shopify collections
-- Sidecar type: operational/dealer SEO only
+- Sidecar type: existing operational/dealer SEO sidecar (`joe-rascal-harley.json`)
+- Latest communication: April 2026 report emailed with Ducati report and JoeRascal.com work on 2026-05-13.
 
 ### Joe Rascal Global
 
@@ -164,7 +168,8 @@ Comparison period: 2025-04-01 to 2025-04-30. Channel: Organic Search. Path prefi
 - Drive root: no dedicated folder
 - Monday board: parent Joe Rascal `5026853960`
 - Discovery: 0 Shopify collections
-- Sidecar type: operational only after route/folder repair
+- Sidecar type: existing operational sidecar (`joe-rascal-global.json`)
+- Latest communication: JoeRascal.com implementation items emailed with April Harley/Ducati reports on 2026-05-13.
 - Blockers: add `joe rascal global` to `config/site-access.json`, create/confirm Drive folder.
 
 ### Little Shop of Happiness

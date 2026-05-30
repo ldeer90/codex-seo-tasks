@@ -86,7 +86,7 @@ For each collection, work through the candidates and decide what to keep. Apply 
 - Competitor or retailer brand names in the keyword (Kmart, Speedo, Monday Swimwear, Seafolly, Baku, Zimmermann, etc.)
 - Product category mismatch — kids, maternity, period, mens, plus-size terms when the catalog doesn't carry those
 - Primary keyword of another included collection — hard cannibalization; that keyword already has a home
-- Zero or negligible AU volume (< ~300 monthly) — not worth a sentence
+- Zero AU volume unless Search Console shows a clear live-page opportunity. Low-volume niche terms can stay when they describe the collection exactly and have buyer intent.
 
 **2. Evaluate opportunity**
 For each surviving candidate, ask:
@@ -214,6 +214,23 @@ Spot-check at least three briefs before writing to Drive:
 - one collection with warnings or thin data
 
 Check that each brief includes real keyword volume, product facts, SERP patterns, natural keyword instructions, and five internal links.
+
+### Required client-ready structure
+
+Use the Salad Servers Wedding Catering page-copy format for every client-facing collection document. This is the current version of the earlier Shop Rongrong table-led structure. The rendered Google Doc must be table-led, clean, and client-ready.
+
+For final Google Docs, use native Google Docs tables. Do not paste markdown pipe tables as the final client-facing table format; markdown tables are acceptable only for local source files or chat previews. Read back the Doc structure and confirm table count/dimensions where possible.
+
+1. `Overview` table with website, page, page type, keyword source, and content approach.
+2. `Keywords To Work Into The Page` table with keyword, monthly search volume, and a short natural-use note. These volumes must come from SE Ranking keyword research, not Search Console impressions.
+3. `Internal Links` table with anchor text and destination.
+4. `Recommended Heading Hierarchy` table with page section, recommended heading, heading level, and SEO role.
+5. `SEO Review` table with overall structure, keyword coverage, search intent, page balance, and current-page notes.
+6. `Example Copy` section with page title, meta description, H1, optional hero subheading, and section-by-section page copy.
+
+For blog/article or information-page briefs that are not final copy requests, keep the same table-led structure but replace `Example Copy` with `Article Requirements`, `Writer Notes`, or `FAQs To Cover`. Do not publish a plain outline-only Google Doc when the user has asked for a client-facing brief.
+
+Do not include raw research dumps, internal workflow notes, validator labels, proof blocks, or implementation chatter in the client-facing Doc. Final Shopify HTML belongs in the optional writing phase unless the user explicitly asks for clean HTML.
 
 ## Client-Presentable QA
 

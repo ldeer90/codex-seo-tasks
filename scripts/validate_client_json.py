@@ -37,6 +37,12 @@ _OPTIONAL_TOP_LEVEL_WARNINGS: list[tuple[str, str]] = [
 
 _VALID_MARKET_SCOPES = {"AU", "US", "AU+US"}
 _VALID_CLASSES = {"pure_category", "themed_category", "curated_edit", "occasion_edit", "fabric_edit"}
+_VALID_WORKFLOW_PROFILES = {"full", "audit_only"}
+
+
+def _workflow_profile(client: dict[str, Any]) -> str:
+    profile = client.get("workflow_profile") or "full"
+    return profile if profile in _VALID_WORKFLOW_PROFILES else "full"
 
 
 # ---------------------------------------------------------------------------
@@ -95,6 +101,13 @@ def _validate_top_level(client: dict[str, Any]) -> list[dict[str, Any]]:
             f"market_scope '{market}' is not valid. Must be one of: {', '.join(sorted(_VALID_MARKET_SCOPES))}.",
         ))
 
+    profile = client.get("workflow_profile")
+    if profile and profile not in _VALID_WORKFLOW_PROFILES:
+        issues.append(_blocking(
+            "invalid_workflow_profile",
+            f"workflow_profile '{profile}' is not valid. Must be one of: {', '.join(sorted(_VALID_WORKFLOW_PROFILES))}.",
+        ))
+
     for field, hint in _OPTIONAL_TOP_LEVEL_WARNINGS:
         if not client.get(field):
             issues.append(_warning("missing_optional_field", f"'{field}' is absent. {hint}", field=field))
@@ -122,9 +135,16 @@ def _validate_se_ranking(client: dict[str, Any]) -> list[dict[str, Any]]:
 def _validate_drive(client: dict[str, Any]) -> list[dict[str, Any]]:
     issues: list[dict[str, Any]] = []
     drive = client.get("drive") or {}
+    audit_only = _workflow_profile(client) == "audit_only"
 
     if not drive.get("client_folder_id"):
-        issues.append(_blocking("missing_drive_client_folder", "drive.client_folder_id is required."))
+        if audit_only:
+            issues.append(_warning(
+                "missing_drive_client_folder",
+                "drive.client_folder_id is absent. Audit-only workflows may proceed, but Drive outputs must stop until a client folder is confirmed.",
+            ))
+        else:
+            issues.append(_blocking("missing_drive_client_folder", "drive.client_folder_id is required."))
 
     folders = drive.get("folders") or {}
     has_content_folder = folders.get("05_content") or folders.get("content_briefs")
@@ -141,9 +161,16 @@ def _validate_drive(client: dict[str, Any]) -> list[dict[str, Any]]:
 def _validate_monday(client: dict[str, Any]) -> list[dict[str, Any]]:
     issues: list[dict[str, Any]] = []
     monday = client.get("monday") or {}
+    audit_only = _workflow_profile(client) == "audit_only"
 
     if not monday.get("board_id"):
-        issues.append(_blocking("missing_monday_board_id", "monday.board_id is required for task creation."))
+        if audit_only:
+            issues.append(_warning(
+                "missing_monday_board_id",
+                "monday.board_id is absent. Audit-only workflows may proceed, but Monday task creation must stop until a board is confirmed.",
+            ))
+        else:
+            issues.append(_blocking("missing_monday_board_id", "monday.board_id is required for task creation."))
 
     groups = monday.get("groups") or {}
     if not any(groups.values()):
@@ -160,8 +187,15 @@ def _validate_collections(client: dict[str, Any]) -> list[dict[str, Any]]:
     collections = client.get("collections") or []
     market = client.get("market_scope", "")
     volume_fields = _COLLECTION_VOLUME_FIELDS.get(market, [])
+    audit_only = _workflow_profile(client) == "audit_only"
 
     if not collections:
+        if audit_only:
+            issues.append(_warning(
+                "no_collections",
+                "No collections are defined. Audit-only workflows may proceed; content/collection workflows must stop until priority pages are added.",
+            ))
+            return issues
         issues.append(_blocking("no_collections", "No collections are defined. Add at least one collection object."))
         return issues
 

@@ -40,7 +40,7 @@ Until `SEO Reports` is created, `create_combined_seo_report` falls back to `GOOG
 
 ## SE Ranking
 - Project ID: `11273891`
-- Keywords tracked: 198
+- Keywords tracked: 153
 - Check frequency: daily
 
 ## Monday

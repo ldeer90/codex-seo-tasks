@@ -45,8 +45,8 @@ Filing targets:
 
 ## SE Ranking
 - Project ID: `11560829`
-- Search engine: `1030519` (live SE Ranking read on 2026-05-11; search_engine_id `200`, region_id `0`, lang `en`)
-- Keywords tracked: 519 keyword-engine pairs
+- Search engine: `1030519` (US market; live SE Ranking read on 2026-05-11 returned search_engine_id `200`, region_id `0`, lang `en`)
+- Keywords tracked: 494 keyword-engine pairs after 2026-05-26 cleanup
 - Check frequency: daily
 - Note: Duplicate project `11619515` exists with 0 keywords — treat as inactive.
 
@@ -57,7 +57,8 @@ Filing targets:
 
 ## Notes
 - Active client with monthly SEO work — the Monday board is one of the more populated ones.
+- Market scope: US-based client. Use US keyword/volume assumptions for new SEO work.
 - When running a combined report, use `https://www.shoprongrong.com` for `website_url` regardless of how it's stored in GA4 — the Firecrawl crawl needs the live HTTPS canonical.
 - Operational sidecar: `docs/agent/clients/shop-rongrong.json`.
-- Sidecar caveat: configured AU-only to satisfy current LD SEO workflows, but page copy is US-facing. Confirm market scope before adding new SE Ranking keywords.
+- Sidecar caveat: earlier onboarding used AU workflow defaults; refresh keyword volumes under the US market before new SE Ranking additions or content briefs.
 - Crawl caveat: the 2026-05-11 five-page Firecrawl smoke test showed `robots: noindex, nofollow` metadata on some collection pages. Confirm indexability before briefing collection content.

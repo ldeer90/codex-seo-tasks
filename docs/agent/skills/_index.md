@@ -25,6 +25,8 @@ Supporting low-token references:
 - `ld-seo-shopify-collection-writing` writes final collection HTML from approved collection briefs.
 - `ld-seo-shopify-blog-writing` writes final blog HTML from approved blog briefs, writing style guides, keyword data, sitemaps, SERP review, and internal links.
 - `ld-seo-audits-reporting` depends on client setup, GA4/GSC/SE Ranking/Monday access for monthly performance comments, Screaming Frog access for full technical audits, Drive access where relevant, and readback QA.
+- `ld-seo-travelkon-internal-linking` maintains TravelKon's reusable internal linking map from sitemap, GA4, Search Console, and destination/product/blog clusters.
+- `ld-seo-travelkon-blog-writing` creates or edits TravelKon blog content only, including draft-to-WordPress-block-editor conversion, stored CTA pattern snippets, TravelKon's internal linking map, and destination-specific phone-use scenarios.
 
 All canonical LD SEO skills follow [`_routing-contract.md`](_routing-contract.md). Missing prerequisites must route to the smallest dependent skill before live writes or client-facing output.
 
@@ -54,6 +56,7 @@ This is the human-facing LD SEO menu. Show it as a table when a user asks what t
 | Audit | `/ldseo-audit-site <client> [start_url] [limit]` | Creating a full technical SEO audit from a crawl. | Client slug, start URL, crawl scope. | Screaming Frog export, analysis, issue priorities, proof block. | `ld-seo-audits-reporting` |
 | Reporting | `/ldseo-monthly-report <client> [period]` | Drafting a Monday-safe monthly performance comment. | Client slug, period, GA4/GSC/SE Ranking/Monday context. | Client-ready comment draft in chat first; post only after approval. | `ld-seo-audits-reporting` |
 | Reporting | `/ldseo-traffic <client>` | Pulling organic traffic numbers without a deliverable. | Client slug, GA4 property/date range if needed. | GA4 organic traffic check in chat. | `ld-seo-audits-reporting` |
+| Client-specific | TravelKon internal linking map or link recommendations | Reusing or refreshing TravelKon's internal linking targets, anchor cues, and source-to-target map. | TravelKon sitemap, GA4, Search Console, latest map CSVs. | Priority pages, opportunity CSV, cluster guidance, or recommended links for briefs/blogs. | `ld-seo-travelkon-internal-linking` |
 
 For explicit crawl-backed report documents, use `docs/agent/workflows/monthly-combined-report.md` only when the user asks for a Doc + Sheet report. `/ldseo-monthly-report` routes to the monthly performance comment workflow, not that legacy report workflow.
 
@@ -67,9 +70,11 @@ For explicit crawl-backed report documents, use `docs/agent/workflows/monthly-co
 | [ld-seo-content-briefs/SKILL.md](ld-seo-content-briefs/SKILL.md) | Collection content briefs, Search Console opportunities, supplemental keywords, internal links, Docs and Monday tasks |
 | [ld-seo-shopify-collection-writing/SKILL.md](ld-seo-shopify-collection-writing/SKILL.md) | Final Shopify collection body HTML from approved collection briefs, with keyword, link, structure, and unsupported-claim QA |
 | [ld-seo-shopify-blog-writing/SKILL.md](ld-seo-shopify-blog-writing/SKILL.md) | Final Shopify blog article body HTML from approved blog briefs, with brief-defined structure, links, sources, and unsupported-claim QA |
+| [ld-seo-travelkon-blog-writing/SKILL.md](ld-seo-travelkon-blog-writing/SKILL.md) | TravelKon-only blog/article creation and editing in a professional travel-tech voice, with draft-to-WordPress-block-editor conversion, destination scenarios, internal-link-map placement, and stored CTA pattern snippets |
 | [ld-seo-content-writing/SKILL.md](ld-seo-content-writing/SKILL.md) | Backwards-compatible router for final content writing; routes to the collection or blog writing skill |
 | [ld-seo-audits-reporting/SKILL.md](ld-seo-audits-reporting/SKILL.md) | Single-page audits, full-site audits, monthly reports, monthly performance comments, and GA4 traffic checks |
 | [ld-seo-maintenance/SKILL.md](ld-seo-maintenance/SKILL.md) | SE Ranking hygiene, access troubleshooting, Drive filing, platform refresh, and operational maintenance |
+| [ld-seo-travelkon-internal-linking/SKILL.md](ld-seo-travelkon-internal-linking/SKILL.md) | TravelKon-specific internal linking map refreshes, source-to-target recommendations, anchor cues, and cluster rules |
 | [collection-seo-qa/SKILL.md](collection-seo-qa/SKILL.md) | Collection SEO, SE Ranking keyword additions, sidecar repair, metadata suggestions, keyword research Docs/Sheets |
 | [shopify-collection-content-briefs/SKILL.md](shopify-collection-content-briefs/SKILL.md) | Supporting specialist skill for Shopify collection content briefs. Canonical high-level routing is `ld-seo-content-briefs`. |
 

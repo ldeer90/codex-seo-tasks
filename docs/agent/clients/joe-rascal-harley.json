@@ -1,0 +1,59 @@
+{
+  "client": "Joe Rascal Harley",
+  "brand_display_name": "Joe Rascal Harley",
+  "domain": "joerascalharley.com.au",
+  "market_scope": "AU",
+  "site_type": "dealer_ecommerce",
+  "sidecar_type": "operational_reporting",
+  "last_synced": "2026-05-13",
+  "routing": {
+    "analytics_subject": "seo@agents.digital",
+    "output_subject": "hello@agents.digital"
+  },
+  "ga4_property": "properties/513354197",
+  "se_ranking": {
+    "project_id": 10993304,
+    "engines": {
+      "AU": 738160
+    },
+    "keywords_tracked": 302
+  },
+  "drive": {
+    "client_folder_id": "1XENbhUku8qau7HM5I7D9ivtIhrKpfU0s",
+    "folders": {
+      "03_audits": "1zea_22Ldi8q7QU0qkBs53HxZXwA68AIJ",
+      "07_reports": "1Vutz3IWesdKE21e4mw10P8V9Yw_cE6bD",
+      "10_on_page": "1LMnA_YaJJq-e2h3E6D5v72ooOtLx5Xu6"
+    },
+    "pending": [
+      "Create or confirm 07 Reports / SEO Reports subfolder.",
+      "Create or confirm 07 Reports / Benchmarks subfolder."
+    ]
+  },
+  "monday": {
+    "board_id": 5025418382,
+    "board_url": "https://agentsdigital.monday.com/boards/5025418382",
+    "april_report_item_id": 2695607849,
+    "april_report_item_url": "https://agentsdigital.monday.com/boards/5025418382/pulses/2695607849",
+    "april_report_update_id": 106458821
+  },
+  "reports": {
+    "april_2026": {
+      "looker_studio_url": "https://datastudio.google.com/reporting/a1a81cb5-0756-4552-926e-dec9e127c4fe",
+      "summary": "April was commercially positive. Organic sessions softened month on month, but purchases increased from 71 to 79 and revenue lifted to $12,822.75. Keyword gains were recorded across gift, helmet, battery charger, belts and buckles, and local dealership terms.",
+      "client_email_status": "sent_by_user",
+      "client_email_subject": "SEO Reports + Joe Rascal.com Work Completed",
+      "client_email_sent_date": "2026-05-13",
+      "client_email_recipients": [
+        "shannon.mulholland@joerascal.com.au",
+        "jess.thompson@joerascal.com.au",
+        "jason@strikedigital.com.au"
+      ]
+    }
+  },
+  "collections": [],
+  "notes": [
+    "Operational/dealer SEO sidecar only. Shopify collection sidecar workflow does not currently apply.",
+    "Lives under the Joe Rascal parent group. See joe-rascal.json for cross-brand communications."
+  ]
+}

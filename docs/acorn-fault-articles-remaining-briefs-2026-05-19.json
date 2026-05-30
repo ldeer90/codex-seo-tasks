@@ -1,0 +1,455 @@
+{
+  "by_slug": {
+    "who-is-at-fault-in-a-t-bone-accident-australia": {
+      "slug": "who-is-at-fault-in-a-t-bone-accident-australia",
+      "title": "Who Is at Fault in a T-Bone Accident in Australia?",
+      "primary_keyword": "t bone accident",
+      "keywords": {
+        "primary": "t bone accident",
+        "secondary": [
+          "t bone car accident",
+          "t bone crash",
+          "t bone collision"
+        ]
+      },
+      "intent": "Reader wants to understand fault after a side-impact or right-angle crash and what evidence matters.",
+      "audience": "Australian drivers after a not-at-fault or disputed accident.",
+      "html_policy": {
+        "allowed_tags": [
+          "h2",
+          "h3",
+          "p",
+          "a",
+          "strong",
+          "em",
+          "br",
+          "ul",
+          "ol",
+          "li",
+          "blockquote"
+        ],
+        "required_headings": [
+          "Quick answer: who is usually at fault in a T-bone accident?",
+          "Why T-bone crashes often depend on intersection evidence",
+          "Common T-bone accident scenarios",
+          "What evidence matters after a T-bone accident?",
+          "Can you get a replacement vehicle after a T-bone accident?",
+          "T-bone accident FAQs"
+        ]
+      },
+      "content_requirements": {
+        "min_words": 1200,
+        "max_words": 1600
+      },
+      "internal_links": [
+        {
+          "url": "https://www.acornrentals.com.au/apply/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/accident-replacement-vehicle/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/a-guide-for-not-at-fault-drivers/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/steps-to-take-after-car-accident/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/what-information-should-be-exchanged-after-a-car-accident/",
+          "anchor": ""
+        }
+      ],
+      "approved_external_links": [
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safe-driving/avoiding-common-crashes",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/stopping-giving-way-turning/intersections",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/stopping-giving-way-turning/stop-give-way-signs-lines",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/stopping-giving-way-turning/traffic-lights",
+          "anchor": ""
+        },
+        {
+          "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2014-0758",
+          "anchor": ""
+        },
+        {
+          "url": "https://opendata.transport.vic.gov.au/dataset/victoria-road-crash-data/resource/b658d974-4ff1-4de2-9c12-e47bb0fdbbac",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.thinkroadsafety.sa.gov.au/__data/assets/pdf_file/0010/1490293/Annual-Road-Crashes-in-South-Australia-2023.pdf",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.wa.gov.au/organisation/road-safety-commission/western-australia-key-statistics-overview",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.cityservices.act.gov.au/__data/assets/pdf_file/0007/2844376/2023-ACT-Crash-Report-Acc.pdf",
+          "anchor": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safe-driving/avoiding-common-crashes",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/stopping-giving-way-turning/intersections",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/stopping-giving-way-turning/stop-give-way-signs-lines",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/stopping-giving-way-turning/traffic-lights",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2014-0758",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://opendata.transport.vic.gov.au/dataset/victoria-road-crash-data/resource/b658d974-4ff1-4de2-9c12-e47bb0fdbbac",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.thinkroadsafety.sa.gov.au/__data/assets/pdf_file/0010/1490293/Annual-Road-Crashes-in-South-Australia-2023.pdf",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.wa.gov.au/organisation/road-safety-commission/western-australia-key-statistics-overview",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.cityservices.act.gov.au/__data/assets/pdf_file/0007/2844376/2023-ACT-Crash-Report-Acc.pdf",
+          "source_type": "official source"
+        }
+      ],
+      "source_notes": "NSW common crashes: almost 80 per cent of casualty crashes fall into five crash types, including rear-end and adjacent-direction crashes. NSW intersections page: around half of NSW crashes happen at intersections. Victoria DCA labels include cross traffic, right through, and driveway emerging. SA 2023 all-crash counts include Right Angle 2,729 and Right Turn 1,102. WA KSI crash circumstances 2020-2024 include right angle 19 per cent and 38 per cent at intersections. ACT 2023 crash type totals include Right angle 853 and Right turn into oncoming 228.",
+      "requires_sources": true,
+      "style_rules": {
+        "banned_phrases": [
+          "you are definitely not at fault",
+          "Acorn will decide who was at fault",
+          "Reddit proves",
+          "guaranteed outcome"
+        ]
+      },
+      "cta_guidance": "Use eligibility-check CTAs: Check if you're eligible for an accident replacement vehicle, apply online, or call Acorn on 1300 22 67 67. Keep CTAs qualified with may be eligible, subject to approval, and terms where needed."
+    },
+    "who-is-at-fault-in-a-lane-change-accident": {
+      "slug": "who-is-at-fault-in-a-lane-change-accident",
+      "title": "Who Is at Fault in a Lane Change Accident?",
+      "primary_keyword": "changing lanes",
+      "keywords": {
+        "primary": "changing lanes",
+        "secondary": [
+          "sideswipe accident",
+          "lane change accident",
+          "who is at fault in a lane change accident"
+        ]
+      },
+      "intent": "Reader wants to know who is usually at fault when a driver changes lanes and collides with another vehicle.",
+      "audience": "Australian drivers after a not-at-fault or disputed accident.",
+      "html_policy": {
+        "allowed_tags": [
+          "h2",
+          "h3",
+          "p",
+          "a",
+          "strong",
+          "em",
+          "br",
+          "ul",
+          "ol",
+          "li",
+          "blockquote"
+        ],
+        "required_headings": [
+          "Quick answer: is the driver changing lanes usually at fault?",
+          "How official sources classify lane-change crashes",
+          "Common lane-change accident disputes",
+          "What evidence matters most in a lane-change accident?",
+          "Can you get a replacement car if another driver changed lanes into you?",
+          "Lane-change accident FAQs"
+        ]
+      },
+      "content_requirements": {
+        "min_words": 1200,
+        "max_words": 1600
+      },
+      "internal_links": [
+        {
+          "url": "https://www.acornrentals.com.au/apply/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/accident-replacement-vehicle/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/accident-replacement-vehicles/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/a-guide-to-determining-who-is-at-fault-in-a-car-accident/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/steps-to-take-after-car-accident/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/what-information-should-be-exchanged-after-a-car-accident/",
+          "anchor": ""
+        }
+      ],
+      "approved_external_links": [
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/sharing-road-overtaking-and-merging/merging-and-changing-lanes",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/stopping-giving-way-turning/indicating-and-turning",
+          "anchor": ""
+        },
+        {
+          "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2014-0758",
+          "anchor": ""
+        },
+        {
+          "url": "https://opendata.transport.vic.gov.au/dataset/victoria-road-crash-data?v=0",
+          "anchor": ""
+        },
+        {
+          "url": "https://opendata.transport.vic.gov.au/dataset/victoria-road-crash-data/resource/b658d974-4ff1-4de2-9c12-e47bb0fdbbac",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.data.qld.gov.au/dataset/crash-data-from-queensland-roads",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.thinkroadsafety.sa.gov.au/__data/assets/pdf_file/0010/1490293/Annual-Road-Crashes-in-South-Australia-2023.pdf",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.cityservices.act.gov.au/__data/assets/pdf_file/0007/2844376/2023-ACT-Crash-Report-Acc.pdf",
+          "anchor": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/sharing-road-overtaking-and-merging/merging-and-changing-lanes",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/stopping-giving-way-turning/indicating-and-turning",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2014-0758",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://opendata.transport.vic.gov.au/dataset/victoria-road-crash-data?v=0",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://opendata.transport.vic.gov.au/dataset/victoria-road-crash-data/resource/b658d974-4ff1-4de2-9c12-e47bb0fdbbac",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.data.qld.gov.au/dataset/crash-data-from-queensland-roads",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.thinkroadsafety.sa.gov.au/__data/assets/pdf_file/0010/1490293/Annual-Road-Crashes-in-South-Australia-2023.pdf",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.cityservices.act.gov.au/__data/assets/pdf_file/0007/2844376/2023-ACT-Crash-Report-Acc.pdf",
+          "source_type": "official source"
+        }
+      ],
+      "source_notes": "NSW guidance explains changing lanes across a marked line and the need to signal, check mirrors and blind spots, and move only when safe. NSW Road Rules include rules 147, 148, and 148A. Victoria DCA labels include lane side swipe, lane change right, and lane change left. Queensland crash data includes crash nature classifications. SA 2023 all-crash counts include Side Swipe 1,354. ACT 2023 crash type totals include acute angle same direction 634.",
+      "requires_sources": true,
+      "style_rules": {
+        "banned_phrases": [
+          "you are definitely not at fault",
+          "Acorn will decide who was at fault",
+          "Reddit proves",
+          "guaranteed outcome"
+        ]
+      },
+      "cta_guidance": "Use eligibility-check CTAs: Check if you're eligible for an accident replacement vehicle, apply online, or call Acorn on 1300 22 67 67. Keep CTAs qualified with may be eligible, subject to approval, and terms where needed."
+    },
+    "who-is-at-fault-in-a-rear-end-collision": {
+      "slug": "who-is-at-fault-in-a-rear-end-collision",
+      "title": "Who Is at Fault in a Rear-End Collision?",
+      "primary_keyword": "rear end collision",
+      "keywords": {
+        "primary": "rear end collision",
+        "secondary": [
+          "rear ended car accident",
+          "i rear ended someone who stopped suddenly australia",
+          "rear ended who is at fault",
+          "when is a rear end collision not your fault"
+        ]
+      },
+      "intent": "Reader wants to know whether the rear driver is always at fault and what exceptions or evidence can matter.",
+      "audience": "Australian drivers after a not-at-fault or disputed accident.",
+      "html_policy": {
+        "allowed_tags": [
+          "h2",
+          "h3",
+          "p",
+          "a",
+          "strong",
+          "em",
+          "br",
+          "ul",
+          "ol",
+          "li",
+          "blockquote"
+        ],
+        "required_headings": [
+          "Quick answer: is the rear driver always at fault?",
+          "How common are rear-end crashes in Australia?",
+          "Why safe following distance matters",
+          "When a rear-end collision can be disputed",
+          "What evidence matters after being rear-ended?",
+          "Can you get a replacement car after being rear-ended?",
+          "Rear-end collision FAQs"
+        ]
+      },
+      "content_requirements": {
+        "min_words": 1200,
+        "max_words": 1600
+      },
+      "internal_links": [
+        {
+          "url": "https://www.acornrentals.com.au/apply/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/accident-replacement-vehicle/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/accident-replacement-vehicles/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/a-guide-for-not-at-fault-drivers/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/steps-to-take-after-car-accident/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/what-information-should-be-exchanged-after-a-car-accident/",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.acornrentals.com.au/how-it-works/",
+          "anchor": ""
+        }
+      ],
+      "approved_external_links": [
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safe-driving/avoiding-common-crashes",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safe-driving/safe-stopping-distance",
+          "anchor": ""
+        },
+        {
+          "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2014-0758",
+          "anchor": ""
+        },
+        {
+          "url": "https://austroads.gov.au/publications/road-safety/ap-r480-15",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.thinkroadsafety.sa.gov.au/__data/assets/pdf_file/0010/1490293/Annual-Road-Crashes-in-South-Australia-2023.pdf",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.wa.gov.au/organisation/road-safety-commission/western-australia-key-statistics-overview",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.cityservices.act.gov.au/__data/assets/pdf_file/0007/2844376/2023-ACT-Crash-Report-Acc.pdf",
+          "anchor": ""
+        },
+        {
+          "url": "https://www.data.qld.gov.au/dataset/crash-data-from-queensland-roads",
+          "anchor": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safe-driving/avoiding-common-crashes",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safe-driving/safe-stopping-distance",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2014-0758",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://austroads.gov.au/publications/road-safety/ap-r480-15",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.thinkroadsafety.sa.gov.au/__data/assets/pdf_file/0010/1490293/Annual-Road-Crashes-in-South-Australia-2023.pdf",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.wa.gov.au/organisation/road-safety-commission/western-australia-key-statistics-overview",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.cityservices.act.gov.au/__data/assets/pdf_file/0007/2844376/2023-ACT-Crash-Report-Acc.pdf",
+          "source_type": "official source"
+        },
+        {
+          "url": "https://www.data.qld.gov.au/dataset/crash-data-from-queensland-roads",
+          "source_type": "official source"
+        }
+      ],
+      "source_notes": "NSW common crashes includes colliding with the rear of another vehicle as one of the five main casualty crash types. Austroads AP-R480-15 is dedicated rear-end crash research. SA 2023 all-crash counts include Rear End 3,033. ACT 2023 crash type totals include Rear end collision 2,566, or 43.51 per cent. WA KSI crash circumstances 2020-2024 include rear-end 13 per cent.",
+      "requires_sources": true,
+      "style_rules": {
+        "banned_phrases": [
+          "you are definitely not at fault",
+          "Acorn will decide who was at fault",
+          "Reddit proves",
+          "guaranteed outcome"
+        ]
+      },
+      "cta_guidance": "Use eligibility-check CTAs: Check if you're eligible for an accident replacement vehicle, apply online, or call Acorn on 1300 22 67 67. Keep CTAs qualified with may be eligible, subject to approval, and terms where needed."
+    }
+  }
+}

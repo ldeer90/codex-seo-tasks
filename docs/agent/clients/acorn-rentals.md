@@ -22,11 +22,12 @@ This is one of the two clients (along with Agents Digital) where the analytics s
 - Folder ID: `1M2MXfkRFsAMy5nFoM2m7miNOnjBEkvoj`
 
 ## Drive subfolders
-Scanned 2026-05-08. Subject: `hello@agents.digital`.
+Scanned 2026-05-08; content folder confirmed 2026-05-19. Subject: `hello@agents.digital`.
 
 | Subfolder | ID |
 |---|---|
 | 03 Audits | `1ZGPxHEygUPhes-0twOuoTkDBygIW-tAs` |
+| 05 Content | `10QndRDmSaEfyo_ttyjhVkqd3hNMFVOZr` |
 | 07 Reports | `1gupoXp_cjGHm3ixSEIs3PFpKTb2ataJ2` |
 | 07 Reports / SEO Reports | ⚠ pending — create inside `07 Reports` then update this ID |
 | 07 Reports / Benchmarks | ⚠ pending — create inside `07 Reports` then update this ID |
@@ -40,9 +41,9 @@ Until `SEO Reports` is created, `create_combined_seo_report` falls back to `GOOG
 
 ## SE Ranking
 - Project ID: `11444792`
-- Keywords tracked: 26
+- Keywords tracked: 55
 - Check frequency: daily
-- Note: Low keyword count — worth expanding with the client's target terms.
+- Note: Expanded on 2026-05-12 from the Acorn SE Ranking/domain CSV, focused on not-at-fault, accident hire, accident replacement vehicle, after-accident FAQ, courtesy/insurance, and location accident-hire terms. Groups now include `General`, `Not At Fault`, `Accident Replacement`, `After Accident FAQs`, `Courtesy & Insurance`, and `Location Accident Hire`.
 
 ## Monday
 - Workspace: Main workspace

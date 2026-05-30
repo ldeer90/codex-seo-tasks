@@ -360,6 +360,7 @@ def _keyword_set(
             "difficulty": row.get("difficulty") or row.get("kd") or "",
             "intent": row.get("intent") or row.get("intents") or "",
             "source": row.get("source") or "SE Ranking supplemental keyword research",
+            "reasoning": row.get("reasoning") or "",
         })
     return {
         "primary": {

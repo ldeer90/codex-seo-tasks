@@ -1,0 +1,1901 @@
+{
+  "summary": {
+    "service_total": 167,
+    "fetched": 167,
+    "errors": 0,
+    "canonical_to_service_areas": 79,
+    "self_canonical": 88,
+    "missing_h1": 80,
+    "unique_titles": 89,
+    "unique_hashes": 89,
+    "title_counts": [
+      [
+        "Service Areas | Top Courtesy Car Company in Australia",
+        79
+      ],
+      [
+        "Underwood Smash Repairs Courtesy Car - Acorn Rentals",
+        1
+      ],
+      [
+        "Victoria Smash Repairs Courtesy Car - Acorn Rentals",
+        1
+      ],
+      [
+        "Panorama Smash Repairs Courtesy Car - Acorn Rentals",
+        1
+      ],
+      [
+        "Wetherill Park Smash Repairs Courtesy Car - Acorn Rentals",
+        1
+      ],
+      [
+        "Brooklyn Park Smash Repairs Courtesy Car - Acorn Rentals",
+        1
+      ],
+      [
+        "Victorian Smash Repairs Courtesy Car - Acorn Rentals",
+        1
+      ],
+      [
+        "Palmerston Smash Repairs Courtesy Car - Acorn Rentals",
+        1
+      ],
+      [
+        "South Penrith Smash Repairs Courtesy Car - Acorn Rentals",
+        1
+      ],
+      [
+        "Pymble Smash Repairs Courtesy Car - Acorn Rentals",
+        1
+      ]
+    ],
+    "low_word_count_under_350": 88
+  },
+  "rows": [
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/acacia-ridge-smash-repairs/",
+      "status": 200,
+      "title": "Acacia Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/acacia-ridge-smash-repairs/",
+      "h1": [
+        "Acacia Ridge Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Acacia area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 320,
+      "hash": "543e1801ba66503024219024480ff01e"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/adelaide-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/aldinga-beach-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/altona-north-smash-repairs/",
+      "status": 200,
+      "title": "Altona North Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/altona-north-smash-repairs/",
+      "h1": [
+        "Altona North Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Altona North area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "9947b7cb296e285eedcd7780763c4fa2"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/archerfield-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/armidale-smash-repairs/",
+      "status": 200,
+      "title": "Armidale Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/armidale-smash-repairs/",
+      "h1": [
+        "Armidale Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Armidale area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "f765e8f28e61acb9794bca2976027dfb"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/artarmon-smash-repairs/",
+      "status": 200,
+      "title": "Artarmon Smash Repairs | Courtesy Car Artarmon - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/artarmon-smash-repairs/",
+      "h1": [
+        "Artarmon Smash Repairs"
+      ],
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in Katoomba so you can hire a courtesy vehicle while yours is being repaired",
+      "words": 318,
+      "hash": "4b07c543a1f30dc05c26b9fd76b68e02"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/ashfield-smash-repairs/",
+      "status": 200,
+      "title": "Ashfield Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/ashfield-smash-repairs/",
+      "h1": [
+        "Ashfield Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Ashfield area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "3011d835d6a4bc20e03be8fef6b416d9"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/athol-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/ballarat-smash-repairs/",
+      "status": 200,
+      "title": "Ballarat Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/ballarat-smash-repairs/",
+      "h1": [
+        "Ballarat Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Ballarat area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "ce175bb8c73eced58d806c3e70c01426"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/ballina-smash-repairs/",
+      "status": 200,
+      "title": "Ballina Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/ballina-smash-repairs/",
+      "h1": [
+        "Ballina Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Ballina area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "d1f68489e35ecd8f64ceca9316ddc76b"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/balmain-smash-repairs/",
+      "status": 200,
+      "title": "Balmain Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/balmain-smash-repairs/",
+      "h1": [
+        "Balmain Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Balmain area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "dac0fcda83f80b5f13c7345e16a359b5"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/belconnen-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/beverley-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/blacktown-smash-repairs/",
+      "status": 200,
+      "title": "Blacktown Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/blacktown-smash-repairs/",
+      "h1": [
+        "Blacktown Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in Blacktown. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "62440b3fdbe087319de4b67577a1f943"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/bondi-smash-repairs/",
+      "status": 200,
+      "title": "Bondi Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/bondi-smash-repairs/",
+      "h1": [
+        "Bondi Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Bondi area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 319,
+      "hash": "36c8a26371d92fc651cadccc408ac097"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/bonnyrigg-smash-repairs/",
+      "status": 200,
+      "title": "Bonnyrigg Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/bonnyrigg-smash-repairs/",
+      "h1": [
+        "Bonnyrigg Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Bonnyrigg area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "257ac2192f5fec877405186fad916258"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/brisbane-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/brompton-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/brooklyn-park/",
+      "status": 200,
+      "title": "Brooklyn Park Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/brooklyn-park/",
+      "h1": [
+        "Brooklyn Park Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Brooklyn Park area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 317,
+      "hash": "7199299be6a0fa9a3ebb4cfc28bf394c"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/brookvale-smash-repairs/",
+      "status": 200,
+      "title": "Brookvale Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/brookvale-smash-repairs/",
+      "h1": [
+        "Brookvale Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Brookvale area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "da7aaae68744efda978a59ba5267e076"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/burleigh-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/burraneer-smash-repairs/",
+      "status": 200,
+      "title": "Burraneer Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/burraneer-smash-repairs/",
+      "h1": [
+        "Burraneer Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Burraneer area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "20133b01b959580931cbcb2d3dd76759"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/burwood-smash-repairs/",
+      "status": 200,
+      "title": "Burwood Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/burwood-smash-repairs/",
+      "h1": [
+        "Burwood Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Burwood area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "e65fd991db5a04f0a504f39b7a094b6b"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/busselton-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/byron-bay-smash-repairs/",
+      "status": 200,
+      "title": "Byron Bay Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/byron-bay-smash-repairs/",
+      "h1": [
+        "Byron Bay Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Byron Bay area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "6749d5528b1a00dfbc7557337bf9a8aa"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/cabramatta-smash-repairs/",
+      "status": 200,
+      "title": "Cabramatta Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/cabramatta-smash-repairs/",
+      "h1": [
+        "Cabramatta Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Cabramatta area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "63c0594e449639a7e614378e1f1c8ecc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/camden-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/cammeray-smash-repairs/",
+      "status": 200,
+      "title": "Cammeray Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/cammeray-smash-repairs/",
+      "h1": [
+        "Cammeray Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Cammeray area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "424b575abd86b0500656e7d8fc31909a"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/campbellfield-smash-repairs/",
+      "status": 200,
+      "title": "Campbellfield Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/campbellfield-smash-repairs/",
+      "h1": [
+        "Campbellfield Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Campbellfield area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "d80a0ab617f75091ae2fedd24c9c9e32"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/campbelltown-smash-repairs/",
+      "status": 200,
+      "title": "Campbelltown Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/campbelltown-smash-repairs/",
+      "h1": [
+        "Campbelltown Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Campbelltown area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "f0f907986bcf1ceb90215ad76008e956"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/camperdown-smash-repairs/",
+      "status": 200,
+      "title": "Camperdown Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/camperdown-smash-repairs/",
+      "h1": [
+        "Camperdown Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Camperdown area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "ca7d2f6fc9a9a10287db0a6d7269a053"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/canberra-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/carlingford-smash-repairs/",
+      "status": 200,
+      "title": "Carlingford Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/carlingford-smash-repairs/",
+      "h1": [
+        "Carlingford Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Carlingford area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "b9dc6234084237865dd4f5212fe93507"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/castle-hill-smash-repairs/",
+      "status": 200,
+      "title": "Castle Hill Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/castle-hill-smash-repairs/",
+      "h1": [
+        "Castle Hill Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in Castle Hill. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "7a66a2da6072f576a0a68bb3b21bbfae"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/cawarra-smash-repairs/",
+      "status": 200,
+      "title": "Cawarra Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/cawarra-smash-repairs/",
+      "h1": [
+        "Cawarra Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Cawarra area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "e7cc7e7b2a21bc26d90044371737eb6a"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/cessnock-smash-repairs/",
+      "status": 200,
+      "title": "Cessnock Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/cessnock-smash-repairs/",
+      "h1": [
+        "Cessnock Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Cessnock area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "f2a02a0005b6b03a201ac096e8c24d1a"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/christies-beach-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/chullora-smash-repairs/",
+      "status": 200,
+      "title": "Chullora Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/chullora-smash-repairs/",
+      "h1": [
+        "Chullora Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Chullora area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "7bc5520577df126bed88825d265114a5"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/concord-smash-repairs/",
+      "status": 200,
+      "title": "Concord Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/concord-smash-repairs/",
+      "h1": [
+        "Concord Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Concord area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "08b30a1a2772f9d3bf1a2650af768e6a"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/condell-park-smash-repairs/",
+      "status": 200,
+      "title": "Condell Park Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/condell-park-smash-repairs/",
+      "h1": [
+        "Condell Park Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Condell Park area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "bb5f1ba5b08cbba22dd69e31078294e0"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/coomera-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/dapto-smash-repairs/",
+      "status": 200,
+      "title": "Dapto Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/dapto-smash-repairs/",
+      "h1": [
+        "Dapto Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Dapto area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "37f54c1275870a922f4fd0120d2f8e5f"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/darwin-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/dee-why-smash-repairs/",
+      "status": 200,
+      "title": "Dee Why Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/dee-why-smash-repairs/",
+      "h1": [
+        "Dee Why Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Dee Why area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "9f420daecd7d2f7ef77e307210d953a0"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/dudley-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/dural-smash-repairs/",
+      "status": 200,
+      "title": "Dural Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/dural-smash-repairs/",
+      "h1": [
+        "Dural Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Dural area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "318387310646830f0f7a404a863d52f6"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/earlwood-smash-repairs/",
+      "status": 200,
+      "title": "Earlwood Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/earlwood-smash-repairs/",
+      "h1": [
+        "Earlwood Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Earlwood area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "9fccd474a59a602f3a6640829372080a"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/eastern-creek-smash-repairs/",
+      "status": 200,
+      "title": "Eastern Creek Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/eastern-creek-smash-repairs/",
+      "h1": [
+        "Eastern Creek Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Eastern Creek area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "be61eebf73bb31d41611c2cc133dcfbb"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/eastern-suburbs-smash-repairs/",
+      "status": 200,
+      "title": "Eastern Suburbs Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/eastern-suburbs-smash-repairs/",
+      "h1": [
+        "Eastern Suburbs Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Eastern Suburbs area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "8dad27f2e28178b63f23e39f2cee0447"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/edwardstown-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/elizabeth-west-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/emu-plains-smash-repairs/",
+      "status": 200,
+      "title": "Emu Plains Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/emu-plains-smash-repairs/",
+      "h1": [
+        "Emu Plains Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in Emu Plains. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "9fcbed9bbbf4a1be43c539b48cd1c4df"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/essendon-smash-repairs/",
+      "status": 200,
+      "title": "Essendon Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/essendon-smash-repairs/",
+      "h1": [
+        "Essendon Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Essendon area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "f6194a1c54e0ce1c7e6e24573756ae7e"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/ferryden-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/five-dock-smash-repairs/",
+      "status": 200,
+      "title": "Five Dock Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/five-dock-smash-repairs/",
+      "h1": [
+        "Five Dock Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Five Dock area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "cb32b28f2b5aaef7662ef48aa6d72b74"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/gilles-plains-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/glynde-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/gold-coast-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/gordon-smash-repairs/",
+      "status": 200,
+      "title": "Gordon Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/gordon-smash-repairs/",
+      "h1": [
+        "Gordon Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Gordon area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "59fd3e6be5540d63cc91ef45cef94139"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/hampstead-gardens-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/heathcote-smash-repairs/",
+      "status": 200,
+      "title": "Heathcote Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/heathcote-smash-repairs/",
+      "h1": [
+        "Heathcote Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Heathcote area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "ced5b1b859967a9d828d24988132f72c"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/hendon-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/henley-beach-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/hills-district-smash-repairs/",
+      "status": 200,
+      "title": "Hills District Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/hills-district-smash-repairs/",
+      "h1": [
+        "Hills District Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Hills District area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "cbc70d5b3bb26c4894d4a0fc69d0a422"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/hindmarsh-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/hobart-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/holden-hill-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/hornsby-smash-repairs/",
+      "status": 200,
+      "title": "Hornsby Smash Repairs | Courtesy Cars Hornsby - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/hornsby-smash-repairs/",
+      "h1": [],
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in Hornsby so you can hire a courtesy vehicle while yours is being repaired",
+      "words": 301,
+      "hash": "49036b7fc0c4b5e0c28cb45b93f90545"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/ingleburn-smash-repairs/",
+      "status": 200,
+      "title": "Ingleburn Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/ingleburn-smash-repairs/",
+      "h1": [
+        "Ingleburn Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Ingleburn area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "833f889fd92dbfa8124b640ff6c5a7b8"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/katoomba-smash-repairs/",
+      "status": 200,
+      "title": "Katoomba Smash Repairs | Courtesy Car Hire - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/katoomba-smash-repairs/",
+      "h1": [
+        "Katoomba Smash Repairs"
+      ],
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in Katoomba so you can hire a courtesy vehicle while yours is being repaired.",
+      "words": 312,
+      "hash": "70dc5609be7bab0d520d12a722c794a4"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/kedron-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/kent-town-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/keswick-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/kiama-smash-repairs/",
+      "status": 200,
+      "title": "Kiama Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/kiama-smash-repairs/",
+      "h1": [
+        "Kiama Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Kiama area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "329e7c5cc73ad53f2c8c92007e79f446"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/kilburn-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/kilkenny-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/kingsgrove-smash-repairs/",
+      "status": 200,
+      "title": "Kingsgrove Smash Repairs | Courtesy Car Kingsgrove - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/kingsgrove-smash-repairs/",
+      "h1": [
+        "Kingsgrove Smash Repairs"
+      ],
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in Katoomba so you can hire a courtesy vehicle while yours is being repaired",
+      "words": 307,
+      "hash": "09f93c7a7915580369c257603c83025d"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/kirrawee-smash-repairs/",
+      "status": 200,
+      "title": "Kirrawee Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/kirrawee-smash-repairs/",
+      "h1": [
+        "Kirrawee Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Kirrawee area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "3de47fc2adcc912086b9751662aca9bf"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/klemzig-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/lilyfield-smash-repairs/",
+      "status": 200,
+      "title": "Lilyfield Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/lilyfield-smash-repairs/",
+      "h1": [
+        "Lilyfield Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in Lilyfield. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "18370d5b64668fda8d2689525dbefec2"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/lonsdale-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/magill-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/maitland-smash-repairs/",
+      "status": 200,
+      "title": "Maitland Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/maitland-smash-repairs/",
+      "h1": [
+        "Maitland Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Maitland area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "e5bf571d53dd97ea8e6669ce34ddf0cf"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mandurah-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/manly-smash-repairs/",
+      "status": 200,
+      "title": "Manly Smash Repairs | Courtesy Car Manly - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/manly-smash-repairs/",
+      "h1": [
+        "Manly Smash Repairs"
+      ],
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in Manly so you can hire a courtesy vehicle while yours is being repaired",
+      "words": 315,
+      "hash": "de3fad3bce2b3f91632ffe503181738f"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/maroubra-smash-repairs/",
+      "status": 200,
+      "title": "Maroubra Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/maroubra-smash-repairs/",
+      "h1": [
+        "Maroubra Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Maroubra area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "7e49857601c29cf4f96fd12da0a70baa"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/melbourne-smash-repairs/",
+      "status": 200,
+      "title": "Melbourne Smash Repairs | Courtesy Car Melbourne - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/melbourne-smash-repairs/",
+      "h1": [
+        "Melbourne Smash Repairs"
+      ],
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in Melbourne so you can hire a courtesy vehicle while yours is being repaired",
+      "words": 315,
+      "hash": "a5df7741bc911d124a17566cb4673be7"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/melrose-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/menai-smash-repairs/",
+      "status": 200,
+      "title": "Menai Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/menai-smash-repairs/",
+      "h1": [
+        "Menai Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Menai area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "8b8bedf863d1d4f63de45056bcbc8346"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mile-end-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mittagong-smash-repairs/",
+      "status": 200,
+      "title": "Mittagong Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/mittagong-smash-repairs/",
+      "h1": [
+        "Mittagong Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Mittagong area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "45387ef012085e7240134abe10100fd0"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mona-vale-smash-repairs/",
+      "status": 200,
+      "title": "Mona Vale Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/mona-vale-smash-repairs/",
+      "h1": [
+        "Mona Vale Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Mona Vale area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "9b2952d6b8e5822e53672e286cbd1bc4"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/moonee-ponds-smash-repairs/",
+      "status": 200,
+      "title": "Moonee Ponds Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/moonee-ponds-smash-repairs/",
+      "h1": [
+        "Moonee Ponds Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Moonee Ponds area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "b49350ded6148f461c77bbab2d10b6c0"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/morayfield-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/morphett-vale-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mortdale-smash-repairs/",
+      "status": 200,
+      "title": "Mortdale Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/mortdale-smash-repairs/",
+      "h1": [
+        "Mortdale Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Mortdale area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "767d1f1d2dd83b3665dc30c79aa42233"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mosman-smash-repairs/",
+      "status": 200,
+      "title": "Mosman Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/mosman-smash-repairs/",
+      "h1": [
+        "Mosman Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in Mosman. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "3981ca3694a93f544e68fdcf55cd999b"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mt-barker-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mt-gambier-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/mt-gravatt-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/nambour-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/narellan-smash-repairs/",
+      "status": 200,
+      "title": "Narellan Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/narellan-smash-repairs/",
+      "h1": [
+        "Narellan Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in Narellan. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "dc9458bfb45ea44831a73306b98df31c"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/narrabeen-smash-repairs/",
+      "status": 200,
+      "title": "Narrabeen Smash Repairs - Courtesy Car Narrabeen - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/narrabeen-smash-repairs/",
+      "h1": [
+        "Narrabeen Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in Narrabeen. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 316,
+      "hash": "046da7bb646fddd0c8b8c9bb781d2a22"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/newton-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/noble-park-smash-repairs/",
+      "status": 200,
+      "title": "Noble Park Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/noble-park-smash-repairs/",
+      "h1": [
+        "Noble Park Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Noble Park area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "e2069f16a3e3951bb3c94e5197b5e310"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/north-caringbah-smash-repairs/",
+      "status": 200,
+      "title": "North Caringbah Smash Repairs | Courtesy Car North Caringbah - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/north-caringbah-smash-repairs/",
+      "h1": [
+        "North Caringbah Smash Repairs"
+      ],
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in North Caringbah so you can hire a courtesy vehicle while yours is being repaired",
+      "words": 278,
+      "hash": "784fba0bfef651fbc44fb0e85d9cca0e"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/north-ryde-smash-repairs/",
+      "status": 200,
+      "title": "North Ryde Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/north-ryde-smash-repairs/",
+      "h1": [
+        "North Ryde Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the North Ryde area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "bd05f41e6ca01a30fc39b7c8cb101067"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/norwood-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/osborne-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/padstow-smash-repairs/",
+      "status": 200,
+      "title": "Padstow Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/padstow-smash-repairs/",
+      "h1": [
+        "Padstow Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Padstow area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "89813ae36ed699fc551310b79a396739"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/palmerston-smash-repairs/",
+      "status": 200,
+      "title": "Palmerston Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/palmerston-smash-repairs/",
+      "h1": [
+        "Palmerston Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Palmerston area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "ff8d1cedf6ece80b5e67864a1237ffbb"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/panorama-smash-repairs/",
+      "status": 200,
+      "title": "Panorama Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/panorama-smash-repairs/",
+      "h1": [
+        "Panorama Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Panorama area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "beadacd0a43990a536b11afda691a383"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/para-hills-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/parramatta-smash-repairs/",
+      "status": 200,
+      "title": "Parramatta Smash Repairs - Courtesy Car Parramatta - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/parramatta-smash-repairs/",
+      "h1": [
+        "Parramatta Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in Parramatta. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 316,
+      "hash": "19ca6e56c481ca7452739394e910af6f"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/parraweena-smash-repairs/",
+      "status": 200,
+      "title": "Parraweena Smash Repairs| Courtesy Car Parraweena - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/parraweena-smash-repairs/",
+      "h1": [
+        "Parraweena Smash Repairs"
+      ],
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in Parraweena so you can hire a courtesy vehicle while yours is being repaired",
+      "words": 315,
+      "hash": "b8b669ef816926bd89df8b60cecea21f"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/penrith-smash-repairs/",
+      "status": 200,
+      "title": "Penrith Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/penrith-smash-repairs/",
+      "h1": [
+        "Penrith Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in Penrith. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "e8715d8fe3edd9604c2f9cc27803cbd3"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/perth-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/petersham-smash-repairs/",
+      "status": 200,
+      "title": "Petersham Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/petersham-smash-repairs/",
+      "h1": [
+        "Petersham Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Petersham area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "ce594aa7cd0a4a8be06713520fd9b8a5"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/plumpton-smash-repairs/",
+      "status": 200,
+      "title": "Plumpton Smash Repairs | Courtesy Car Plumpton - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/plumpton-smash-repairs/",
+      "h1": [
+        "Plumpton Smash Repairs"
+      ],
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in Plumpton so you can hire a courtesy vehicle while yours is being repaired",
+      "words": 315,
+      "hash": "5b33467381e237025264a9e4678f07fc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/pooraka-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/port-adelaide-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/prospect-smash-repairs/",
+      "status": 200,
+      "title": "Prospect Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/prospect-smash-repairs/",
+      "h1": [
+        "Prospect Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Prospect area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "1708d220faafda3c5a1255df03c6390a"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/pymble-smash-repairs/",
+      "status": 200,
+      "title": "Pymble Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/pymble-smash-repairs/",
+      "h1": [
+        "Pymble Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Pymble area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "c49aa1bd48382bb9e11f84918ae4a9ce"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/regency-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/ridgehaven-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/ridleyton-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/ringwood-smash-repairs/",
+      "status": 200,
+      "title": "Ringwood Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/ringwood-smash-repairs/",
+      "h1": [
+        "Ringwood Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Ringwood area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "799d3784208edc32032615c0c6fe8e61"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/salisbury-plain-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/salisbury-south-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/seaford-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/sefton-smash-repairs/",
+      "status": 200,
+      "title": "Sefton Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/sefton-smash-repairs/",
+      "h1": [
+        "Sefton Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Sefton area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "297f8f9b117ee5f136c1063a0a83a530"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/seven-hills-smash-repairs/",
+      "status": 200,
+      "title": "Seven Hills Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/seven-hills-smash-repairs/",
+      "h1": [
+        "Seven Hills Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Seven Hills area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "2e1bc0da387cb651e3b0b6413920c306"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/sherwood-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/silverwater-smash-repairs/",
+      "status": 200,
+      "title": "Silverwater Smash Repairs - Courtesy Car Silverwater - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/silverwater-smash-repairs/",
+      "h1": [
+        "Silverwater Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in Silverwater. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 316,
+      "hash": "0e28753ca6718d3dea9cf3a632667ce5"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/singleton-smash-repairs/",
+      "status": 200,
+      "title": "Singleton Smash Repairs | Courtesy Car Singleton - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/singleton-smash-repairs/",
+      "h1": [
+        "Singleton Smash Repairs"
+      ],
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in Singleton so you can hire a courtesy vehicle while yours is being repaired",
+      "words": 315,
+      "hash": "8816e502e60511cda228b935461b7c5d"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/somerton-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/south-penrith-smash-repairs/",
+      "status": 200,
+      "title": "South Penrith Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/south-penrith-smash-repairs/",
+      "h1": [
+        "South Penrith Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the South Penrith area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "a6977ca76f20410308d3f590e77cd9e5"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/st-agnes-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/st-marys-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/stepney-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/strathfield-smash-repairs/",
+      "status": 200,
+      "title": "Strathfield Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/strathfield-smash-repairs/",
+      "h1": [
+        "Strathfield Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Strathfield area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "b723e5faf7d35e984301f990794ee419"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/sumner-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/sydney-smash-repairs/",
+      "status": 200,
+      "title": "Sydney Smash Repairs - Courtesy Car Sydney - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/sydney-smash-repairs/",
+      "h1": [
+        "Sydney Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in Sydney. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 316,
+      "hash": "a069faa6f2706476002e3f2ace115d69"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/thebarton-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/toowong-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/underdale-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/underwood-smash-repairs/",
+      "status": 200,
+      "title": "Underwood Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/underwood-smash-repairs/",
+      "h1": [
+        "Underwood Smash Repairs \u2013 Courtesy Cars"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Underwood area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 224,
+      "hash": "384f9182f59a17f14b0a4b0694ea71aa"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/unley-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/verdun-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/victoria-smash-repairs-2/",
+      "status": 200,
+      "title": "Victorian Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/victoria-smash-repairs-2/",
+      "h1": [
+        "Victorian Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Victorian area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 318,
+      "hash": "8aa9878173f5129658452e6258421c1d"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/victoria-smash-repairs/",
+      "status": 200,
+      "title": "Victoria Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/victoria-smash-repairs/",
+      "h1": [
+        "Victoria Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Victoria area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "929cf6e16895410fc65ecf704e5b909c"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/waitara-smash-repairs/",
+      "status": 200,
+      "title": "Waitara Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/waitara-smash-repairs/",
+      "h1": [
+        "Waitara Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Waitara area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "a7944a640b796de903c1970d7f05457e"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/wangara-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/warriewood-smash-repairs/",
+      "status": 200,
+      "title": "Warriewood Smash Repairs | Courtesy Car Warriewood - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/warriewood-smash-repairs/",
+      "h1": [
+        "Warriewood Smash Repairs"
+      ],
+      "meta": "Not at Fault after an accident? Acorn Rentals provides fast, hassle-free accident car rental services in Warriewood so you can hire a courtesy vehicle while yours is being repaired",
+      "words": 316,
+      "hash": "86a8b5c43fc70f519aaf6701599c1337"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/welland-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/west-burleigh-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/west-ryde-smash-repairs/",
+      "status": 200,
+      "title": "West Ryde Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/west-ryde-smash-repairs/",
+      "h1": [
+        "West Ryde Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the West Ryde area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "33c496a515a476bc49d4032bad880a46"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/wetherill-park-smash-repairs/",
+      "status": 200,
+      "title": "Wetherill Park Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/wetherill-park-smash-repairs/",
+      "h1": [
+        "Wetherill Park Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Wetherill Park area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 321,
+      "hash": "1f59b7bff9cffadef4fc7381a5caee99"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/whittlesea-smash-repairs/",
+      "status": 200,
+      "title": "Whittlesea Smash Repairs Courtesy Car - Acorn Rentals",
+      "canonical": "https://www.acornrentals.com.au/service-areas/whittlesea-smash-repairs/",
+      "h1": [
+        "Whittlesea Smash Repairs"
+      ],
+      "meta": "We provide free courtesy cars to smash repairs in the Whittlesea area. Our costs are paid by the insurance company. Click the link to find out more now.",
+      "words": 315,
+      "hash": "e6abe8ca3856d09084ab223b21fbfaf6"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/willaston-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/windsor-gardens-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/wingfield-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/woodside-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/woodville-north-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/woodville-park-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    },
+    {
+      "url": "https://www.acornrentals.com.au/service-areas/woodville-south-smash-repairs/",
+      "status": 200,
+      "title": "Service Areas | Top Courtesy Car Company in Australia",
+      "canonical": "https://www.acornrentals.com.au/service-areas/",
+      "h1": [],
+      "meta": "Find out where we offer our courtesy car services. With coverage across major cities in Australia, Acorn Rentals delivers convenience to your doorstep.",
+      "words": 809,
+      "hash": "69fbca9acd848d55db97164ca13c00bc"
+    }
+  ]
+}

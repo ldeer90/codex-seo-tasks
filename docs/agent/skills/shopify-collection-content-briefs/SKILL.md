@@ -5,9 +5,24 @@ description: Use for Shopify ecommerce collection content briefs, collection cop
 
 # Shopify Collection Content Briefs
 
-Use this skill when creating writer-ready content briefs for Shopify collection pages.
+Use this skill when creating client-ready content brief/page-copy documents for Shopify collection pages.
 
 Core rule: do not create Google Docs or Monday tasks until the collection state, keyword data, current page data, product context, SERP context, supplemental keyword research, Search Console opportunity data, and internal link plan have passed validation.
+
+## Required Client-Ready Doc Structure
+
+Use the Salad Servers Wedding Catering page-copy format for every client-facing collection document. This is the current evolution of the earlier Shop Rongrong table-led format: it keeps the SEO direction scannable and gives the client example page copy in the same document.
+
+When the output is a Google Doc, these tables must be native Google Docs table objects, not markdown pipe-table text. Markdown is acceptable only for local source files or chat previews.
+
+1. `Overview` table with website, page, page type, keyword source, and content approach.
+2. `Keywords To Work Into The Page` table with keyword, monthly search volume, and short usage note.
+3. `Internal Links` table with anchor text and destination.
+4. `Recommended Heading Hierarchy` table with page section, recommended heading, heading level, and SEO role.
+5. `SEO Review` table with overall structure, keyword coverage, search intent, page balance, and current-page notes.
+6. `Example Copy` section with page title, meta description, H1, optional hero subheading, and section-by-section page copy.
+
+Do not add internal workflow notes, validator labels, raw dumps, or proof blocks to client-facing documents. Final Shopify HTML still belongs in the collection-writing workflow unless the user asks for it explicitly.
 
 ## Required Flow
 
@@ -17,11 +32,11 @@ Core rule: do not create Google Docs or Monday tasks until the collection state,
    - SE Ranking project keywords and AU/US volumes.
    - Current collection page scrape and structured per-slug SERP JSON.
    - Product samples from Shopify where sidecar samples are thin.
-4. **Keyword research and reasoning (Phase 1a)** — fetch SE Ranking related/similar/long-tail per collection, then reason through each candidate in-session. Produce a curated `by_slug` supplemental keywords file with a `reasoning` field on every accepted keyword. See Phase 1a in the workflow doc.
+4. **Keyword research and reasoning (Phase 1a)** — fetch SE Ranking related/similar/long-tail per collection, export search volumes for every target and supporting query, then reason through each candidate in-session. Produce a curated `by_slug` supplemental keywords file with a `reasoning` field on every accepted keyword. See Phase 1a in the workflow doc.
 5. Save Google Search Console high-potential queries when access is available.
 6. Build offline brief inputs with `scripts/build_collection_content_brief_inputs.py`.
 7. Validate with `scripts/validate_collection_content_briefs.py`. Stop on blockers.
-8. Render one Doc body per collection with `scripts/render_collection_content_brief_doc.py`.
+8. Render one Doc body per collection with `scripts/render_collection_content_brief_doc.py`. The renderer is expected to output the Salad Servers Wedding Catering-style format above.
 9. Only after user/client confirmation, create one Google Doc and one Monday task per collection.
 10. Update the sidecar with Doc IDs, URLs, updated dates, internal link targets, and batch coverage.
 11. End with a proof block: collections covered, Docs created, tasks created, Drive folder, keyword source, and remaining warnings.
@@ -50,6 +65,7 @@ If `brand_voice` or `tone_direction` are absent, the writer prompt falls back to
 
 - Do not invent product claims, fabric details, fit notes, shipping promises, or brand USPs.
 - Do not use keyword lists without volumes or source labels.
+- Do not skip SE Ranking keyword research. Every client-facing brief must show monthly search volumes for the target queries, even when Search Console already supplied query evidence.
 - Do not accept plain text or markdown output from a writer or LLM. All collection copy must be delivered as clean HTML: one `<h2>`, two `<h3>`, and `<p>` tags for body copy. No `<h1>`, no wrapper elements.
 - Do not leave heading slots vague. The brief must specify suggested text for the H2 and both H3s — the writer fills them in, not invents the structure.
 - Do not skip the keyword reasoning step. Passing raw SE Ranking output straight to the builder produces contaminated briefs (competitor brand names, catalog mismatches, cannibalized terms).
@@ -58,3 +74,4 @@ If `brand_voice` or `tone_direction` are absent, the writer prompt falls back to
 - Do not create internal links from memory; score candidates from the included collection set.
 - Do not file content briefs in audits. Use `05 Content` or a confirmed content briefs folder.
 - Do not create one large Doc unless the user explicitly asks. The default is one Doc and one Monday task per collection.
+- Do not bypass the renderer with an ad hoc manually formatted brief unless the requested page type is not a Shopify collection.

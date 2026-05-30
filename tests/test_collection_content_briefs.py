@@ -112,11 +112,14 @@ def test_renderer_includes_required_sections(tmp_path: Path) -> None:
 
     doc = renderer.render_brief_doc(payload["briefs"][0], client=payload["client"])
 
-    assert "Keyword Strategy" in doc
-    assert "Product Reality" in doc
-    assert "SERP And Competitor Context" in doc
-    assert "Internal Linking Plan" in doc
-    assert "Writer / LLM Prompt" in doc
+    assert "## Overview" in doc
+    assert "## Keywords To Work Into The Page" in doc
+    assert "## Internal Links" in doc
+    assert "## Recommended Heading Hierarchy" in doc
+    assert "## SEO Review" in doc
+    assert "## Example Copy" in doc
+    assert "### Page Title" in doc
+    assert "### Meta Description" in doc
 
 
 def test_html_copy_validator_blocks_unsupported_claims_and_bad_structure(tmp_path: Path) -> None:

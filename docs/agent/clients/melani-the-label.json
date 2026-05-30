@@ -1,8 +1,8 @@
 {
   "client": "Melani the Label",
-  "brand_display_name": "M\u00c9LANI",
-  "brand_voice": "Sensual and precise. The brand positions its pieces as something between occasion wear and everyday luxury \u2014 clothes a woman reaches for because they fit well and feel considered, not because they were marketed at her. Copy should feel like advice from someone who knows the range, not a product description.",
-  "tone_direction": "Specific, quietly confident, grounded in product detail. Avoid aspirational filler. Avoid competitive comparisons not supported by the brief. Lead with what the garment does \u2014 fit, fabric, occasion \u2014 not with how it makes you feel in abstract terms.",
+  "brand_display_name": "MÉLANI",
+  "brand_voice": "Sensual and precise. The brand positions its pieces as something between occasion wear and everyday luxury — clothes a woman reaches for because they fit well and feel considered, not because they were marketed at her. Copy should feel like advice from someone who knows the range, not a product description.",
+  "tone_direction": "Specific, quietly confident, grounded in product detail. Avoid aspirational filler. Avoid competitive comparisons not supported by the brief. Lead with what the garment does — fit, fabric, occasion — not with how it makes you feel in abstract terms.",
   "domain": "melanithelabel.com",
   "market_scope": "AU+US",
   "se_ranking": {
@@ -11,9 +11,9 @@
       "AU": 1176139,
       "US": 1179880
     },
-    "keyword_count": 139,
-    "pair_count": 278,
-    "last_synced": "2026-05-10"
+    "keyword_count": 237,
+    "pair_count": 312,
+    "last_synced": "2026-05-26"
   },
   "drive": {
     "client_folder_id": "1HWLcsHS38P5u_d_vfrWux3LaRVln9iMJ",
@@ -45,25 +45,394 @@
       "coverage": "27 of 27 SEO-priority collections"
     },
     "collection_content_briefs": {
-      "updated": "2026-05-10",
-      "coverage": "27 of 27 Google Docs created; 27 of 27 Monday tasks created",
+      "updated": "2026-05-14",
+      "coverage": "1 active Google Doc for midis; 27 previous Google Docs trashed; 0 active Monday tasks; 27 Monday tasks already deleted",
       "folder_id": "1FgN47UW7vxWD3gD2KIcyghgy0ID8tcGI",
-      "document_count": 27,
-      "status": "docs_and_tasks_created",
+      "folder_name": "05 Content",
+      "document_count": 1,
+      "trashed_document_count": 27,
+      "status": "partial_rebuild_in_progress",
       "monday_board_id": 5028353257,
       "monday_group_id": "group_title",
-      "monday_task_count": 27,
-      "folder_name": "05 Content",
+      "monday_task_count": 1,
+      "deleted_monday_task_count": 27,
+      "qa_status": "single_midis_doc_saved_in_drive_and_linked_from_monday",
       "critique_doc_id": "1b73AMrNjpT3SydIwuiXvXGazN7oPZR1cP-RNJtc8cpA",
       "critique_doc_url": "https://docs.google.com/document/d/1b73AMrNjpT3SydIwuiXvXGazN7oPZR1cP-RNJtc8cpA/edit",
-      "qa_status": "ready_for_writer_with_warnings",
-      "gsc_export_path": "/tmp/melani-gsc-collection-opportunities.json",
-      "gsc_date_range": "2026-02-06 to 2026-05-07",
-      "supplemental_keywords_path": "/tmp/melani-supplemental-keywords-seranking.json",
-      "validation": {
-        "blocking_count": 0,
-        "warning_count": 11
-      }
+      "trashed_docs": [
+        {
+          "slug": "dresses",
+          "doc_id": "1GKTyQgBvVqfhQUFGQwXWEci6URFSc3sT3ftC7mipqmM",
+          "doc_url": "https://docs.google.com/document/d/1GKTyQgBvVqfhQUFGQwXWEci6URFSc3sT3ftC7mipqmM/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "midis",
+          "doc_id": "14pBJLQTmVWq2FdpnfA8O1OF-LtC7fzZtMJYQF-hqxMo",
+          "doc_url": "https://docs.google.com/document/d/14pBJLQTmVWq2FdpnfA8O1OF-LtC7fzZtMJYQF-hqxMo/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "sets",
+          "doc_id": "1aU1HnWH0KNaOiRGMx-QXGi3xp_44v8owwKEOOpHkv78",
+          "doc_url": "https://docs.google.com/document/d/1aU1HnWH0KNaOiRGMx-QXGi3xp_44v8owwKEOOpHkv78/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "jumpsuits",
+          "doc_id": "1LziLVJtI6_3gIn1B-XOvcqywwkL3tT0j8BVnaOBxIMg",
+          "doc_url": "https://docs.google.com/document/d/1LziLVJtI6_3gIn1B-XOvcqywwkL3tT0j8BVnaOBxIMg/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "minis",
+          "doc_id": "1RGFQNFOcya729UqFxh9gLjMEmZMH0KZ3_WbBIvX8hD4",
+          "doc_url": "https://docs.google.com/document/d/1RGFQNFOcya729UqFxh9gLjMEmZMH0KZ3_WbBIvX8hD4/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "gowns",
+          "doc_id": "1NvAKkx0ICy2hdTJAno6AJjvclvCPuhcnnXsHXZioGVA",
+          "doc_url": "https://docs.google.com/document/d/1NvAKkx0ICy2hdTJAno6AJjvclvCPuhcnnXsHXZioGVA/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "all-dresses",
+          "doc_id": "1e0bnxPmIgGuXANRYJircErpcMhWMM4PVsrSrSSbRWVY",
+          "doc_url": "https://docs.google.com/document/d/1e0bnxPmIgGuXANRYJircErpcMhWMM4PVsrSrSSbRWVY/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "maxis",
+          "doc_id": "1ZCUfvC18rMr31aCPF9sWoDvgAKjro4IonNqTct5mhQA",
+          "doc_url": "https://docs.google.com/document/d/1ZCUfvC18rMr31aCPF9sWoDvgAKjro4IonNqTct5mhQA/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "tops",
+          "doc_id": "1cpCsXARJbCEU4cPQHwpLpR2rqq1jmXDmru17erAI5wg",
+          "doc_url": "https://docs.google.com/document/d/1cpCsXARJbCEU4cPQHwpLpR2rqq1jmXDmru17erAI5wg/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "skirt",
+          "doc_id": "1Q7PtWyXnd-Yo9-wkvzWpbDmjHeWLXDuelDF1SO_G-4w",
+          "doc_url": "https://docs.google.com/document/d/1Q7PtWyXnd-Yo9-wkvzWpbDmjHeWLXDuelDF1SO_G-4w/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "accessories",
+          "doc_id": "1bFWInwtmGpAF2PMOuQdWy7gL0x4zNAvZuKmkhgBmgeY",
+          "doc_url": "https://docs.google.com/document/d/1bFWInwtmGpAF2PMOuQdWy7gL0x4zNAvZuKmkhgBmgeY/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "resort",
+          "doc_id": "1lHyu5ahG2CKFI54kdz1AzzJ65TGeCXriIcxE-67tt1M",
+          "doc_url": "https://docs.google.com/document/d/1lHyu5ahG2CKFI54kdz1AzzJ65TGeCXriIcxE-67tt1M/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "swim",
+          "doc_id": "1waDLshQBsr47bnOHTS_VF4jt06k0uC_msRNoDPsBt3s",
+          "doc_url": "https://docs.google.com/document/d/1waDLshQBsr47bnOHTS_VF4jt06k0uC_msRNoDPsBt3s/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "long-sleeve",
+          "doc_id": "11Nqex01A9coy44FKwECK6bgCHNpAJ-kghTX5O9FPn1Y",
+          "doc_url": "https://docs.google.com/document/d/11Nqex01A9coy44FKwECK6bgCHNpAJ-kghTX5O9FPn1Y/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "bridal",
+          "doc_id": "1zQ_qEaRMiyD8fomKAM6h677ng_RKUnDcOjVjBgoeR6Y",
+          "doc_url": "https://docs.google.com/document/d/1zQ_qEaRMiyD8fomKAM6h677ng_RKUnDcOjVjBgoeR6Y/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "crop-tops",
+          "doc_id": "10JqvVDPaE2od_0i7axoJxR-iFkWrfQcNnaPSRsGOa_8",
+          "doc_url": "https://docs.google.com/document/d/10JqvVDPaE2od_0i7axoJxR-iFkWrfQcNnaPSRsGOa_8/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "long-sleeve-tops",
+          "doc_id": "1e2rhIeYnD39_0Y0sbpbx3igS5DLRfbFNfq8pGa4bPpM",
+          "doc_url": "https://docs.google.com/document/d/1e2rhIeYnD39_0Y0sbpbx3igS5DLRfbFNfq8pGa4bPpM/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "bodysuit",
+          "doc_id": "1zEeZg1vE7ZR1Bx00xeT5R-yNFhsVGHaDmVz4fCObtDY",
+          "doc_url": "https://docs.google.com/document/d/1zEeZg1vE7ZR1Bx00xeT5R-yNFhsVGHaDmVz4fCObtDY/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "printed-tops",
+          "doc_id": "1nrngrpGB_k2mWFDkKeWfHr_p7w4JC47Dvqa6MS0mIXs",
+          "doc_url": "https://docs.google.com/document/d/1nrngrpGB_k2mWFDkKeWfHr_p7w4JC47Dvqa6MS0mIXs/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "lace-tops",
+          "doc_id": "1zVt51jtDcpG3OQJVw9RHHznz9bDDdWbXKJVUkt3GBIU",
+          "doc_url": "https://docs.google.com/document/d/1zVt51jtDcpG3OQJVw9RHHznz9bDDdWbXKJVUkt3GBIU/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "lace-dresses",
+          "doc_id": "1HuKNLusyklMiym2AboONeQtJZGKrkZHdxvBcoKIW5_E",
+          "doc_url": "https://docs.google.com/document/d/1HuKNLusyklMiym2AboONeQtJZGKrkZHdxvBcoKIW5_E/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "printed-dresses",
+          "doc_id": "1zJuWv9wlaoaIdHKr5kc89QoVMpi6DlQULrGIS31E3mM",
+          "doc_url": "https://docs.google.com/document/d/1zJuWv9wlaoaIdHKr5kc89QoVMpi6DlQULrGIS31E3mM/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "pants",
+          "doc_id": "1bx3VChrnTfF8BgIjoA1eolb3XMJHDojEtZIQSt0WtEg",
+          "doc_url": "https://docs.google.com/document/d/1bx3VChrnTfF8BgIjoA1eolb3XMJHDojEtZIQSt0WtEg/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "mini-skirts",
+          "doc_id": "19l9yQkiYeKjseT0RF1fHrydeoMSO2Z7ghqofeb_F50I",
+          "doc_url": "https://docs.google.com/document/d/19l9yQkiYeKjseT0RF1fHrydeoMSO2Z7ghqofeb_F50I/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "midi-skirts",
+          "doc_id": "1xV9nfJirTY2Xn55pxNijl9tpPgIri8FCCGOPCNAjB-Y",
+          "doc_url": "https://docs.google.com/document/d/1xV9nfJirTY2Xn55pxNijl9tpPgIri8FCCGOPCNAjB-Y/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "maxi-skirts",
+          "doc_id": "1yidSo5QODz3RKxsJ4LKwkMw12rX2Dj7flq1U76NzFUc",
+          "doc_url": "https://docs.google.com/document/d/1yidSo5QODz3RKxsJ4LKwkMw12rX2Dj7flq1U76NzFUc/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        },
+        {
+          "slug": "tailored",
+          "doc_id": "1L9zl_nQZyqN7U9Zca52lDAkQjJpnwasp0rdbrX8rwro",
+          "doc_url": "https://docs.google.com/document/d/1L9zl_nQZyqN7U9Zca52lDAkQjJpnwasp0rdbrX8rwro/edit",
+          "previous_updated_at": "2026-05-10",
+          "trashed_at": "2026-05-11"
+        }
+      ],
+      "deleted_monday_tasks": [
+        {
+          "slug": "dresses",
+          "task_id": "2694168624",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694168624",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "midis",
+          "task_id": "2694135747",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135747",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "sets",
+          "task_id": "2694158797",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158797",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "jumpsuits",
+          "task_id": "2694135748",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135748",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "minis",
+          "task_id": "2694091890",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091890",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "gowns",
+          "task_id": "2694159122",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694159122",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "all-dresses",
+          "task_id": "2694124771",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694124771",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "maxis",
+          "task_id": "2694159192",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694159192",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "tops",
+          "task_id": "2694091816",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091816",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "skirt",
+          "task_id": "2694158803",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158803",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "accessories",
+          "task_id": "2694147308",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694147308",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "resort",
+          "task_id": "2694135549",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135549",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "swim",
+          "task_id": "2694125366",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694125366",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "long-sleeve",
+          "task_id": "2694091895",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091895",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "bridal",
+          "task_id": "2694092002",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092002",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "crop-tops",
+          "task_id": "2694102537",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694102537",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "long-sleeve-tops",
+          "task_id": "2694158743",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158743",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "bodysuit",
+          "task_id": "2694102538",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694102538",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "printed-tops",
+          "task_id": "2694159205",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694159205",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "lace-tops",
+          "task_id": "2694158918",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158918",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "lace-dresses",
+          "task_id": "2694135622",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135622",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "printed-dresses",
+          "task_id": "2694092054",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092054",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "pants",
+          "task_id": "2694091522",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091522",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "mini-skirts",
+          "task_id": "2694091524",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091524",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "midi-skirts",
+          "task_id": "2694135575",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135575",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "maxi-skirts",
+          "task_id": "2694092058",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092058",
+          "state": "deleted_before_2026-05-11_verification"
+        },
+        {
+          "slug": "tailored",
+          "task_id": "2694092060",
+          "task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092060",
+          "state": "deleted_before_2026-05-11_verification"
+        }
+      ],
+      "next_action": "Rebuild content brief inputs from repaired keyword research before creating new Docs or Monday tasks.",
+      "active_docs": [
+        {
+          "slug": "midis",
+          "doc_id": "1fsQt6CT_7iFGIWbfXb-29gslauOCVOVzXXi4RZ9E0aI",
+          "doc_url": "https://docs.google.com/document/d/1fsQt6CT_7iFGIWbfXb-29gslauOCVOVzXXi4RZ9E0aI/edit",
+          "updated_at": "2026-05-14",
+          "validation_blockers": 0,
+          "validation_warnings": [
+            "missing_search_console_opportunities",
+            "h1_primary_keyword_mismatch"
+          ],
+          "title": "Melani the Label - Midi Dresses Page Copy - 2026-05-14",
+          "format": "wedding_catering_page_copy_native_tables",
+          "local_copy": "docs/melani-midi-dresses-page-copy-2026-05-14.md",
+          "monday_item_id": "2700201451",
+          "monday_item_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2700201451"
+        }
+      ]
     }
   },
   "collections": [
@@ -85,18 +454,15 @@
       "tracking_note": "Curated Shop all page; included for metadata coverage but not required in SE Ranking.",
       "au_volume": 19100,
       "us_volume": 201000,
-      "current_title": "Shop all \u2013 Melani the label",
+      "current_title": "Shop all – Melani the label",
       "current_h1": "Shop all",
-      "current_meta_description": "Shop the M\u00c9LANI signature collection. Shop gowns\u2014backless, maxi, midi & mini\u2014in dreamy colours. M\u00c9LANI dresses are high-quality & versatile. Shop now.",
+      "current_meta_description": "Shop the MÉLANI signature collection. Shop gowns—backless, maxi, midi & mini—in dreamy colours. MÉLANI dresses are high-quality & versatile. Shop now.",
       "last_scraped": "2026-05-10",
       "competitor_top3_urls": [
         "https://www.twosistersthelabel.com/collections/midi-dresses",
         "https://babyboofashion.com/collections/formal-dresses",
         "https://www.beginningboutique.com.au/collections/formal-dresses"
       ],
-      "content_brief_doc_id": "1GKTyQgBvVqfhQUFGQwXWEci6URFSc3sT3ftC7mipqmM",
-      "content_brief_url": "https://docs.google.com/document/d/1GKTyQgBvVqfhQUFGQwXWEci6URFSc3sT3ftC7mipqmM/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "all-dresses",
         "gowns",
@@ -104,9 +470,7 @@
         "maxis",
         "minis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694168624",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694168624",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 10
     },
@@ -121,29 +485,40 @@
       "recovered_from_live_tracking": true,
       "au_volume": 27100,
       "us_volume": 74000,
-      "current_title": "Midis \u2013 Melani the label",
+      "current_title": "Midis – Melani the label",
       "current_h1": "Midis",
-      "current_meta_description": "Be noticed and remembered with a M\u00c9LANI midi silhouette. M\u00c9LANI dresses are Australian-made, high-quality, affordable & luxurious. Shop the midi collection",
+      "current_meta_description": "Be noticed and remembered with a MÉLANI midi silhouette. MÉLANI dresses are Australian-made, high-quality, affordable & luxurious. Shop the midi collection",
       "last_scraped": "2026-05-10",
       "competitor_top3_urls": [
         "https://www.twosistersthelabel.com/collections/midi-dresses",
         "https://meshki.com.au/collections/midi-dress"
       ],
-      "content_brief_doc_id": "14pBJLQTmVWq2FdpnfA8O1OF-LtC7fzZtMJYQF-hqxMo",
-      "content_brief_url": "https://docs.google.com/document/d/14pBJLQTmVWq2FdpnfA8O1OF-LtC7fzZtMJYQF-hqxMo/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
-        "maxis",
+        "all-dresses",
+        "gowns",
         "long-sleeve",
         "lace-dresses",
-        "all-dresses",
-        "gowns"
+        "bridal"
       ],
-      "brief_status": "updated",
-      "monday_content_brief_task_id": "2694135747",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135747",
+      "brief_status": "monday_task_created_native_table_page_copy",
       "search_console_enriched": true,
-      "supplemental_keyword_count": 9
+      "supplemental_keyword_count": 9,
+      "content_brief_doc_id": "1fsQt6CT_7iFGIWbfXb-29gslauOCVOVzXXi4RZ9E0aI",
+      "content_brief_url": "https://docs.google.com/document/d/1fsQt6CT_7iFGIWbfXb-29gslauOCVOVzXXi4RZ9E0aI/edit",
+      "content_brief_updated_at": "2026-05-14",
+      "brief_validation": {
+        "validated_at": "2026-05-14",
+        "blockers": 0,
+        "warnings": [
+          "missing_search_console_opportunities",
+          "h1_primary_keyword_mismatch"
+        ],
+        "validation_json": "/tmp/melani-midis-content-brief-validation.json"
+      },
+      "content_doc_format": "wedding_catering_page_copy",
+      "content_doc_local_copy": "docs/melani-midi-dresses-page-copy-2026-05-14.md",
+      "content_monday_item_id": "2700201451",
+      "content_monday_item_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2700201451"
     },
     {
       "slug": "sets",
@@ -161,17 +536,14 @@
       "primary_keyword": "two piece set",
       "au_volume": 8000,
       "us_volume": 40500,
-      "current_title": "Sets \u2013 Melani the label",
+      "current_title": "Sets – Melani the label",
       "current_h1": "Sets",
       "status": "New",
       "last_scraped": "2026-05-10",
-      "current_meta_description": "Look & feel divine in a set for any occasion. M\u00c9LANI sets are Australian-made, high-quality, affordable & luxurious. Shop the full collection now",
+      "current_meta_description": "Look & feel divine in a set for any occasion. MÉLANI sets are Australian-made, high-quality, affordable & luxurious. Shop the full collection now",
       "competitor_top3_urls": [
         "https://peppermayo.com/collections/two-piece-sets"
       ],
-      "content_brief_doc_id": "1aU1HnWH0KNaOiRGMx-QXGi3xp_44v8owwKEOOpHkv78",
-      "content_brief_url": "https://docs.google.com/document/d/1aU1HnWH0KNaOiRGMx-QXGi3xp_44v8owwKEOOpHkv78/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "minis",
         "long-sleeve-tops",
@@ -179,9 +551,7 @@
         "tops",
         "lace-tops"
       ],
-      "brief_status": "updated",
-      "monday_content_brief_task_id": "2694158797",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158797",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": false,
       "supplemental_keyword_count": 10
     },
@@ -199,17 +569,14 @@
       "primary_keyword": "jumpsuit",
       "au_volume": 22200,
       "us_volume": 110,
-      "current_title": "Jumpsuits \u2013 Melani the label",
+      "current_title": "Jumpsuits – Melani the label",
       "current_h1": "Jumpsuits",
       "status": "Tweak",
       "last_scraped": "2026-05-10",
-      "current_meta_description": "Crafted from signature stretch fabric, M\u00c9LANI jumpsuits are made to last and feel divine. Shop classic, backless & multi-way designs online now",
+      "current_meta_description": "Crafted from signature stretch fabric, MÉLANI jumpsuits are made to last and feel divine. Shop classic, backless & multi-way designs online now",
       "competitor_top3_urls": [
         "https://www.ohpolly.com/collections/jumpsuits"
       ],
-      "content_brief_doc_id": "1LziLVJtI6_3gIn1B-XOvcqywwkL3tT0j8BVnaOBxIMg",
-      "content_brief_url": "https://docs.google.com/document/d/1LziLVJtI6_3gIn1B-XOvcqywwkL3tT0j8BVnaOBxIMg/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "maxis",
         "all-dresses",
@@ -217,9 +584,7 @@
         "midis",
         "long-sleeve"
       ],
-      "brief_status": "updated",
-      "monday_content_brief_task_id": "2694135748",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135748",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 9
     },
@@ -236,19 +601,16 @@
       "primary_keyword": "mini dress",
       "au_volume": 40500,
       "us_volume": 110000,
-      "current_title": "Minis \u2013 Melani the label",
+      "current_title": "Minis – Melani the label",
       "current_h1": "Minis",
       "status": "New",
       "last_scraped": "2026-05-10",
-      "current_meta_description": "Sweet & seductive, a M\u00c9LANI mini dress is cut from a soft stretch fabric for a comfortable & elegant fit. Shop the mini collection now and dance the night away",
+      "current_meta_description": "Sweet & seductive, a MÉLANI mini dress is cut from a soft stretch fabric for a comfortable & elegant fit. Shop the mini collection now and dance the night away",
       "competitor_top3_urls": [
         "https://au.tigermist.com/collections/mini-dresses",
         "https://www.sheike.com.au/collections/mini-dresses",
         "https://www.perfectstranger.com.au/collections/mini-dresses"
       ],
-      "content_brief_doc_id": "1RGFQNFOcya729UqFxh9gLjMEmZMH0KZ3_WbBIvX8hD4",
-      "content_brief_url": "https://docs.google.com/document/d/1RGFQNFOcya729UqFxh9gLjMEmZMH0KZ3_WbBIvX8hD4/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "long-sleeve-tops",
         "crop-tops",
@@ -256,9 +618,7 @@
         "lace-tops",
         "bodysuit"
       ],
-      "brief_status": "updated",
-      "monday_content_brief_task_id": "2694091890",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091890",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": false,
       "supplemental_keyword_count": 10
     },
@@ -278,18 +638,15 @@
       "primary_keyword": "formal dresses",
       "au_volume": 90500,
       "us_volume": 201000,
-      "current_title": "Formal Gowns \u2013 Melani the label",
+      "current_title": "Formal Gowns – Melani the label",
       "current_h1": "Formal Gowns",
       "status": "Tweak",
       "last_scraped": "2026-05-10",
-      "current_meta_description": "Effortless aesthetic, timeless styles, quality fabrics & fit. M\u00c9LANI gowns are designed in Australia & shipped worldwide. Shop our signature gowns online now",
+      "current_meta_description": "Effortless aesthetic, timeless styles, quality fabrics & fit. MÉLANI gowns are designed in Australia & shipped worldwide. Shop our signature gowns online now",
       "competitor_top3_urls": [
         "serp-pattern://gowns/1",
         "serp-pattern://gowns/2"
       ],
-      "content_brief_doc_id": "1NvAKkx0ICy2hdTJAno6AJjvclvCPuhcnnXsHXZioGVA",
-      "content_brief_url": "https://docs.google.com/document/d/1NvAKkx0ICy2hdTJAno6AJjvclvCPuhcnnXsHXZioGVA/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "all-dresses",
         "lace-dresses",
@@ -297,9 +654,7 @@
         "midis",
         "printed-dresses"
       ],
-      "brief_status": "updated",
-      "monday_content_brief_task_id": "2694159122",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694159122",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 6
     },
@@ -319,17 +674,14 @@
       "primary_keyword": "womens dresses",
       "au_volume": 19100,
       "us_volume": 201000,
-      "current_title": "All dresses \u2013 Melani the label",
+      "current_title": "All dresses – Melani the label",
       "current_h1": "All dresses",
-      "current_meta_description": "Look & feel divine in a backless dress for any occasion. M\u00c9LANI dresses are Australian-made, high-quality, affordable & luxurious. Shop the full collection now",
+      "current_meta_description": "Look & feel divine in a backless dress for any occasion. MÉLANI dresses are Australian-made, high-quality, affordable & luxurious. Shop the full collection now",
       "last_scraped": "2026-05-10",
       "competitor_top3_urls": [
         "serp-pattern://all-dresses/1",
         "serp-pattern://all-dresses/2"
       ],
-      "content_brief_doc_id": "1e0bnxPmIgGuXANRYJircErpcMhWMM4PVsrSrSSbRWVY",
-      "content_brief_url": "https://docs.google.com/document/d/1e0bnxPmIgGuXANRYJircErpcMhWMM4PVsrSrSSbRWVY/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "gowns",
         "lace-dresses",
@@ -337,9 +689,7 @@
         "midis",
         "printed-dresses"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694124771",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694124771",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 9
     },
@@ -359,17 +709,14 @@
       "primary_keyword": "maxi dress",
       "au_volume": 60500,
       "us_volume": 590,
-      "current_title": "Maxis \u2013 Melani the label",
+      "current_title": "Maxis – Melani the label",
       "current_h1": "Maxis",
       "status": "New",
       "last_scraped": "2026-05-10",
-      "current_meta_description": "A M\u00c9LANI maxi dress is everything you want her to be\u2014high-quality, affordable & divine. Shop now & find the perfect maxi dress for your next event",
+      "current_meta_description": "A MÉLANI maxi dress is everything you want her to be—high-quality, affordable & divine. Shop now & find the perfect maxi dress for your next event",
       "competitor_top3_urls": [
         "https://meshki.com.au/collections/maxi-dresses"
       ],
-      "content_brief_doc_id": "1ZCUfvC18rMr31aCPF9sWoDvgAKjro4IonNqTct5mhQA",
-      "content_brief_url": "https://docs.google.com/document/d/1ZCUfvC18rMr31aCPF9sWoDvgAKjro4IonNqTct5mhQA/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "midis",
         "long-sleeve",
@@ -377,9 +724,7 @@
         "all-dresses",
         "gowns"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694159192",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694159192",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 9
     },
@@ -399,7 +744,7 @@
       "primary_keyword": "going out tops",
       "au_volume": 8100,
       "us_volume": 74000,
-      "current_title": "ALL TOPS \u2013 Melani the label",
+      "current_title": "ALL TOPS – Melani the label",
       "current_h1": "ALL TOPS",
       "status": "New",
       "last_scraped": "2026-05-10",
@@ -409,9 +754,6 @@
         "https://www.princesspolly.com.au/collections/crop-tops",
         "https://www.motelrocks.com/collections/going-out-tops"
       ],
-      "content_brief_doc_id": "1cpCsXARJbCEU4cPQHwpLpR2rqq1jmXDmru17erAI5wg",
-      "content_brief_url": "https://docs.google.com/document/d/1cpCsXARJbCEU4cPQHwpLpR2rqq1jmXDmru17erAI5wg/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "long-sleeve-tops",
         "crop-tops",
@@ -419,9 +761,7 @@
         "printed-tops",
         "minis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694091816",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091816",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": false,
       "supplemental_keyword_count": 10
     },
@@ -441,7 +781,7 @@
       "primary_keyword": "skirt",
       "au_volume": 22200,
       "us_volume": 40500,
-      "current_title": "All Skirts \u2013 Melani the label",
+      "current_title": "All Skirts – Melani the label",
       "current_h1": "All Skirts",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -449,9 +789,6 @@
         "serp-pattern://skirt/1",
         "serp-pattern://skirt/2"
       ],
-      "content_brief_doc_id": "1Q7PtWyXnd-Yo9-wkvzWpbDmjHeWLXDuelDF1SO_G-4w",
-      "content_brief_url": "https://docs.google.com/document/d/1Q7PtWyXnd-Yo9-wkvzWpbDmjHeWLXDuelDF1SO_G-4w/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "maxi-skirts",
         "midi-skirts",
@@ -459,9 +796,7 @@
         "maxis",
         "minis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694158803",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158803",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 10
     },
@@ -481,7 +816,7 @@
       "primary_keyword": "womens accessories",
       "au_volume": 720,
       "us_volume": 5400,
-      "current_title": "Accessories \u2013 Melani the label",
+      "current_title": "Accessories – Melani the label",
       "current_h1": "Accessories",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -489,9 +824,6 @@
         "serp-pattern://accessories/1",
         "serp-pattern://accessories/2"
       ],
-      "content_brief_doc_id": "1bFWInwtmGpAF2PMOuQdWy7gL0x4zNAvZuKmkhgBmgeY",
-      "content_brief_url": "https://docs.google.com/document/d/1bFWInwtmGpAF2PMOuQdWy7gL0x4zNAvZuKmkhgBmgeY/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "maxis",
         "minis",
@@ -499,9 +831,7 @@
         "gowns",
         "midis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694147308",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694147308",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": false,
       "supplemental_keyword_count": 9
     },
@@ -521,17 +851,14 @@
       "primary_keyword": "resort wear",
       "au_volume": 2400,
       "us_volume": 20100,
-      "current_title": "RESORT \u2013 Melani the label",
+      "current_title": "RESORT – Melani the label",
       "current_h1": "RESORT",
-      "current_meta_description": "Escape into effortless dressing with M\u00c9LANI\u2019s resort wear collection, designed for modern, sun-soaked escapes. Discover luxury resort wear for women, including flowing dresses, elevated vacation outfits, and lightweight styles perfect for warm-weather destinations. Explore a curated selection of resort dresses, maxi dr",
+      "current_meta_description": "Escape into effortless dressing with MÉLANI’s resort wear collection, designed for modern, sun-soaked escapes. Discover luxury resort wear for women, including flowing dresses, elevated vacation outfits, and lightweight styles perfect for warm-weather destinations. Explore a curated selection of resort dresses, maxi dr",
       "last_scraped": "2026-05-10",
       "competitor_top3_urls": [
         "serp-pattern://resort/1",
         "serp-pattern://resort/2"
       ],
-      "content_brief_doc_id": "1lHyu5ahG2CKFI54kdz1AzzJ65TGeCXriIcxE-67tt1M",
-      "content_brief_url": "https://docs.google.com/document/d/1lHyu5ahG2CKFI54kdz1AzzJ65TGeCXriIcxE-67tt1M/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "minis",
         "long-sleeve-tops",
@@ -539,9 +866,7 @@
         "tops",
         "lace-tops"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694135549",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135549",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": false,
       "supplemental_keyword_count": 10
     },
@@ -561,7 +886,7 @@
       "primary_keyword": "swimwear",
       "au_volume": 12100,
       "us_volume": 40500,
-      "current_title": "SWIM \u2013 Melani the label",
+      "current_title": "SWIM – Melani the label",
       "current_h1": "SWIM",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -569,9 +894,6 @@
         "serp-pattern://swim/1",
         "serp-pattern://swim/2"
       ],
-      "content_brief_doc_id": "1waDLshQBsr47bnOHTS_VF4jt06k0uC_msRNoDPsBt3s",
-      "content_brief_url": "https://docs.google.com/document/d/1waDLshQBsr47bnOHTS_VF4jt06k0uC_msRNoDPsBt3s/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "maxis",
         "minis",
@@ -579,9 +901,7 @@
         "gowns",
         "midis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694125366",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694125366",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": false,
       "supplemental_keyword_count": 10
     },
@@ -601,7 +921,7 @@
       "primary_keyword": "long sleeve dress",
       "au_volume": 22400,
       "us_volume": 74000,
-      "current_title": "Long Sleeve Dresses \u2013 Melani the label",
+      "current_title": "Long Sleeve Dresses – Melani the label",
       "current_h1": "Long Sleeve Dresses",
       "status": "Tweak",
       "last_scraped": "2026-05-10",
@@ -610,9 +930,6 @@
         "serp-pattern://long-sleeve/1",
         "serp-pattern://long-sleeve/2"
       ],
-      "content_brief_doc_id": "11Nqex01A9coy44FKwECK6bgCHNpAJ-kghTX5O9FPn1Y",
-      "content_brief_url": "https://docs.google.com/document/d/11Nqex01A9coy44FKwECK6bgCHNpAJ-kghTX5O9FPn1Y/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "maxis",
         "midis",
@@ -620,9 +937,7 @@
         "long-sleeve-tops",
         "all-dresses"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694091895",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091895",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 10
     },
@@ -642,7 +957,7 @@
       "primary_keyword": "bridal dress",
       "au_volume": 2400,
       "us_volume": 14800,
-      "current_title": "Bridal \u2013 Melani the label",
+      "current_title": "Bridal – Melani the label",
       "current_h1": "Bridal",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -650,9 +965,6 @@
         "serp-pattern://bridal/1",
         "serp-pattern://bridal/2"
       ],
-      "content_brief_doc_id": "1zQ_qEaRMiyD8fomKAM6h677ng_RKUnDcOjVjBgoeR6Y",
-      "content_brief_url": "https://docs.google.com/document/d/1zQ_qEaRMiyD8fomKAM6h677ng_RKUnDcOjVjBgoeR6Y/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "maxis",
         "minis",
@@ -660,9 +972,7 @@
         "long-sleeve",
         "lace-dresses"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694092002",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092002",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 3
     },
@@ -682,7 +992,7 @@
       "primary_keyword": "crop top",
       "au_volume": 14800,
       "us_volume": 135000,
-      "current_title": "CROP TOPS \u2013 Melani the label",
+      "current_title": "CROP TOPS – Melani the label",
       "current_h1": "CROP TOPS",
       "status": "New",
       "last_scraped": "2026-05-10",
@@ -691,9 +1001,6 @@
         "https://www.selfieleslie.com/collections/crop-tops",
         "https://www.princesspolly.com.au/collections/crop-tops"
       ],
-      "content_brief_doc_id": "10JqvVDPaE2od_0i7axoJxR-iFkWrfQcNnaPSRsGOa_8",
-      "content_brief_url": "https://docs.google.com/document/d/10JqvVDPaE2od_0i7axoJxR-iFkWrfQcNnaPSRsGOa_8/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "long-sleeve-tops",
         "lace-tops",
@@ -701,9 +1008,7 @@
         "tops",
         "minis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694102537",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694102537",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 9
     },
@@ -723,7 +1028,7 @@
       "primary_keyword": "long sleeve top",
       "au_volume": 18100,
       "us_volume": 18100,
-      "current_title": "Long Sleeve Tops \u2013 Melani the label",
+      "current_title": "Long Sleeve Tops – Melani the label",
       "current_h1": "Long Sleeve Tops",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -731,9 +1036,6 @@
         "serp-pattern://long-sleeve-tops/1",
         "serp-pattern://long-sleeve-tops/2"
       ],
-      "content_brief_doc_id": "1e2rhIeYnD39_0Y0sbpbx3igS5DLRfbFNfq8pGa4bPpM",
-      "content_brief_url": "https://docs.google.com/document/d/1e2rhIeYnD39_0Y0sbpbx3igS5DLRfbFNfq8pGa4bPpM/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "crop-tops",
         "lace-tops",
@@ -741,9 +1043,7 @@
         "tops",
         "long-sleeve"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694158743",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158743",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": false,
       "supplemental_keyword_count": 9
     },
@@ -763,7 +1063,7 @@
       "primary_keyword": "bodysuit",
       "au_volume": 12100,
       "us_volume": 47500,
-      "current_title": "Bodysuits \u2013 Melani the label",
+      "current_title": "Bodysuits – Melani the label",
       "current_h1": "Bodysuits",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -771,9 +1071,6 @@
         "serp-pattern://bodysuit/1",
         "serp-pattern://bodysuit/2"
       ],
-      "content_brief_doc_id": "1zEeZg1vE7ZR1Bx00xeT5R-yNFhsVGHaDmVz4fCObtDY",
-      "content_brief_url": "https://docs.google.com/document/d/1zEeZg1vE7ZR1Bx00xeT5R-yNFhsVGHaDmVz4fCObtDY/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "minis",
         "long-sleeve-tops",
@@ -781,9 +1078,7 @@
         "tops",
         "lace-tops"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694102538",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694102538",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 10
     },
@@ -804,7 +1099,7 @@
       "keyword_note": "Changed from printed top because AU volume is 0; floral top has measurable AU and US demand.",
       "au_volume": 1600,
       "us_volume": 5700,
-      "current_title": "Printed Tops \u2013 Melani the label",
+      "current_title": "Printed Tops – Melani the label",
       "current_h1": "Printed Tops",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -812,9 +1107,6 @@
         "serp-pattern://printed-tops/1",
         "serp-pattern://printed-tops/2"
       ],
-      "content_brief_doc_id": "1nrngrpGB_k2mWFDkKeWfHr_p7w4JC47Dvqa6MS0mIXs",
-      "content_brief_url": "https://docs.google.com/document/d/1nrngrpGB_k2mWFDkKeWfHr_p7w4JC47Dvqa6MS0mIXs/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "long-sleeve-tops",
         "crop-tops",
@@ -822,9 +1114,7 @@
         "tops",
         "minis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694159205",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694159205",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 10
     },
@@ -844,7 +1134,7 @@
       "primary_keyword": "lace top",
       "au_volume": 6600,
       "us_volume": 22200,
-      "current_title": "Lace Tops \u2013 Melani the label",
+      "current_title": "Lace Tops – Melani the label",
       "current_h1": "Lace Tops",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -852,9 +1142,6 @@
         "serp-pattern://lace-tops/1",
         "serp-pattern://lace-tops/2"
       ],
-      "content_brief_doc_id": "1zVt51jtDcpG3OQJVw9RHHznz9bDDdWbXKJVUkt3GBIU",
-      "content_brief_url": "https://docs.google.com/document/d/1zVt51jtDcpG3OQJVw9RHHznz9bDDdWbXKJVUkt3GBIU/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "long-sleeve-tops",
         "crop-tops",
@@ -862,9 +1149,7 @@
         "tops",
         "minis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694158918",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694158918",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 9
     },
@@ -884,7 +1169,7 @@
       "primary_keyword": "lace dress",
       "au_volume": 5400,
       "us_volume": 33100,
-      "current_title": "Lace Dresses \u2013 Melani the label",
+      "current_title": "Lace Dresses – Melani the label",
       "current_h1": "Lace Dresses",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -892,9 +1177,6 @@
         "https://www.rebeccavallance.com/collections/lace-dresses",
         "https://shonajoy.com/collections/lace-dresses"
       ],
-      "content_brief_doc_id": "1HuKNLusyklMiym2AboONeQtJZGKrkZHdxvBcoKIW5_E",
-      "content_brief_url": "https://docs.google.com/document/d/1HuKNLusyklMiym2AboONeQtJZGKrkZHdxvBcoKIW5_E/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "maxis",
         "all-dresses",
@@ -902,9 +1184,7 @@
         "midis",
         "printed-dresses"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694135622",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135622",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 10
     },
@@ -921,7 +1201,7 @@
       "primary_keyword": "printed dress",
       "au_volume": 30,
       "us_volume": 330,
-      "current_title": "Printed Dresses \u2013 Melani the label",
+      "current_title": "Printed Dresses – Melani the label",
       "current_h1": "Printed Dresses",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -929,9 +1209,6 @@
         "serp-pattern://printed-dresses/1",
         "serp-pattern://printed-dresses/2"
       ],
-      "content_brief_doc_id": "1zJuWv9wlaoaIdHKr5kc89QoVMpi6DlQULrGIS31E3mM",
-      "content_brief_url": "https://docs.google.com/document/d/1zJuWv9wlaoaIdHKr5kc89QoVMpi6DlQULrGIS31E3mM/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "lace-dresses",
         "maxis",
@@ -939,9 +1216,7 @@
         "gowns",
         "midis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694092054",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092054",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": false,
       "supplemental_keyword_count": 9
     },
@@ -961,7 +1236,7 @@
       "primary_keyword": "womens pants",
       "au_volume": 8100,
       "us_volume": 49500,
-      "current_title": "Pants \u2013 Melani the label",
+      "current_title": "Pants – Melani the label",
       "current_h1": "Pants",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -969,9 +1244,6 @@
         "serp-pattern://pants/1",
         "serp-pattern://pants/2"
       ],
-      "content_brief_doc_id": "1bx3VChrnTfF8BgIjoA1eolb3XMJHDojEtZIQSt0WtEg",
-      "content_brief_url": "https://docs.google.com/document/d/1bx3VChrnTfF8BgIjoA1eolb3XMJHDojEtZIQSt0WtEg/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "maxis",
         "minis",
@@ -979,9 +1251,7 @@
         "gowns",
         "midis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694091522",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091522",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": false,
       "supplemental_keyword_count": 9
     },
@@ -1001,7 +1271,7 @@
       "primary_keyword": "mini skirt",
       "au_volume": 14800,
       "us_volume": 74000,
-      "current_title": "Mini Skirts \u2013 Melani the label",
+      "current_title": "Mini Skirts – Melani the label",
       "current_h1": "Mini Skirts",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -1009,9 +1279,6 @@
         "serp-pattern://mini-skirts/1",
         "serp-pattern://mini-skirts/2"
       ],
-      "content_brief_doc_id": "19l9yQkiYeKjseT0RF1fHrydeoMSO2Z7ghqofeb_F50I",
-      "content_brief_url": "https://docs.google.com/document/d/19l9yQkiYeKjseT0RF1fHrydeoMSO2Z7ghqofeb_F50I/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "maxi-skirts",
         "midi-skirts",
@@ -1019,9 +1286,7 @@
         "minis",
         "maxis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694091524",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694091524",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": false,
       "supplemental_keyword_count": 6
     },
@@ -1041,7 +1306,7 @@
       "primary_keyword": "midi skirt",
       "au_volume": 14800,
       "us_volume": 18100,
-      "current_title": "Midi Skirts \u2013 Melani the label",
+      "current_title": "Midi Skirts – Melani the label",
       "current_h1": "Midi Skirts",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -1049,9 +1314,6 @@
         "serp-pattern://midi-skirts/1",
         "serp-pattern://midi-skirts/2"
       ],
-      "content_brief_doc_id": "1xV9nfJirTY2Xn55pxNijl9tpPgIri8FCCGOPCNAjB-Y",
-      "content_brief_url": "https://docs.google.com/document/d/1xV9nfJirTY2Xn55pxNijl9tpPgIri8FCCGOPCNAjB-Y/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "maxi-skirts",
         "mini-skirts",
@@ -1059,9 +1321,7 @@
         "midis",
         "maxis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694135575",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694135575",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 9
     },
@@ -1081,7 +1341,7 @@
       "primary_keyword": "maxi skirt",
       "au_volume": 22200,
       "us_volume": 74000,
-      "current_title": "Maxi Skirts \u2013 Melani the label",
+      "current_title": "Maxi Skirts – Melani the label",
       "current_h1": "Maxi Skirts",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -1089,9 +1349,6 @@
         "serp-pattern://maxi-skirts/1",
         "serp-pattern://maxi-skirts/2"
       ],
-      "content_brief_doc_id": "1yidSo5QODz3RKxsJ4LKwkMw12rX2Dj7flq1U76NzFUc",
-      "content_brief_url": "https://docs.google.com/document/d/1yidSo5QODz3RKxsJ4LKwkMw12rX2Dj7flq1U76NzFUc/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "midi-skirts",
         "mini-skirts",
@@ -1099,9 +1356,7 @@
         "maxis",
         "minis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694092058",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092058",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": true,
       "supplemental_keyword_count": 8
     },
@@ -1121,7 +1376,7 @@
       "primary_keyword": "tailored clothing",
       "au_volume": 320,
       "us_volume": 1500,
-      "current_title": "Tailored \u2013 Melani the label",
+      "current_title": "Tailored – Melani the label",
       "current_h1": "Tailored",
       "current_meta_description": "",
       "last_scraped": "2026-05-10",
@@ -1129,9 +1384,6 @@
         "serp-pattern://tailored/1",
         "serp-pattern://tailored/2"
       ],
-      "content_brief_doc_id": "1L9zl_nQZyqN7U9Zca52lDAkQjJpnwasp0rdbrX8rwro",
-      "content_brief_url": "https://docs.google.com/document/d/1L9zl_nQZyqN7U9Zca52lDAkQjJpnwasp0rdbrX8rwro/edit",
-      "content_brief_updated_at": "2026-05-10",
       "internal_link_targets": [
         "maxis",
         "minis",
@@ -1139,9 +1391,7 @@
         "gowns",
         "midis"
       ],
-      "brief_status": "ready_for_writer_with_warnings",
-      "monday_content_brief_task_id": "2694092060",
-      "monday_content_brief_task_url": "https://laurencedeer.monday.com/boards/5028353257/pulses/2694092060",
+      "brief_status": "needs_rebuild_after_keyword_repair",
       "search_console_enriched": false,
       "supplemental_keyword_count": 5
     }
@@ -1155,13 +1405,13 @@
   },
   "qa": {
     "last_sidecar_sync": {
-      "date": "2026-05-10",
-      "live_keyword_count": 139,
-      "live_pair_count": 278,
+      "date": "2026-05-26",
+      "live_keyword_count": 237,
+      "live_pair_count": 312,
       "collections_with_live_keywords": 26,
       "included_collections": 27
     },
-    "keyword_export_note": "Live MCP verified 139 keywords / 278 pairs on 2026-05-10; /tmp export mirrors target coverage for offline validation."
+    "keyword_export_note": "Live MCP verified 237 keyword rows / 312 pairs on 2026-05-26 after approved capacity cleanup; some keywords are tracked on one engine and others on both AU/US engines."
   },
   "brand_denylist": [
     "kmart",

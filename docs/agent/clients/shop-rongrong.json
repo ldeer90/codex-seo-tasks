@@ -4,7 +4,7 @@
   "brand_voice": "Warm, creative, and practical. Shop Rongrong sells planner stickers, sticker books, journals, notebooks, PET tape, and stationery for women who want their planning and journaling to feel expressive without becoming fussy. Copy should sound like it understands planner culture: useful, upbeat, product-specific, and never generic craft-store filler.",
   "tone_direction": "Lead with what the product helps the shopper make or organise: planning, journaling, scrapbooking, sticker storage, gifting, or seasonal decoration. Avoid vague style claims, unsupported comparisons, and keyword-stuffed wording.",
   "domain": "www.shoprongrong.com",
-  "market_scope": "AU",
+  "market_scope": "US",
   "usp": "Free U.S. shipping on orders over $100",
   "brand_denylist": [
     "amazon",
@@ -22,12 +22,12 @@
     "project_id": 11560829,
     "duplicate_inactive_project_id": 11619515,
     "engines": {
-      "AU": 1030519
+      "US": 1030519
     },
-    "keyword_count": 519,
-    "pair_count": 519,
-    "last_synced": "2026-05-11",
-    "notes": "SE Ranking live read returned one active project search engine: site_engine_id 1030519, search_engine_id 200, region_id 0, lang_code en. Kept under AU because current LD SEO collection workflows are AU-only unless a client is explicitly dual-market."
+    "keyword_count": 494,
+    "pair_count": 494,
+    "last_synced": "2026-05-26",
+    "notes": "SE Ranking live read returned one active project search engine: site_engine_id 1030519, search_engine_id 200, region_id 0, lang_code en. Client confirmed US-based on 2026-05-12; use US market assumptions for new keyword work."
   },
   "drive": {
     "client_folder_id": "1TTxwqCl5JurXCyva9kGK9rz5v66YzaXU",
@@ -165,7 +165,7 @@
       ],
       "primary_keyword": "sticker collection book",
       "tracking_required": true,
-      "tracking_note": "Selected over 'sticker books' because the AU volume check returned measurable demand for this close variant.",
+      "tracking_note": "Originally selected from an AU volume check before market scope was confirmed. Refresh US keyword volume before briefing or tracking changes.",
       "au_volume": 170,
       "current_title": "Sticker Book | Cute Planner Sticker Books & Albums for Adults",
       "current_h1": "Sticker Books",
@@ -235,7 +235,7 @@
       ],
       "primary_keyword": "washi tape",
       "tracking_required": true,
-      "tracking_note": "The exact 'pet tape' AU volume check returned 0, while 'washi tape' has measurable demand and overlapping craft intent. Validate SERP intent before writing copy.",
+      "tracking_note": "Earlier AU volume checks found no exact 'pet tape' demand and stronger 'washi tape' demand. Refresh US volume and validate SERP intent before writing copy.",
       "au_volume": 5400,
       "current_title": "PET Tape",
       "current_h1": "PET Tape",
@@ -338,7 +338,7 @@
       "Shopify sitemap/product JSON discovery"
     ],
     "known_warnings": [
-      "The site appears US-facing in page copy, but this sidecar is configured AU-only to match current LD SEO workflow defaults. Confirm market scope before new keyword additions.",
+      "Client confirmed US-based on 2026-05-12. Earlier AU keyword-volume fields remain historical workflow evidence only; refresh US volumes before new keyword additions.",
       "Shopify product JSON discovery previously looked unreliable for this site; 2026-05-11 discovery found product samples for many collections, but promotional slugs were still filtered out.",
       "Several high-priority commercial collections have generic H1s or broad fallback keywords and need collection SEO refinement before content briefs.",
       "The 2026-05-11 five-page crawl showed robots noindex,nofollow metadata on at least sticker-books, stickers, and planner-and-sticker-bundles. Confirm indexability before prioritising content work."
